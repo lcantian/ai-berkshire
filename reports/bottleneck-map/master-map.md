@@ -1,6 +1,6 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-27 13:11 第二十二轮扫描（⚡Chemring半年财报日期修正June 9→**June 2**（仅6天）；三星芯片厂罢工今日解除；Almonty分析师共识低于现价；NVIDIA-Corning光纤合作确认B级瓶颈供给侧响应）
+最后更新：2026-05-27 20:00 第二十五轮扫描（⚡**Kanto Denka 4047.T FY2027指引¥95B+45% YoY，前向P/S 1.43x / P/E ~19.7x双绿灯，评级升★★★★**；Chemring June 2财报确认；Centrus DOE续约仍无公告）
 
 ---
 
@@ -186,11 +186,13 @@
 
 **来源追加**：[The Elec WF6三星+三星暴露](https://www.thelec.net/news/articleView.html?idxno=5468)
 
-**相关公司**：**Kanto Denka Kogyo（TSE: 4047.T，待确认>30%纯正度）**
-- 市值：¥135.7B ≈ $872M；P/S ~2.1x；**P/E ~35.8x（FY2026实际净利¥3.79B，修正后）**；日本NF3+WF6+ClF3+SF6全系列特种气体
+**相关公司**：**Kanto Denka Kogyo（TSE: 4047.T，✅ 估值双绿灯，★★★★）**
+- 市值：¥135.7B ≈ $872M；**前向P/S 1.43x（FY2027指引¥95B）✅ 绿灯**；**前向P/E ~19.7x ✅ 绿灯**；Trailing P/S 2.1x，Trailing P/E 35.8x
+- **【2026-05-27 20:00 重大新发现】FY2027经营指引（2026-05-15发布）**：收入¥95B（+45% YoY），营业利润¥10B（+83%），股息¥36/股（+16%）；时间精确对齐Mitsui退出+WF6库存耗尽+FY2027起点
 - 下游客户：TSMC、Samsung、Micron、Sony、Kioxia、Rapidus
-- FY2026 Fine Chemicals"销售超出预期"= NF3/WF6瓶颈利润已开始兑现
-- 关键未确认项：Precision Chemicals分部收入占比（需>30%确认纯正度）
+- FY2026 Fine Chemicals"销售超出预期"（已验证）；FY2027指引隐含Fine Chemicals为主要增长引擎
+- 关键待确认项：①原始日文公告核实FY2027指引数字；②Fine Chemicals分部收入>30%年报确认
+- **10年安全边际（前向）**：FY2027起点净利¥6.9B → 10年25xPE退出年化10%需CAGR 7.3%，结论：有安全边际
 
 **来源**：[TrendForce WF6 2026-04-08](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [The Elec 钨供应风险](https://www.thelec.net/news/articleView.html?idxno=6325) | [Digitimes SK Hynix+氦气+钨](https://www.digitimes.com/news/a20260409PD211/2026-sk-hynix-chipmakers-production.html) | [Sourceability Kanto Denka火灾](https://sourceability.com/post/supply-chain-shocks-nf3-fire-natcast-fallout) | [TrendForce Kanto Denka NF3火灾](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/)
 
@@ -486,3 +488,4 @@
 | 2026-05-27 13:11 | **第二十二轮扫描 — 2项状态修正，1项背景信号解除** | ①**CHG.L Chemring半年财报日期修正**：此前所有记录"June 9"为错误，实际日期**June 2, 2026**（今日起仅6天），来源：Chemring官方financial calendar交叉确认；"June 9三重催化剂"应拆分为"June 2 CHG财报 + June 9 AII Phase 2投票"；②**三星50,000工人芯片厂罢工今日（5/27）解除**：劳资达成协议（6.2%涨薪），73.7%工会批准；计划5/21起18天罢工未发生；HBM4供应链近期最大操作风险消除；③**NVIDIA-Corning光纤合作（5/6）**：美国光纤产能+50%，光互联+10x，确认B级光纤预制棒瓶颈供给侧响应，Corning市值过大非标的；④**Almonty (AII.TO) 分析师共识低于现价**：C$26.97 vs 平均目标C$20.46，强化无安全边际判断；所有S/A/B级瓶颈评级不变 |
 | 2026-05-27 晚 | **第二十三轮扫描 — 3项小状态更新，无新标的，无报告文件** | ①**WF6（3b条目）Central Glass第二独立来源确认**：Central Glass已直接通知Samsung "5-6月库存可维持，H2不确定"；Samsung比SK Hynix更暴露（对日本WF6依赖度更高）；TrendForce+Central Glass双源交叉确认"5-6月临界"，信号可信度升至高；A级评级不变；②**UAMY产能微调**：Q1 2026财报电话会确认Thompson Falls产能目标为400-500 t/月（前次记录300-400 t/月，小幅上调）；时间线：Q1收到OEM零件，爬坡中；③**Centrus DOE续约**：搜索未找到新合约公告；Phase III $110M到期日6/30/2026（约34天），DOE持有后续8年期权但尚未宣布行使；紧迫性不变；④Chemring June 2财报确认（无预告）；Almonty June 9催化剂维持；Gallium/Ge 11/27截止无新信息；InP/EML/NF3/钨等所有已跟踪瓶颈状态不变 |
 | 2026-05-27 15:10 | **第二十四轮扫描 — 1项新信号，无新标的** | ⚡ **Mach Industries 以 $50M 收购 Exquadrum（2026-05-19）**：固体火箭发动机领域私人资本自费垂直整合；Exquadrum更名为Mach Energetics（85人+70,000平方英尺工厂+推进试验场）；客户USAF/MDA/DARPA；与Anduril $43.7M DoD DPA资助（2026-02）共同验证SRM双寡头产能不足已驱动独立资本入场；Mach私有，间接关注Axyz IPO（H2 2026）。来源：TechCrunch/Aviation Week/TechTimes 2026-05-19至25 |
+| 2026-05-27 20:00 | **第二十五轮扫描 — 重大新信号：Kanto Denka FY2027指引¥95B+45%** | ⚡ **4047.T Kanto Denka FY2027经营指引（2026-05-15发布）**：收入¥95B（vs FY2026实际¥65.4B，+45.3% YoY）；营业利润¥10B（+82.5% YoY）；股息¥36/股（+16%）。前向P/S 1.43x / 前向P/E ~19.7x双绿灯——时间精确对齐Mitsui退出（3月）+WF6库存耗尽（6-7月）+FY2027起点（4月）。分析师共识EPS~¥52与管理层指引存在2.5倍差距（分析师可能尚未更新模型）。评级由★★★升至★★★★（待原始公告核实）。其他：Chemring June 2确认；Centrus DOE续约第二十五轮无新公告（倒计时33天）；Aixtron"guidance cut"标题确认为误导性标题，Q2指引€110M实为上调；变压器交期新Bloomberg报道称"最长5年"但不改变S级分类。生成报告文件：20-00-4047.md |

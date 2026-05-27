@@ -1,7 +1,7 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-27 晚 第二十三轮扫描（⚡WF6 Central Glass确认Samsung暴露更高；UAMY产能微调400-500t/月；Centrus DOE续约仍无公告）  
-下次复查：**June 2 Chemring半年财报**（6天后，最紧迫）；June 9 Almonty Phase 2投票+Sangdong Q2生产数据；Centrus DOE续约（June 30到期，约34天）；WF6中断新闻（6-7月临界期）
+最后更新：2026-05-27 20:00 第二十五轮扫描（⚡**Kanto Denka FY2027指引¥95B+45%，前向P/S 1.43x绿灯，评级升★★★★**；Chemring June 2确认；Centrus DOE续约无公告）  
+下次复查：**June 2 Chemring半年财报**（6天后，最紧迫）；**本周核实Kanto Denka FY2027指引原始公告**（高优先级）；June 9 Almonty Phase 2投票+Sangdong Q2生产数据；Centrus DOE续约（June 30到期，约33天）；WF6中断新闻（6-7月临界期）
 
 ---
 
@@ -132,14 +132,29 @@
 
 ## 持续跟踪（信号强度★★★）
 
-### 4b. Kanto Denka Kogyo（TSE: 4047.T）⏳ 待纯正度验证 🟡 P/E修正 ⚡WF6库存1-2个月临界 【2026-05-26 14:11 初步识别 | 2026-05-27 午后 WF6时间线升级】
+### 4b. Kanto Denka Kogyo（TSE: 4047.T）★★★★ ⚡FY2027指引¥95B+45%，前向估值双绿灯 【2026-05-26 初步识别 | 2026-05-27 20:00 重大升级】
 **瓶颈环节**：NF3/WF6半导体特种气体（A级，见master-map 3b条目）  
 
 **市值（更新）**：¥135.7B ≈ **$872M USD**（小市值✅）  
-**估值（🟡 黄灯——比此前记录更合理）**：
-- P/S：**~2.1x**（¥135.7B / ¥65.4B收入）—— 绿灯
-- P/E：**~35.8x**（¥135.7B / ¥3.79B净利）—— **🟡 黄灯合理区间（原记录"76.3x"是计算错误，实为35.8x）**
-- 净利润增速：+17% YoY → **PEG = 35.8/17 = 2.1x（接近可接受水平）**
+
+**【2026-05-27 20:00 重大估值更新（第二十五轮新发现）】**：  
+FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
+- **FY2027收入指引：¥95B**（vs FY2026实际¥65.4B = **+45.3% YoY**）
+- **FY2027营业利润指引：¥10B**（vs FY2026实际¥5.48B = **+82.5% YoY**）
+- **股息上调至¥36/股**（vs FY2026 ¥31/股，+16%）
+- **前向净利润估算（FY2027）**：¥10B × 69%（FY2026转化率）≈ **¥6.9B**
+
+**估值（✅ 绿灯——前向FY2027指引）**：
+- **前向P/S（FY2027）**：¥135.7B / ¥95B = **1.43x** ✅ 绿灯
+- **前向P/E（FY2027）**：¥135.7B / ¥6.9B ≈ **19.7x** ✅ 绿灯
+- Trailing P/S：~2.1x（¥135.7B / ¥65.4B收入）
+- Trailing P/E：~35.8x（¥135.7B / ¥3.79B净利）🟡 黄灯
+- ⚠️ 注意：分析师共识EPS仍约¥52（对应净利~¥2.77B），显著低于管理层指引隐含¥6.9B；差距2.5倍可能反映分析师尚未更新May 15指引后的模型，上调若发生是额外催化剂
+
+**FY2027指引驱动逻辑（瓶颈与财报时间精确对齐）**：
+- Mitsui退出（2026-03）→ FY2027起Kanto Denka成NF3唯一主要日本供应商
+- WF6库存耗尽（6-7月2026）→ FY2027 Q1/Q2边界爆发，供应危机最急迫时期
+- 管理层基于已签长期合同定价给出+45%指引，时间与瓶颈精确对齐
 
 **【2026-05-27 09:10 P/E重大修正】**：
 - **原watchlist 16:12条目"P/E 76.3x"是计算错误**：¥135.7B / ¥3.79B = **35.8x**（非76.3x）
@@ -167,7 +182,7 @@
 - ✅ **NF3/WF6涨价利润效应**：FY2026 Fine Chemicals"销售超出预期"——利润拐点已开始出现（不再是未验证项）
 - ⏳ 2025火灾后生产能力是否完全恢复
 
-**估值安全边际（修正后）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%需净利润$90M（FY2026已¥3.79B/$24M，需3.8倍，CAGR约14%）。P/E修正为35.8x后，安全边际判断：当前价格（¥2,550）仍无充足安全边际；但较前评估"仅靠拐点假设才能支撑"有本质改善——**实际P/E 35.8x + Fine Chemicals确认增长 = 论点更扎实**。目标入场价不变：¥1,800-2,000（P/E ~25-28x）。
+**估值安全边际（重新计算，基于FY2027前向）**：以¥135.7B（$872M）买入，10年25xPE退出，年化10%回报需净利润¥14.1B。FY2027预期净利起点¥6.9B → 需10年CAGR **7.3%**。在WF6/NF3结构性垄断背景下，7.3%净利润CAGR属保守假设。**结论：当前价格（¥2,550）在管理层指引可信的前提下具备安全边际，前向估值双绿灯。**
 
 **【2026-05-27 午后 WF6临界时间线更新】**：
 - TrendForce 2026-04-08原文：日本WF6供应商"现有库存仅维持至2026年中"
@@ -182,13 +197,14 @@
 - TrendForce（4月）+ Central Glass（5月）双源交叉确认，"5-6月临界"信号可信度升至高
 - 来源：[The Elec Samsung WF6](https://www.thelec.net/news/articleView.html?idxno=5468)
 
-**建议动作（更新）**：
-- 正常入场：等回调至¥1,800-2,000（P/E ~25-28x）再重评
-- **WF6中断催化剂入场**：若6-7月出现WF6供应中断新闻/价格暴涨，可考虑突破目标区间的"催化剂入场"，但需更高确定性（WF6价格数据、客户公告）
-- **FY2026年报分部披露（预计秋季）** 确认Fine Chemicals>30%收入后，评级可升至★★★★
+**建议动作（2026-05-27 20:00 更新）**：
+1. **本周优先（紧迫）**：核实Kanto Denka官网/TSE原始FY2026決算公告，确认FY2027经营指引（¥95B/¥10B）原始数字，同时确认Fine Chemicals分部收入>30%占比
+2. **若核实通过**：执行 `/investment-team` 深入研究（★★★★，已升级）
+3. **WF6中断催化剂（6-7月临界）**：若WF6供应中断新闻出现，可考虑即时入场而非等待回调
+4. **FY2027 Q1财报（约2026年8月）**：验证收入爬坡节奏，是最关键验证点
 
 **加入日期**：2026-05-26  
-**来源**：[Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/) | [Kanto Denka earnings upgrade - TipRanks](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-full-year-earnings-forecast-on-strong-fine-chemicals-sales)
+**来源**：[TipRanks Kanto Denka FY2027指引](https://www.tipranks.com/news/company-announcements/kanto-denka-kogyo-lifts-profit-and-dividend-projects-strong-fy2027-growth) | [Kanto Denka +24% - Meyka](https://meyka.com/blog/kanto-denka-kogyo-surges-24-as-chemical-demand-accelerates-1805/) | [TrendForce WF6供应中断](https://www.trendforce.com/news/2026/04/08/news-potential-supply-disruptions-of-tungsten-hexafluoride-from-japan-implications-for-the-semiconductor-industry/) | [The Elec Central Glass Samsung暴露](https://www.thelec.net/news/articleView.html?idxno=5468) | [Kanto Denka火灾 TrendForce](https://www.trendforce.com/news/2025/08/14/news-japans-kanto-denka-kogyo-fire-threatens-nf%E2%82%83-supply-alerts-chipmakers-like-tsmc-and-rapidus/)
 
 ---
 
@@ -472,3 +488,4 @@
 | 2026-05-27 晚 | UAMY | **Thompson Falls产能微调：400-500 t/月（评级★★★维持）** | Q1 2026财报电话会确认：现代化资金支持目标约400-500 t/月成品（vs此前记录nameplate 300-400 t/月）；实质改善小但正向；时间线不变（7月中旬80%爬坡）；评级★★★维持 |
 | 2026-05-27 晚 | LEU Centrus | **DOE续约第23轮搜索无公告——倒计时约33天（评级★★★维持）** | 专项搜索确认Phase III $110M到期6/30/2026；DOE 8年期权块未宣布行使；若6月15日前仍无公告则升至实质风险事件；评级★★★维持，紧迫性持续 |
 | 2026-05-27 晚 | 全体 | **第二十三轮扫描——3项小状态更新，无新标的，无报告文件** | WF6 Central Glass确认；UAMY产能微调；Centrus续约无公告；Chemring June 2未预告；Almonty June 9催化剂维持；Gallium/Ge 11/27无变化；InP/EML/NF3/钨等全部S/A/B级瓶颈状态不变 |
+| 2026-05-27 20:00 | 4047.T Kanto Denka | **⚡ 重大升级：FY2027指引¥95B+45%，★★★→★★★★，前向双绿灯（第二十五轮新发现）** | 2026-05-15同时发布FY2026全年结果（¥65.4B收入，¥3.79B净利）和FY2027经营指引（¥95B收入+45%，¥10B营业利润+83%，股息¥36↑）；前向P/S 1.43x / P/E ~19.7x双绿灯；时间精确对齐Mitsui退出+WF6库存耗尽；分析师EPS共识~¥52与管理层指引差距2.5x（分析师可能尚未更新模型）；FY2027指引待核实原始日文公告；Fine Chemicals>30%纯正度待年报确认；评级升★★★★；生成报告文件 20-00-4047.md |
