@@ -50,9 +50,9 @@
 
 仓库里是完整的框架和全量报告，公众号里是**精选**——真正值得下注的公司深度研究，加上报告之外我自己的判断与取舍：
 
-<img src="assets/wechat-qr.png" width="160" alt="微信公众号：投资丹师" />
+<img src="assets/wechat-qr.png" width="160" alt="微信公众号：复利炼丹炉" />
 
-**投资丹师** —— 用 AI 炼投研这颗丹。
+**复利炼丹炉** —— 用 AI 炼投研这颗丹。
 
 ---
 
@@ -705,6 +705,6 @@ MIT License
 
 ## Star History
 
-如果这个项目对你有帮助，请给一个 Star 支持！精选公司研究与个人判断首发于微信公众号「**投资丹师**」（二维码见[文首](#精选研究首发于公众号)）。
+如果这个项目对你有帮助，请给一个 Star 支持！精选公司研究与个人判断首发于微信公众号「**复利炼丹炉**」（二维码见[文首](#精选研究首发于公众号)）。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xbtlin/ai-berkshire&type=Date)](https://star-history.com/#xbtlin/ai-berkshire&Date)
