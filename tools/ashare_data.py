@@ -23,10 +23,20 @@ from decimal import Decimal, ROUND_HALF_EVEN
 _TIMEOUT = 15
 
 
+def _find_curl():
+    """查找可用的 curl 路径（兼容 Windows Git Bash / macOS / Linux）。"""
+    import shutil
+    for cand in ("curl", "/mingw64/bin/curl", "/usr/bin/curl"):
+        p = shutil.which(cand) if "/" not in cand else (cand if os.path.exists(cand) else None)
+        if p:
+            return p
+    return "curl"
+
+
 def _curl(url):
     """用 curl --noproxy 直连，绕过系统代理。"""
     result = subprocess.run(
-        ["/usr/bin/curl", "-s", "--noproxy", "*",
+        [_find_curl(), "-s", "--noproxy", "*",
          "-H", "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
          url],
         capture_output=True, timeout=_TIMEOUT,
