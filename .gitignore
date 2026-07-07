@@ -25,3 +25,24 @@ reports/美团/command-log.jsonl
 reports/portfolio-latest.md
 
 # 实盘记录/ 公开权重口径版；原始账本（含股数/金额）在 local/实盘记录-原始/（已被 /local/ 规则覆盖）
+
+# ===== Claude Code 本地状态与抓取缓存（永不入库）=====
+.claude/
+
+# ===== 数据采集中间产物（不入库，仅本地）=====
+# data/ 下保留已入库的真实数据资产：fundamentals.json / watchlist.json /
+# correlation_3stocks_*.csv / cross_asset_10y_*.csv / morningstar_fair_value_*.csv
+# 忽略各研究报告生成过程中的临时采集 JSON、抽检 JSON 与日志
+*.log
+data/audit_*.json
+data/*_audit_*.json
+data/*_funnel_audit_*.json
+data/*_quality_*.json
+data/*_tickers_*.json
+data/*_hk_us_*.json
+data/ai_*.json
+data/auto_*.json
+data/fb_*.json
+data/sm_*.json
+data/app_*.json
+data/appliance_*.json
