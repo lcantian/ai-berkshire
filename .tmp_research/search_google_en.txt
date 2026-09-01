@@ -1,0 +1,34 @@
+[Q1] Eramet Centenario Ratones Argentina DLE lithium cash cost per tonne -> NO FILE: 000|0
+
+==========[Q2] Eramet Argentina lithium 24000 tonne production cost 2025==========
+(curl: 200|84028, size=84028)
+
+==========[Q3] Livent Allkem Hombre Muerto DLE production cost USD per tonne==========
+(curl: 200|91663, size=91663)
+[Q4] SQM Albemarle Salar de Atacama brine lithium cost per tonne -> NO FILE: 000|0
+
+==========[Q5] Core Lithium Finniss suspended January 2024 C1 cost==========
+(curl: 200|91683, size=91683)
+
+==========[Q6] Liontown Kathleen Valley ramp up delay 2024 2025 production==========
+(curl: 200|91797, size=91797)
+
+==========[Q7] Pilbara Minerals C1 cash cost FY2025 FOB spodumene==========
+(curl: 200|84035, size=84035)
+
+==========[Q8] Sigma Lithium cash cost Brazil Grota do Cirilo==========
+(curl: 200|79972, size=79972)
+
+==========[Q9] Goulamina Mali lithium Firefinch Ganfeng cash cost==========
+(curl: 200|91686, size=91686)
+[Q10] Arcadium Lithium Mt Cattlin care maintenance 2025 -> NO FILE: 000|0
+
+==========[Q11] Albemarle cost reduction 2024 layoffs Kemerton Wodgina==========
+(curl: 200|67770, size=67770)
+
+==========[Q12] Zimbabwe lithium export ban 2026 Arcadia Bikita==========
+(curl: 200|91619, size=91619)
+
+==========[Q13] Ganfeng Lithium Mariana Argentina DLE cost==========
+(curl: 200|77144, size=77144)
+[Q14] direct lithium extraction DLE cost comparison brine evaporation 2024 -> NO FILE: 000|0

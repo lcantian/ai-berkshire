@@ -1,0 +1,52 @@
+
+========== ddg_mgmt.txt (size 14252) ==========
+
+========== ddg_rev.txt (size 14244) ==========
+
+========== ddg_sdn1.txt (size 34007) ==========
+
+[1] Sanctions List Search
+    URL: https://sanctionssearch.ofac.treas.gov/Details.aspx?id=30946
+    SDN List last updated on: 7/23/2026 2:06:18 PM Non-SDN List last updated on: 7/17/2026 10:08:19 AM
+
+[2] Sanctions List Search
+    URL: https://sanctionssearch.ofac.treas.gov/
+    Sanctions List Search An error has occured. Reload Sanctions Search Tool
+
+[3] Sanctions List Service - Office of Foreign Assets Control
+    URL: https://ofac.treasury.gov/sanctions-list-service
+    Sanctions List Service OFAC's Sanctions List Service (SLS) provides users with easy access to the most up-to-date Sanctions Lists and Sanctions list data ready for immediate download. Users can choose to download from either the Specially Designated Nationals (SDN) List or the Consolidated (non-SDNs) List.
+
+[4] Sanctions List Search Tool - Office of Foreign Assets Control
+    URL: https://ofac.treasury.gov/sanctions-list-search-tool
+    Sanctions List Search Tool OFAC's Sanctions List Search tool employs fuzzy logic on its name search field to look for potential matches on the Specially Designated Nationals (SDN) List and on its Non-SDN Consolidated Sanctions List.
+
+[5] Hangzhou Hikvision Digital Technology Co., Ltd. - OpenSanctions.org
+    URL: https://www.opensanctions.org/entities/NK-HYQpJVFfjnrATqKwpZpit7/
+    Hangzhou Hikvision Digital Technology Co., Ltd. is a company registered in China, which is sanctioned, debarred and subject to export controls. View the full profile and source data on OpenSanctions.
+
+[6] OpenSanctions: The open database of sanctions, PEPs and watchlists
+    URL: https://www.opensanctions.org/
+    The open-source database of sanctions, watchlists, and politically exposed persons — aggregating hundreds of sources and relied on by compliance teams, investigators, and journalists.
+
+[7] EAR entity-list | Bureau of Industry and Security
+    URL: https://media.bis.gov/regulations/ear/part-744/section-744.16/entity-list
+    Website of the United States Bureau of Industry and Security
+
+[8] Export Controls and Sanctions Tracker - US-China Business Council
+    URL: https://www.uschina.org/articles/export-controls-and-sanctions-tracker/
+    The export controls and sanctions tracker lists all active Commerce, Treasury, and State Department export controls aimed at China—including Hong Kong. This tracker is updated regularly and an archived tab will be added in the future as entities and individuals are removed from US government blacklists.
+
+[9] Sanctions by the Numbers: 2024 Year in Review | CNAS
+    URL: https://www.cnas.org/publications/reports/sanctions-by-the-numbers-2024-year-in-review
+    This installment of Sanctions by the Numbers examines the United States' use of financial sanctions—through the Treasury Department's Specially Designated Nationals and Blocked Persons (SDN) List—and entity-based export controls—via the Commerce Department's Entity List—in 2024.
+
+[10] China's Hikvision says it exits five contracts in Xinjiang | Reuters
+    URL: https://www.reuters.com/world/china/chinas-hikvision-says-it-exits-five-contracts-xinjiang-2024-12-13/
+    Chinese surveillance camera manufacturer Hikvision said on Friday that it had exited contracts it has in China's Xinjiang region via five of its subsidiaries that were added to a U.S. trade block ...
+
+========== ddg_sdn2.txt (size 14246) ==========
+
+========== ddg_sdn3.txt (size 14200) ==========
+
+========== ddg_share.txt (size 14270) ==========

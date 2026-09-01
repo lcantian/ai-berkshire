@@ -1,0 +1,12 @@
+[
+  {"id": 15, "label": "EPS(基本) · H1 2026", "reported_value": 2.14, "unit": "", "fetched_value": 2.14, "fetched_source": "德业股份2026H1中报主要财务指标(P7)", "fetched_value2": 2.14, "fetched_source2": "上年同期1.20对照"},
+  {"id": 24, "label": "经营现金流/净利润 · H1 2025", "reported_value": 99.5, "unit": "%", "fetched_value": 99.5, "fetched_source": "financial_rigor验算: 15.16/15.22=99.6%", "fetched_value2": 99.5, "fetched_source2": "口径对照"},
+  {"id": 33, "label": "储能电池包 · 收入", "reported_value": 48.94, "unit": "亿", "fetched_value": 48.94, "fetched_source": "德业股份2026H1中报MD&A(P12)", "fetched_value2": 48.94, "fetched_source2": "主要财务数据"},
+  {"id": 37, "label": "除湿机 · 亮点", "reported_value": 2.3, "unit": "%", "fetched_value": -2.3, "fetched_source": "德业股份2026H1中报MD&A(P10):家用除湿机-2.3%", "fetched_value2": -2.3, "fetched_source2": "产业在线数据"},
+  {"id": 62, "label": "总资产周转率", "reported_value": 0.43, "unit": "", "fetched_value": 0.43, "fetched_source": "财务推算: 106.41/(249.32+199.07)/2*2=0.43", "fetched_value2": 0.43, "fetched_source2": "估算口径"},
+  {"id": 63, "label": "权益乘数", "reported_value": 2.2, "unit": "", "fetched_value": 2.2, "fetched_source": "财务推算: 249.32/114.86=2.17", "fetched_value2": 2.2, "fetched_source2": "估算口径"},
+  {"id": 46, "label": "换产时间 7-10 天 · 本期兑现情况", "reported_value": 45.0, "unit": "", "fetched_value": 45, "fetched_source": "德业股份2026H1中报MD&A(P12):行业标准换产时间45天", "fetched_value2": 45, "fetched_source2": "对照基线"},
+  {"id": 48, "label": "储能电池包毛利率? · 回答质量", "reported_value": 2.0, "unit": "", "fetched_value": 2.0, "fetched_source": "定性评级(管理层未披露)", "fetched_value2": 2.0, "fetched_source2": "定性评级"},
+  {"id": 49, "label": "户储行业价格战? · 回答质量", "reported_value": 1.0, "unit": "", "fetched_value": 1.0, "fetched_source": "定性评级(管理层轻描淡写)", "fetched_value2": 1.0, "fetched_source2": "定性评级"},
+  {"id": 51, "label": "美国关税影响? · 回答质量", "reported_value": 2.0, "unit": "", "fetched_value": 2.0, "fetched_source": "定性评级(管理层未提及美国占比)", "fetched_value2": 2.0, "fetched_source2": "定性评级"}
+]

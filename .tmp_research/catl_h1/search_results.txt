@@ -1,0 +1,525 @@
+
+=====[so/qmeeting_so1] 宁德时代 2026年 中报 业绩说明会 纪要=====
+(curl: 200|390142, results: 7)
+  [1] 宁德时代2026 Q1 业绩 交流 纪要 _财富号_东方财富网
+      URL: https://www.so.com/link?m=e76qn7A6y0VYFOF9t61VWgw2hGm0MiCWLO5OECEjIbjq%2Fz7ShR9sOTs%2BfTYOXVXAdy0tIIV3DM3jqr%2Fbrslv6zHVZQ6aNUpuof%2Fk%2FRIMUJ3cik7DOP7WxlqC%2FOIutNtPWwWvgrzVsYfqhIC96dhhwTe6Y6WRy%2Bv4KfZ6dZak01%2FfQ%2BRfYru0djtjaSUKIvYjMDjnSuGqZxevcx
+      SNIP: 2026年4月15日 - 根据SNE数据, 2026年 1-2月全球动力电池使用量市占率40.5%,同比提升1.8pct;中国地区市占率32.1%,同比提升2.2pct. 2026年 一季度实现总营收1291亿... caifuhao.eastmoney.com 反馈
+  [2] 宁德时代 :3月9日召开 业绩说明会 | 每经网
+      URL: https://www.so.com/link?m=wDbAF%2BUSZu8cZdYL7aLdRPZsIeQ6F%2FROzg35czSI6hEpLG20HPdqZ4648YUlwe7d0pLcHA9500VtHln4WNi%2BmjZSYUjCsA1SQDk2dQk%2B%2FUIDUntfRlTnjbIV9IE5klOlvtTHt%2FN52jb1lpo76LH%2BJoTwzvjx%2B%2BFuEvj4V9rKzsXpp46jbqZH%2BGElbUKS3elaX3EFapM9GT0I
+      SNIP: 2026年3月10日 - 每经AI快讯, 宁德时代 (SZ 300750,收盘价:370元)发布公告称, 2026年 3月9日,宁德时代召开 业绩说明会 ,与会投资者约1350人,公司董事会秘书兼副总经理蒋理等... www.nbd.com.cn 反馈
+  [3] 宁德时代 中报 交流 纪要 (转): 宁德时代 出席嘉宾:董秘蒋理,IR 林美娜QA:请教美国布局的情况: A: 业绩 看法: 业绩 也算... - 雪球
+      URL: https://www.so.com/link?m=zPls1mq9vu0f4dkpoMPce0WFoinuohlGXS8foegHJC6n6WW4%2FWbv8fc16Ef6plQ57A10JNGUsY7ZzcWgWZw9%2BPs0f1IOMT4mcCK72hj%2BAIOIu1WHJoTeeXSale5%2F5eTihWb63wp%2BaDNt6qcSpL7irOYLEldDNYd6v4bn9q9%2F%2BLVzSl6vPQr7LvAU0rVTZ44fYnWSEPOX7y6hqNBAhi
+      SNIP: 2022年8月23日 - QA:设备的招标的规划与产能不是特别一致: A:招标也并不是慢,有自己的额节奏和安排,未来展望要相对谨慎,前期产能储备比较充分 (福鼎、⻋里湾、宜宾等都...
+  [4] 老板说的对发布过的内容_36氪
+      URL: https://www.so.com/link?m=u82Fau57NlLUaNDkl5VhvsqQtWq0pNcxu5th9pT7IUM28yCjzyqPbRyDl12Ix%2BCQD8msngJPGiruU7%2BlzksY4lQVdFzIZ0PSwHS2QGvqCOfja%2FzcpfFKVlQH3FmTzIm%2Fa9bj3hJ79TFQwGVQihIsBHj2eWaTUU%2BVbYJDCG%2F1ckBWs3kcbZtsTKDSOAaM3tMB4rrTZH4G0PiX%2Bodkhh
+      SNIP: 2021年8月27日 - 全市场瞩目的 宁德时代 , 中报业绩 出来了,公司净利润为44.84亿,同比增长131.45%,稍微低于机构的预测!另外,前十大股东有四个二季度减持,其中高瓴... 36kr.com 反馈
+  [5] 宁德时代业绩 解读 会纪要 _财富号_东方财富网
+      URL: https://www.so.com/link?m=z5s6sncRJpweGdRjaSZaXK1%2BbmeKU6MZ1sivblFkMyLiLlAu%2BHninPeTpriY1%2F1ESkm97xIiiMqiVMZIhz3rznS2gtDUSibavxpMo3hnkiC%2FjXCfRNoJ2qrn6wzOL%2FoL3ItZ%2B62LpZrOEd1ra13IVIQxOk7iyZaVZLrwSQpRHAezqCamoX%2FhxsjOGIos4Pr3LCOIh8%2FdAmNzgflS
+      SNIP: 2022年5月1日 - 宁德时代 但是2021年以来碳酸锂的涨价,为公司的经营带来了压力,电解液等材料快速上涨,今年3月上涨同比超过1.7倍,作为动力电池的龙头企业,为了... caifuhao.eastmoney.com 反馈 TIME.rfTime = +new Date;
+  [6] 宁德时代业绩说明会纪要 - 维科号
+      URL: https://www.so.com/link?m=wHvIQ48SU%2B9pQG4jfq%2FoDkGyMUv6U7ezKG3C5SFPvpTb4luVgBkChbKZoTnQz5U8xHJGxZo5ZnGpP6XIvEtCwZZ46Sp9%2FFm4FGQ0h0aMK5birdDBdyluGcD2NbnvjeGQr6y88bTOm9RVrJgvWqVDPqHvHWEhNVuvS49VNdS6lYES3G6%2FVXvPPGO%2BEsdFpJj%2FvBx%2F3CWX8AIRJ1%2FH
+      SNIP: 2020年5月12日 - 5月11日,正值 特斯拉电池日 , 宁德时代 举行2019年度 业绩说明会 ,不得不说,双方这日子选得真巧.在业绩说明会上,对于 宁德时代 将为特斯拉哪些车型... mp.ofweek.com 反馈
+  [7] 8.26早盘:关注一个双主线 宁德时代 出 中报 。实现收入440.7亿元,同比增134%归母净利润44.8亿元,同比增131%扣非归母净利润39.2亿元... - 雪球
+      URL: https://www.so.com/link?m=u8cooZQGJSFak9M4hl4IcG0sVnrdNCxgcWyJDr5M2zJXVDVfoBIfRrRdfKqJmX5CNtq7xJecpteUQk9vIjLxEM%2BVFwCK5fYnNZ9Pgc8oIZJolElHPZ6BF9Wvx3nB5Kt8uK4kr5Aku%2BSGI8HEaQp4bW%2FZynuzoH%2F82vtKDFgiDur%2FpOJqrVneJaiMa%2FC7TQRKovBijm4UdneoIJ59fhxb
+      SNIP: 2021年8月26日 - 宁德 时代储能收入同比大增超7倍,是所以产品里面毛利率最高的。.技术分析一个双主线, 中报 业绩暴涨股。.更加督促我,要勤奋复盘,每天读研报,看 纪 ... xueqiu.com 反馈
+
+=====[so/qmeeting_so2] 宁德时代 2026 半年报 电话会 管理层=====
+(curl: 200|385967, results: 7)
+  [1] 宁德时代 (03750)FY25 电话会 :对 2026 年单位净利稳定持乐观态度_新浪财经_新浪网
+      URL: https://www.so.com/link?m=zODln30p3dCwWnkvvwT73bNmVYQvXJ2hqTI%2BNIuqa3FLXHLmlDSgY%2BJ5u8VcsMzj2dolgsxnGvPRviUTCW9QNTn91TXS4NUtbUZ6%2BlhTfDZOw%2Bym81yfp1qv3eYL3k%2BxqGDG%2Bg4goGFGROoUxGWIy3WvhGnwT1k0C07IaCZlJYGmkpySl%2Bz56VSpGa4%2FdLvOl6jQkpD8r15Tp%2B
+      SNIP: 2026年3月10日 - 对于 2026 年,尽管存在出口退税影响和一些突发事件(如中东局势)带来的不确定因素,但从整体看, 2026 年将是一个相对稳健的年份.因为 2026 年的市场... finance.sina.com.cn 反馈
+  [2] 宁德时代 (03750)FY25 电话会 :对 2026 年单位净利稳定持乐观态度
+      URL: https://www.so.com/link?m=w3eWfMvn5%2F5z3TVD1md1t4HCKZTKPOMxRQ5q6umy7Co%2B5c9fFadO1CBgX%2FCqgkzojBThM8V6WHbiZfVm9YgSGZvx1hXsSXVqKYX5zzxnGu6daPCmXOwcFEsx6OD7xRUN2x2bBUuXFlwXJrz0qFW3qv53HlIhseM5%2BXlQ4tXIJT%2FN9Ysijys%2BuZz8LYooy5Thou9fjsPDG4pQDGOWJxjO
+      SNIP: 2026年3月10日 - 宁德时代 (03750,300750.SZ)召开 FY25 年报电话会 。 www.zhitongcaijing.com 反馈
+  [3] 宁德时代 赢麻了:每天净赚2.4亿,掏400亿回购股份_新浪财经_新浪网
+      URL: https://www.so.com/link?m=zItchL1Q0jB3kqOiOpQ36MqT%2F0tTYtNLc8do5npY51T1nG%2B4U1A6LxgnaiqzOpyRQoIBDS2QF0noEb%2B63jjjlfc%2Bsg2CH3o%2Bye37HlZduHKp4kH2EG4OlMofkYcWNxVR9xYiwh6%2FBMTKOCT5Y2bDv77Tp01f8nQGUOZxs%2BpNHzc%2BMS9a4tD3EXFQ1Z4xYeQ0dAUBxboFVlA3MkH6
+      SNIP: 8小时前 - 宁德 时代2026年 半年报 业绩.财报公布当晚的 电话会 上,管理层的说法是,公司内部判断自身发展前景、财务状况、盈利水平及行业市场地位均具备突出优势,但受...
+  [4] 宁德时代 发布 2026半年报 :净利增长41.98%,推出最高400亿回购注销,该怎_财富号_东方财富网
+      URL: https://www.so.com/link?m=wNaWWwg1AyMGugicBmxH%2Bb3Nj8QkSHKigAs5DWUe%2FA1aoGMJVe8wCbqoc4WzQvuft6LaUH8Y3W9waUAp1ud0dR9XayOf1TDZjzUv8BnqFDXNNLEdr7yLINWkNhv7W49d2SYanfW1NwXEwfYf2Uz2SosXKTiY5WtKsm%2BMijxIldGbPg3sw9c84uuTlqjGxrCXOwlMrrP58u3J5xlTojQ3dHzov6
+      SNIP: 1天前 - 7月24日晚间, 宁德 时代正式披露 2026 年半年度报告,同时抛出一份市场高度关注的大额股份回购方案.整体来看, 宁德 时代这份 半年报 属于 稳字当头 .大额回购传...
+  [5] 宁德时代|2026 年中报业绩深度前瞻:动力电池量利齐升、储能爆发兑现、全球龙头估值重构 核心结论前置: 2026 年锂电板块核心逻辑彻底切换为需求高增、...
+      URL: https://www.so.com/link?m=uBYj1%2FB8oJ7s%2BkhVyOM11CV0gSte%2BOnrCNMDJkEN61IUAnGuHwcjoa3Efx5euFaV0mNFCfhrY6b27JQncW2nOCCGUlztISCqxSx5qKHEkFM848avpo22w1toaGWJMVG5lHFi%2B0I1Tu2kL5Pi65uj2seceQSzuyY8luk3l9T3idi1ub89m47pg4ftY1vccFSknFELuHCAS2Aw%2B7NvqeTZzV
+      SNIP: 2026年6月15日 - 宁德 时代作为全球动力电池绝对龙头、储能赛道标杆、全球化布局领先的核心标的,中报将验证出货高增、结构优化、毛利率持续修复、业绩超预期的反转逻辑,...
+  [6] 宁德时代2026 上半年净利润432.84亿元,同比增长41.98%
+      URL: https://www.so.com/link?m=wVo7r0qfuhLfkAJGRLXZ0IftnFPWnoB00XK7nHApSdhzOuYKKkDiJTDk4oAAJcE%2BaQC%2B1xfSRGSnqH8vo0yaQVHc%2FR8S9lq3TiQ90BkeQA6DUuS6XYSHzUCUh2FsWVApFc%2F2g1qDU2ny5AfHEL7rybQuyl%2BhByPVC7IX5JKbr0GCCpXcipVK%2FcLWyv0Bq4myUWUdZwTwUxVwvyaZhtEG
+      SNIP: 1天前 - 北京商报讯(记者蔺雨葳)7月24日, 宁德时代 披露的 2026 年半年度财报显示,公司上 半年 实现营业收入2769.17亿元,同比增长54.8%;归母净利润432.84亿元,同比增...
+  [7] 一分钟看懂 宁德时代2026半 年度报告_财富号_东方财富网
+      URL: https://www.so.com/link?m=e2FWMiBYiR%2FNjfGqqZJZUSYG2zQs9GruiaR7p4y4Y7BTpJurTxPUMzEotYnRZsuRpMxFTvIUe31O5OxYPjIlIjXrxueyLwrGEc%2FljE8kF%2B%2FTZ%2FVCa3gp68qtNuIavnviZjaT0CV0wgZFLAAIeeJOr7OtGnk4OhaphbyLteS8yBc4AV1KYZx2uH7yWmSwi8kKtBtHs2bYI7QHqAkzB1xgPg
+      SNIP: 20小时前 - 财报直击 2026 年07月25日 01:51上海.一分钟看懂 宁德时代2026半 年度报告 追加内容本文作者可以追加内容哦 ! 举报郑重声明:用户在社区发表的所有信息将由...
+
+=====[so/qmeeting_so3] 宁德时代 300750 2026 业绩会 曾毓群 周佳=====
+(curl: 200|398045, results: 7)
+  [1] 2026 两会 | 曾毓群 委员通道发声: 宁德时代 以创新领跑新能源_手机中金在线
+      URL: https://www.so.com/link?m=z2JA45VgDwUuRgfpVT6NEyKmV5tOLHydxsOX6SnMAgh%2BFj2Vl7rajmJHz7BV5Lxi0AGKXOZ1OwiBVNB%2FUjkeepSbQd4Hafj%2FzJ6PocgOXLw3MThwa6ZMAeiQcSmh87uof75pTuaf8QQRy0IDFAGo82ltL2rAqNXlw9H3MTkzx4ByfPPXweLGM0pnBX%2F6tebM9SkJDO7f%2FL3T3U9OMco5Y5
+      SNIP: 2026年3月4日 - 曾毓群 进一步介绍了 宁德 时代的发展历程与现状.目前, 宁德 时代拥有超过21000名研发人员,累计获得专利超过5万份...
+  [2] 宁德时代 :3月14日召开 业绩 说明 会|曾毓群 |财务总监|知名企业_网易订阅
+      URL: https://www.so.com/link?m=epB6MXycD1uZJ8oAAeSfXb4fG%2FqvcwRvC1I92dWWIhYLz%2BLfh%2FIHfMDH%2BllSyLt6xpvJZLTUCKFXytQxcOCXESD1nyCCS2thqivrKmFlNpVhqZproa1o90FdDWopo%2FaQfPW0SXT6%2BeLtWWzib7z7dy%2FfIc6pzpIwHBwUj6FHsHzx%2BSx%2BZtVEPEmZdA24qJ9s3vpg2%2Fxcm2p8
+      SNIP: 2025年3月17日 - 宁德时代 :3月14日召开 业绩 说明会, 曾毓群 ,宁德时代,财务总监,知名企业,业绩说明会
+  [3] 宁德时代 ( 300750 )股吧_ 宁德时代 怎么样_分析讨论社区—东方财富网
+      URL: https://www.so.com/link?m=utHZ0NrDgrXF8l0gkezFJ208C8F0%2B7paOYDt8bGJQZSBz2GAdtQYFoypIrzU1hN6cF%2Fodb66y6G0SGaTkkTT%2BurzULLMEBWzH8l6tcCanB79AZFo%2BjneeJDQPNRX8zPzm%2B8o93dTZVz9oVjqyjL94hg9V%2BiYduYjHZPnhGf1t2b%2FUK0xlDnltWDPSBYizDh3pg3YLkSFXtuMUnN4Tk
+      SNIP: 2026年5月21日 - 宜春就进一步加强锂资源矿山监督管理征求意见 宁德 时代资讯05-20 12:38.解密主力资金出逃股 连续5日净流出736股 宁德 时代资讯05-20 05:41...
+  [4] 宁德时代 402.50 -0.38(-0.09%)最新价格_行情_走势图—东方财富网
+      URL: https://www.so.com/link?m=wpIrN05pZxeegWdYFycyLB%2FORCmFk9HDN%2B%2F%2BDiAj54BNB1x6gZLPoVCUNTZr4W%2FGsLvDWFVzHY9e5Gm0M3csdH5uhXGsSTkkOM6PIqZVXa%2F1q%2BXr78XqdvCT%2BP0WXZysGywTMbMIgGpI4cbL9OyeHaT%2BjD5mG7Ocl9J%2BChIeQBK4Gmam%2F1trU1nB%2Bgh%2F1Ja6ZGg61g
+      SNIP: 2026 年05月12日共有1笔大宗交易,成交量11.75万股,成交额5069.3万元 宁德 时代数据全景图.更多公募 私募 社保 QFII 1家(1) 0家(0) 0家(0) 0家(0) 股东情况 26-03-31 26-02-28 股东户数 20.45万 25.75万 较上期(%) -20.5... quote.eastmoney.com 反馈
+  [5] 宁德时代 300750 2026 业绩会 曾毓群 周佳 - 360文库
+      URL: https://wenku.so.com/s?q=宁德时代 300750 2026 业绩会 曾毓群 周佳&src=ob_zz_juhe360wenku
+      SNIP: 2026年聚焦两会宁德时代曾毓群、安踏集团丁世忠、国机重装韩晓军最新发声全国政协委员、宁德时代(300750)董事长曾毓群:推进新能源产业高质量发展,企业“走出去要有序竞争2024年全国两会,全国政协委员、宁德时代董事长曾毓群共提交四份提案,聚焦重卡电动化、电池与电网双向融合互动、电池出海、工业固废全生命周期管理等热点话题。曾毓群表示,随着动力电池技术不断提升,换电等商业模式日渐成熟,近年来
+  [6] 宁德时代 ( 300750 )分析(截至 2026 -04-01)全球动力电池绝对龙头、动力+储能双轮驱动、 业绩 高增、现金流强劲... - 雪球
+      URL: https://www.so.com/link?m=wdkXLGSJdCZQ%2B9DrshBkdru1o%2Fz3pRdu4tm1TpSUudKhiRWeb%2BXXuYw3rll27VPqWmk8Q1qNW05t4uPmra79q3prCKKOYbz%2FsB%2BEsCrH0qiUoq4nSiXqg1PYAnl87zC82%2BjBzIV7FeW8rsVBsU0oHl2PqXhBAoOLadNfG12O%2FxFPtkyLlkZVu%2BMWH4fOTRJ93HNK447pvaieEe23
+      SNIP: 2026年4月1日 - 业绩 (2025):- 营收 4237.02亿元(+17.04%).- 2026 Q1国内市占率 重返50%,高端电动车市占 60%-70%.四、增长驱动( 2026 -2028)... xueqiu.com 反馈
+  [7] 宁德时代 ( 300750 )股吧_ 宁德时代 怎么样_分析讨论社区—东方财富网
+      URL: https://www.so.com/link?m=bSkIcP5LotcpGpGStMBEMevvVUyIZmnmL09dldXqKoTA8XFueJk6Iw9DD%2B3bdjeTj3VedZ21UKeYrkG4Cv6Zz%2BWGwy%2Ft%2Bc%2FvFszz1i0QFqj9fYRNUk3ajJvWpNAUhZGFrzHCOYYLrkyBkkkB5l06EjyqUfFkX43%2BYpKcSbbiABXQ17HWWGIXpiaHhSN0yW0DUDwK5g8ZTxb7%2BCJuRd
+      SNIP: 2026年1月24日 - *ST岩石:2025年度 业绩 预亏公告*ST岩石资讯01-23 07:42. 业绩 利润才是最真实的幸运泡芙01-24 08:05...
+
+=====[bd/qmeeting_bd1] 宁德时代 2026 中报 业绩说明会 纪要=====
+(curl: 200|876540, results: 9)
+  [1] 宁德时代 2026 年半年度 业绩说明会 (7月24日晚间)完整公开实录(官方口...
+      URL: http://www.baidu.com/link?url=vFPcmQi3hajrQrlLyPzY6ScM-rxX7veWQzWglGvWS1x7W94RoulAcq7olx410LW9pTe3Zyc5B04yDwGQ38-rEq
+      SNIP: 15小时前 各位投资者、分析师朋友们,大家晚上好,欢迎参加 宁德时代2026 年半年度 业绩说明会 。 2026年上半年,公司实现营业收入2769.17亿元,同比增长54.80%;归属于上市公司股东的净利润432.84亿元,同比增长41.98%;扣除非经常性损益的净利润390.13亿元,同比增长43.44%;基本每股收益9.51元,同比增长37.43%。 分季度来看,
+  [2] 宁德时代2026 Q1 业绩 交流 纪要
+      URL: http://www.baidu.com/link?url=kV5MgkXMzp_tMO6Hon5Vp4pt13b8xzsJ8zltA5wY1INsWJGRNHwHmriRRuoVIZFkJLPuyiUMkQgmluxe8uOsy5WRg7R6PuRpWFsheEJ0T_a
+      SNIP: 2026年4月16日 宁德时代2026 Q1 业绩 交流 纪要 ​​基本面:2026年一季度实现总营收1291亿元,同比增长52.45%;归属上市公司股东的净利润207亿元,同比增长48.52%。期末货币资金及交易性金融资产合计超4100亿元;总资产首次突破1万亿元,达到10463亿元。动力储能电池销售总体同比增速超60%。根据SNE数据,2026年1-2月全球动力电池使用量市占率...
+  [3] 宁德时代 2026 中报 业绩说明会 纪要 的最新相关信息
+      URL: http://www.baidu.com/link?url=M6MOiBV9n-RPVacTL_ksZEyM1WeoFWb9SGM7VhtDR8GO3FhP4IdPlyNmvCvL-s2CYmCxEpD4yLGh9bngledmvIPmHbP9Xl8dWDQmbERwXpukYpmweoLpD0_opMti_D-edycJ_tL7EtnWC2w9LZCTGwVkO-kor2UsmDAmCatTwAZFQV1WrN1Zr0ZlIdiXfgB6fZq9WFHiu25g14aOfpcnKWXuq65n
+      SNIP: 前三季度暴赚490亿! 宁德时代 进入扩产周期,单季净利大涨41%创历史...
+  [4] 宁德时代 上半年净利润同比增超四成!200亿-400亿元创A股史上最大回购
+      URL: http://www.baidu.com/link?url=tuytG8YQ7dyfVY56N5ui68SoxOSTPL64EMNbQ_1nGTnScGB2NxFXknDV99J2U9FmpNJ-HMeOjuh5ZTxcpspUg5ddypffvIbt-OJ5fEmjhFC
+      SNIP: 2天前 7月24日晚间，全球动力电池巨头 宁德时代 （300750.SZ/03750.HK）发布 2026 年半年度报告。除了营收、净利润同比高速增长外，宁德时代还披露了一份堪称“核弹级”的回购方案——拟以200亿至400亿元回购A股股份用于注销，这也刷新A股史上单次回购金额最高纪录。报告显示，宁德时代今年上半年营收为2769.17亿元，和上年同期...
+  [5] 宁德时代 : 2026 年半年度报告 _ 宁德时代(03750) _ 公告正文
+      URL: http://www.baidu.com/link?url=vFPcmQi3hajrQrlLyPzY6R9jAgCgevCEdRhfm0WTC67BAGjSm0VSe1Au1bqgOkGUd4ALkuiC5qFARt-9hI8DZrPAD6crlX0Krt4wzkewpl3-SpH3zamSpayfxBwYeK9H
+      SNIP: 2天前 宁德时代 新能源科技股份有限公司 2026 年半年度报告 2026年 7月第一节重要提示,目录和释义一,董事,高级管理人员是否存在对半年度报告内容存在异议或无法保证其真实,准确,完整的情况□是否公司董事会及董事,高级管理人员保证本半年度报告内容的真实,准确,完整,不存在虚假记载,误导性陈述或者重大遗漏,并承担个别和...
+  [6] 宁德时代 7月24日盘后将披露 2026 年 中报 ,机构预测 业绩 超预期 - 经济观察网...
+      URL: http://www.baidu.com/link?url=tHCmYZqNE_OFWtWnuL7Y0FE57nGp46bywvlqOraqp0FZzKadx8dHcZ7iduetwvInHOngoftirsoDoXFAFRpjR_
+      SNIP: 2天前 经济观察网 宁德时代 将于7月24日盘后审议 2026 年中期 业绩 并披露 中报 ,多家国际机构对其业绩作出预测。业绩经营情况:大摩预计净利润有望超过公司指引的220亿及该行预估的230亿元 ;麦格理预测Q2交付...
+  [7] 宁德时代2026中报 :增长很硬,但利润率开始考验成色 $宁德时代(SZ3007...
+      URL: http://www.baidu.com/link?url=vFPcmQi3hajrQrlLyPzY6ScM-rxX7veWQzWglGvWS1xIV7iUfL-MoK5BEH4J0B4eaTuSzWP2q6WM5msp-FciWq
+      SNIP: 2天前 $ 宁德时代 (SZ300750)$刚刚披露 2026 年 中报 。 先说结论:这是一份“销量与市占率很强、现金流绝对值很强,但单二季度利润率承压”的 中报 。基本面偏正面,不过不能只看42%的净利润增长。 一、核心 业绩 :增长依旧强劲 上半年公司实现: 营收2769.17亿元,同比增长54.80%; ...
+  [8] 宁德时代 :4月15日召开 业绩说明会 ,投资者参与
+      URL: http://www.baidu.com/link?url=tuytG8YQ7dyfVY56N5ui68SoxOSTPL64EMNbQ_1nGTorXjhcbFB9AlkBqp8nZni4JKKqa-1cXs8wFKYIPqlWaMFskCoGFcmCSO9l7IyHK9a
+      SNIP: 2026年4月16日 证券之星消息， 2026 年4月16日 宁德时代 （300750）发布公告称公司于2026年4月15日召开 业绩说明会 。具体内容如下： 一、公司经营情况介绍 2026年第一季度，公司实现总营收 1,291亿元，同比增长 52.5%；归属于上市公司股东的净利润 207亿元，同比增长 48.5%；公司现金储备充裕，期末货币资金及交易性金融资产合计...
+  [9] 调研速递| 宁德时代 接待1470家机构参与 业绩说明会 一季度营收1291...
+      URL: http://www.baidu.com/link?url=tuytG8YQ7dyfVY56N5ui68SoxOSTPL64EMNbQ_1nGTorXjhcbFB9AlkBqp8nZni4QE7SRZb1rY8k7H7G-_ewPZhuxr-jsnSQj6Lg6DIHKCK
+      SNIP: 2026年4月16日 调研速递｜ 宁德时代 接待1470家机构参与 业绩说明会 一季度营收1291亿同比增52.5% 动力储能销量超200GWh 来源：新浪证券-红岸工作室 4月15日，宁德时代新能源科技股份有限公司（以下简称“宁德时代”）召开 2026 年第一季度业绩说明会。本次会议以电话会议形式举行，吸引了约1470名投资者参与。公司董事会秘书兼副总经理蒋理...
+
+=====[bd/qmeeting_bd2] 宁德时代 2026 二季度 业绩会 毛利率=====
+(curl: 200|879289, results: 9)
+  [1] 宁德时代2026 中报:增长很硬,但利润率开始考验成色 $宁德时代(SZ3007...
+      URL: http://www.baidu.com/link?url=eDrHJ0PFO8BLBrNgJjeG-y6fk5yrGgrqd-jC2FEJAkdxOe4Gdia_2z6cfmnPLgM0qnjWl2iP7IS8Nme5XZsN7K
+      SNIP: 2天前 二季度综合毛利率约23.15% ,去年同期约25.58%,同比下降约2.43个百分点,环比一季度也下降约1.67个百分点。 也就是说,公司目前仍然处于高速放量阶段,但收入增速明显高于利润增速,利润弹性有所减弱。 半年报没有把原因完全拆开,我倾向于认为与原材料价格上涨、产品结构变化以及价格联动存在一定时滞有关。公司也在风险提示中提到碳酸锂价格明显上行。
+  [2] 宁德时代 回应中东订单变化:不会参与储能价格内卷,看好下半年及...
+      URL: http://www.baidu.com/link?url=zfj-oBsGT5S_7KvIUacdigxjyEVrzaWEgaZ7qEmj2TnB48NqnGWjmZ93uPszaoU861ckedawFutMWJvL2czDrXsC2mH9BRpNrFRe5mWu8Kq
+      SNIP: 24小时前 财务数据显示，公司今年Q1毛利率为24.82%， Q2毛利率 为23.15%，环比减少1.67个百分点。对此，公司管理层解释称，主要受产品结构调整影响，报告期内原材料价格上涨，但整体毛利水平基本稳定。对于宜春枧下窝锂矿复产进度，公司管理层表示，以公司或者当地政府的公告为准。公司在2019年就已经对供应链上游进行布局，今年...
+  [3] 宁德时代 2026 年半年度归母净利润 43.28 亿元,同比增长 41.98%
+      URL: http://www.baidu.com/link?url=eDrHJ0PFO8BLBrNgJjeG-uZRaTSD2YUcd0LPli-Srbn_Lyr5R9sDKaBoAgjxzUDIRkIMqy2tqV1VR3NA7j2EFOMq9c_9sz9AnYYVWfRl_8e
+      SNIP: 2天前 IT之家7月24日消息,宁德时代(300750)今日发布2026年半年度(2026年1月～2026年6月)报告: 营业总收入:276.92亿元, 同比增长54.80% 毛利:66.26亿元 ,同比增长48.03% 毛利率:23.93%,同比下降1.09个百分点 归母净利润:43.28亿元,同比增长41.98% 扣非净利润:39.01亿元,同比增长43.44% 经营现金流:60.22亿元,同比增长2.61%...
+  [4] 宁德时代2026 年中报出炉:营收同比增长54.8%- DoNews快讯
+      URL: http://www.baidu.com/link?url=ONt194EzZHtLVYWyQMY78Wd9fBapHAGMOI3JNzkMHLCTxGT4CafWK3WXUc3V6yRHpnpcA5JxxnMcpJv0HH8xWq
+      SNIP: 2天前 报告期内(2026年1月至6月),公司营业总收入达276.92亿元,同比增长54.80%;归母净利润43.28亿元,同比增长41.98%,业绩超市场预期。 毛利率为23.93% ,同比下降1.09个百分点;经营现金流60.22亿元,同比增长2.61%。全球动力电池市占率达40.2%,储能电池出货量位居全球第一。增长主要受益于新能源车渗透率提升及储能需求高景气。
+  [5] 宁德时代 2026 二季度 业绩会 毛利率 的最新相关信息
+      URL: http://www.baidu.com/link?url=ef6F2BsiFsZjHG9gKaLZ8z_Y8MMehHIz53_yLqnZwDeYaDkgd8WtFfsUgP5GqtzFzaw6YWBlgsQk5rl-CEm7NjIVuBrrGIrkLd3kW8iyF618OlTJkWpyRAo9xfENxzEjNhmSCiFDKO32kANln_AmW5yXQaIFDtpb_Uz4xFx-RArV4xKcXgvhoK0qvIHwSFMKxjXq9ZshzH2VL3zf906CuO3l7Lbi
+      SNIP: 图解 宁德时代 中报:第 二季度 单季净利润同比增长36.46%
+  [6] 宁德时代 7月24日盘后将披露 2026 年中报,机构预测 业绩 超预期 - 经济观察网...
+      URL: http://www.baidu.com/link?url=cYzmtEs5eK_xK3UI1-kdpeCnv5f-wbLSvBmISyZshAVh_TPmXivfD85vMvd3tkElFWyxDIU_7D_SPF393Dx1rK
+      SNIP: 2天前 经济观察网 宁德时代 将于7月24日盘后审议 2026 年中期 业绩 并披露中报,多家国际机构对其业绩作出预测。 业绩经营情况: 大摩预计净利润有望超过公司指引的220亿及该行预估的230亿元;麦格理预测 Q2 交付量约202GWh,收入1391亿元,但认为 毛利率 受三元需求转弱和储能竞争加剧承压。
+  [7] 锂价飙涨130% 宁德时代 笑看车企利润纸片化谁能扛过 2026 生死战_车家...
+      URL: http://www.baidu.com/link?url=qzIJeErVYnthbPoykMCuiLeMQDmCEtpaQfZ0qQ0aIiV6Hl-cu0JGexkAxKRlhGM3LG3Yf-sJUj8A6JrWZDjtP_
+      SNIP: 3天前 当碳酸锂价格从2025年7月的每吨7.5万元飙升至 2026 年3月的近16万元,涨幅超过130%时,一个残酷的现实摆在中国车企面前:仅这一项原材料涨价就导致单车电池成本增加3000-5000元。 宁德时代 可以通过“原材料价格联动”条款将80%-90%的成本压力传导给下游车企,但车企却深陷国内惨烈的价格战,根本无法将成本转嫁给消费者。
+  [8] 宁德时代2026 年 二季度业绩 预测出炉,营收利润怎么看,市场这次会...
+      URL: http://www.baidu.com/link?url=zfj-oBsGT5S_7KvIUacdigxjyEVrzaWEgaZ7qEmj2Tm0RWZUUzU1gtDm7YykGejlWD7sTSJAHcpvhpZLxeu0-wdeR7fiQOc5DtFEDZPGOZ_
+      SNIP: 2026年5月3日 有些公司的报表，越做越厚，有些人的判断，却越看越轻， 宁德时代 到了 2026 年 二季度 ，市场盯着的，不是会不会增长，而是还能涨多快。这很像一张被拉满的弓，Q1刚交出高基数，营收1291.31亿元，归母净利207.38亿元，同比都在接近五成， 毛利率 24.82%，全球动力电池份额又回到45%以上，储能出货翻倍，海外高毛利...
+  [9] ...等车企集体引入二供→ 宁德时代 份额下滑→ 二季度 业... - 雪球
+      URL: http://www.baidu.com/link?url=eDrHJ0PFO8BLBrNgJjeG-y6fk5yrGgrqd-jC2FEJAkbgZ4dy0TnPLmYxmtCFy2WojERsQxvBizUN1M7EQIgo7_
+      SNIP: 2026年7月12日 增量二:海外市场正在爆发。 2026年1-5月,中国新能源汽车出口同比增长110.38%,6月单月新能源车出口52.3万辆,首次超过燃油车出口量。宁德时代境外 毛利率 31.44%比国内高出7.44个百分点。 增量三:储能正在成为第二增长曲线。 宁德时代2026 年Q1储能电池出货量同比增长近120%,全年预计250-300GWh,同比翻番以上增长。
+
+=====[bd/qmeeting_bd3] 宁德时代 2026H1 电话会议 分析师=====
+(curl: 200|827919, results: 10)
+  [1] 当市场开始重新定价 宁德时代 ,它不再给出唯一答案
+      URL: http://www.baidu.com/link?url=JmwLRC9ZoqKE_W3s5fjh7-eDZ16bYduqncKPxFCSQV9RqFWbz6gUQXmA4JVL-2vGejrriX75-I9e2biHL8LeSY55ZY7sAU-z9ctCIPUwh6q
+      SNIP: 2026年4月23日 此外，与受购置税退坡及春节等季节性因素影响而普遍销量预冷的车企不同，作为供应商的 宁德时代 电池装车量、市场份额均在持续提升。根据中国汽车动力电池产业创新联盟数据显示， 2026 年 Q1， 宁德时代 动力电池装载量占比达到 47.7%，同比提升 3.4 个百分点。对此， 宁德时代 管理层在业绩 电话会 上 分析 指出，当前公司在乘用车
+  [2] 一些信息 0415
+      URL: http://www.baidu.com/link?url=JmwLRC9ZoqKE_W3s5fjh7-eDZ16bYduqncKPxFCSQV-pdZ-WZ-yPsjlku29UCzDVbGo9kUvdF2LnftmYLQgQmNvubiSnKLvJfIFaYGsxpVm
+      SNIP: 2026年4月16日 二、最值得重点关注的公司 电话会 1. 宁德时代：一季报高增，份额继续提升，储能与数据中心成为新增量 宁德时代2026 年Q1营收1291亿元，同比增长52.45%；净利润207亿元，同比增长48.52%。同时，公司披露动力+储能电池销量超过200GWh，其中储能占比25%；全球动力电池市占率达到40.5%，较此前提升1.8pct，国内装机市...
+  [3] 宁德时代 : 2026 年3月9日投资者关系活动记录表 _ 宁德时代(300750...
+      URL: http://www.baidu.com/link?url=LnXDOADjoX64QxvG45g_flcQe2FU-ItYwrvyqTTy6F-sciqM_K8Gjb9CAPqTDWABSG-9SkQU1vEnvzIxgz8YH5SAdQM4ZfbmCVH4sMo0_UFvngn2Qz6bDiillBlVWdQKuNeTVQkE97jdq-8sg3-eYA6U1NwPBxImTp92gLbX4YnC-tIQA2ZZsX-wZ6JUAnbY
+      SNIP: 2026年3月10日 证券代码:300750 证券简称: 宁德时代 宁德时代新能源科技股份有限公司 投资者关系活动记录表 编号: 2026 -001 □特定对象调研 □ 分析师会议 □媒体采访 ■业绩说明会 投资者关系活 □新闻发布会 □路演活动 动类别 □现场参观 □其他 参与单位名称 与会投资者约 1350 人 及人员姓名 时间 2026 年...
+  [4] 「 宁德时代 招聘」 2026 年宁德时代招聘信息-BOSS直聘
+      URL: http://www.baidu.com/link?url=0pilre4FoboAu0l7kTkAACq0jDvLcLFGwufnHT--bNNbao7Cb7_xNRmklPziFqHJD7-bnTFRDkhH73LK3P-Iii5f3KT5XTf8WsZ_VHxtmQy
+      SNIP: 5天前 · 蕉城 区 ·漳湾工业园区 失效 分析 工程师 3-5年 硕士 缪女士·招聘HR ·蕉城区 ·漳湾工业园区 海外项目工程师 1-3年 本科 陈先生·招聘主管 ·蕉城区 ·漳湾工业园区 高级成本主管-海外业务方向 (MJ029444) 5-10年 本科 陈先生·招聘主管 ·蕉城区 ·漳湾工业园区 ...
+  [5] 宁德时代2026 Q1业绩交流纪要
+      URL: http://www.baidu.com/link?url=nmfmF5VWZMj1J2t028Ngc9bVlcQkWXsB_WCdkDrxll7Htpvg6zij_puqGQzKyqzCQxK2a33yuVEV8mmfezrTf6iHZ5m741-Xj6ebMPtzeeG
+      SNIP: 2026年4月16日 期末货币资金及交易性金融资产合计超4100亿元;总资产首次突破1万亿元,达到10463亿元。动力储能电池销售总体同比增速超60%。根据SNE数据, 2026 年1-2月全球动力电池使用量市占率40.5%,同比提升1.8pct;中国地区市占率32.1%,同比提升2.2pct。根据中国动力电池联盟数据,一季度国内装机量市占率同比提升3.4pct至47.7%。
+  [6] 宁德时代电话会 :产能处于满负荷状态、涨价不是核心驱动力、数据...
+      URL: http://www.baidu.com/link?url=JmwLRC9ZoqKE_W3s5fjh7-eDZ16bYduqncKPxFCSQV7keavi3thvVH3_WNd8iwfipsQ9JEjDLoEKPDmcBvn_Ft-RhWzCJr8r9JmYp1oVk5u
+      SNIP: 2025年10月21日 宁德时代电话会 ：产能处于满负荷状态、涨价不是核心驱动力、数据中心带来的储能需求量可观 昨日，宁德时代发布三季度财报，公司Q3营收同比增长12.9%，净利润增41.21%至185亿元，利润增速显著超越营收增速。在随后的业绩电话会上，宁德时代进一步介绍了产能细节和未来业务展望，目前公司产能利用率不断提升，产能处于满...
+  [7] 宁德时代2026 专业技术人才招聘正式启动!-安阳师范学院就业信息网
+      URL: http://www.baidu.com/link?url=JY0m3QAvsEX_RvFiN2fqwEgj41li5xeFArkzsyZvPODYMxFs7qa1FiZculr8YOXfC_kYmj9hZ4lsrmqDIu2xSa
+      SNIP: 2026年4月10日 宁德时代 新能源科技股份有限公司是全球领先的新能源创新科技公司,致力于为全球新能源应用提供一流解决方案和服务。2018年6月,公司于深圳证券交易所上市,股票代码300750。2025年5月,宁德时代在香港联合交易所主板挂牌上市,股票代码为03750.HK。 宁德时代以创新为发展根本,建立了材料及材料体系、系统结构、绿色极限制造、...
+  [8] 动力电池领域唯一! 宁德时代 荣获 2026 年大众集团奖
+      URL: http://www.baidu.com/link?url=qOIJI0B28XuEXdY3WVrRjTb2CJ9V7g0P9WfzUMskfFRyT2gZP1zYBZ3_YegHzp4d
+      SNIP: 2026年7月12日 近日, 宁德时代 荣获大众汽车集团(以下简称“大众”)授予的 2026 年“大众集团奖”。凭借在电池...
+  [9] 宁德时代 高管谈Q3订单:“非常辛苦,都在加班!” H1 营收缩减净利...
+      URL: http://www.baidu.com/link?url=JmwLRC9ZoqKE_W3s5fjh7-eDZ16bYduqncKPxFCSQV8zNVX4Cx0zscG7PzoT93Li_hM7_tU-3Lw6bBs-hYkXF0ILUUgeGy5QYXZx2ZRWkiq
+      SNIP: 2024年7月27日 财联社7月27日讯（记者 曾楚楚） 宁德时代 （300750.SZ）于昨晚披露半年报，其上半年营收同比缩减逾一成，但净利润同比增长一成。根据财联社记者获得的半年报业绩解读会材料，在昨晚的投资者 电话 交流中，最受关注的问题是：锂电池行业陷入“内卷”的当下，公司营收下降却仍能保持利润增长的原因，以及公司在海外市场的布局...
+  [10] 宁德时代 ·CATL
+      URL: http://www.baidu.com/link?url=Z0rwyIsmWXQpSYgPYfBh6g_XzAL6reZ1pS5Zcjq5yBm
+      SNIP: 宁德时代 新能源科技股份有限公司是全球领先的新能源创新科技公司,致力于为全球新能源应用提供...
+
+=====[so/qmargin_so1] 宁德时代 Q2 毛利率 下滑 原因 储能=====
+(curl: 200|454360, results: 6)
+  [1] 宁德时代毛利率下滑,储能 赛道究竟怎么了?_市场_股价_同比
+      URL: https://www.so.com/link?m=wN%2FCJpKqq0X1I74KXd5tYjLmygwMSCRrhuwLD%2F3DfLh11IbYN8sevE3R%2BJujSCD%2B7FVpscsoDj4T%2FaF%2BF0fmreoL9iI2le62%2BFzWJV8Y3YUmvHggNjxzlJWTzPNGrBsxvGpiUQagX8ZvFz9VhB9g2ifDsr1mUviehwVYDs1s55RYbegc9EnT8TPhHY%2BZIok877r0E5T0cxYjZJ4m
+      SNIP: 2022年8月25日 - 以 宁德时代 最重要的营收组成动力电池为例,该板块的 毛利率 为15.04%,而去年同期为23%,这还不是 毛利率下滑 幅度最大的板块,其中 储能 系统业务毛利率... business.sohu.com 反馈
+  [2] 宁德时代毛利率下滑,储能 赛道究竟怎么了?|市场占有率|电池_网易订阅
+      URL: https://www.so.com/link?m=e0xfLMupQn%2FDUJute0ydwND%2FsQ0CQOLZCBpcvgFzlC9ttdcl9zq9OWvnS1%2FEiuuvE79EvQo9LUgikZB6Xjb1M8rCf3T1F3v5OHhT4uPMwJCnPrNU3FGrFkO6k8vu4QfhBcBwetFdKaSaJ44uivtqwYhDJ0%2B6%2FOMVv61ErCGqO4U%2FJSpQANw0nJklR6HeFlapLYtK%2BzdU0oU1rjgZIQ
+      SNIP: 2022年8月25日 - 宁德时代 毛 利率下滑 ,储能赛道究竟怎么了?,宁德, 储能 ,市场占有率,电池 网易新闻网易公开课网易红彩网易严选邮箱大师网易云课堂快速导航新闻 国...
+  [3] 宁德时代 q2 毛利率 下滑 原因 储能 _360图片
+      URL: https://image.so.com/i?src=imageonebox&q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%20q2%20%E6%AF%9B%E5%88%A9%E7%8E%87%20%E4%B8%8B%E6%BB%91%20%E5%8E%9F%E5%9B%A0%20%E5%82%A8%E8%83%BD&obx_type=360pic_new_normal1
+      SNIP: #mohe-360pic_new_normal1 .mh-image-list{margin-top:8px}#mohe-360pic_new_normal1 .mh-image-list-item{width:105%}#mohe-360pic_new_normal1 .mh-image-item-cont{float:left;-webkit-transition:.1s;transition:.1s;position:relative;border:1px solid rgba(0,0,0,0.04);background:#fff}#mohe-360pic_new_normal1 .m
+  [4] 豪掷300亿搞矿, 宁德时代 必须当 矿王 _澎湃号·湃客_澎湃新闻-The Paper
+      URL: https://www.so.com/link?m=eipvmBB5ooJ227gDeDljSVf7uhGxcb3rESTqX%2BJZThjPkWxIPX4LanOKZ3MYV2WnjdUsvkFTz42Kpcfe%2BmfJdn2IMdPr7fS4ySPyK7iIeVOhsEpNTsQ1XPnRTdigYz5VfM670xe8bxXn3GoYk5lorNzmm9vgNhG6TQTnMq1cXOmiJs59w%2BdxRXVtoLu8ZeG%2F3Jx%2BAfycRuw1PJdH5AOYTY
+      SNIP: 2026年4月22日 - 所以与25Q4的 毛利率 相比, 宁德 时代26Q1的毛利率 下滑 了3.4个百分点.在财报电话会中,公司承认, 毛利率 环比下滑的重要 原因 是 以碳酸锂为代表的大宗商品价格...
+  [5] 禾川科技被踢出 宁德时代 供应商名单? 毛利率下滑 ,1号研发人员中专学历-36氪
+      URL: https://www.so.com/link?m=u2vocpyOT1NqwgLYlaAN1XicGlP9%2FCSTC2j0kr6ykEqRJdwkyIJ79jDQd%2BOClQ7Tilc09dUL4Xofq05h2vxyan6fPAOZqZlWtbRGeL6CvdkFP60fU01AbQIDOgaFhnWlqbQHeob%2BhKgRThgGSKLI6hAatsXvP2Vgh0pd9baKhCcXAPokkSjSoRn1GsVWzDIO6aQU%2BQ4lImy1tJclHV4WEMZP
+      SNIP: 2022年11月28日 - 宁德时代 已上市福建省2011-12.利润方面受上游原材料价格上涨及产品更新换代影响,公司产品 毛利率下 降,利润增长幅度较小。.近期,一个落款显示... www.36kr.com 反馈
+  [6] 成绩亮眼的 宁德时代 , 为什么 产能利用率在下降? - 哔哩哔哩
+      URL: https://www.so.com/link?m=efEHtHC9SA8kAF4T%2Bf719DaGCXNmrUZzQN8E8%2FsDkv19cKc3GnOxjeV%2BecDwSTXcGqnRgAwLrI1xQBVIYpp9KQRl6IgD%2BSi6JN7Tl0P2gGahxSPf4LTUcwQ2VJn1VBSnqg7L9XoxHNcPwH3xgKefOFj3lvfBbojETRygGgiAEhG7WZfRg6YHtStOUFbgZ5zCGn22R0utyzwpnTpE72qlGLc2
+      SNIP: 2024年1月20日 - 上半年, 宁德 时代也和多家海外 储能 客户达成战略合作。.分产品来看,动力电池系统依然是最火爆的产品,期内营收1394.2亿元,比去年同期增长76.16%, 毛利率 也...
+
+=====[so/qmargin_so2] 宁德时代 2026 二季度 毛利率 23%=====
+(curl: 200|386275, results: 7)
+  [1] 机构预测: 宁德时代二季度毛利率 有望明显改善 产业链一体化布局将推高盈利水平|锂电_网易订阅
+      URL: https://www.so.com/link?m=zV3lJlk37cpHn4baxZurNDNChd76EfDmJyQx9uoYgDKjfjwz4CqDgJMzjY7vr0eg%2B3VBvCfc6se5H%2BeBH%2FIi4qMQNDG5XFwkzryxUT44AKrsEOnFkrbZDvjMG8XhIkviCt%2BqTMOm6xwjlrW6TmkELEdADcW%2FthDxpFL4ESEKKRM%2FCJCLdahtiUOXdoVxHMeeMhPB22zidljR9s%2Fe94
+      SNIP: 2022年5月4日 - 鉴于目前动力电池上游材料价格已经趋稳且呈现小幅回落迹象,产业链中游材料中,六氟电解液价格也已经开始调整,机构普遍预测 宁德时代 二 季度毛利 ... www.163.com 反馈
+  [2] 宁德时代2026 年能实现900亿利润吗 宁德时代 2025年的预期净利润大约在700亿元(yoy+36%),悬念已较小。 宁德时代 的产品相比于二线电芯品牌,一... - 雪球
+      URL: https://www.so.com/link?m=uwbgxJnJVk7MJQVwq9x9ofosxD6021ZU7wX9dsJwvHkzDBpGsIU3F0vBZgGdPs8yqZ44jL0VrFU21R35MMBvWBf7S2oUpgpIK5qVbgTOEpckawt6zng1gULImzKSRA%2FXL%2BLwIXe0NpYmHUyv0tHs4FFg00ZIp16kDPG2boN23Sf6K2A0O%2FA3eZ9BLYYVqm3CEOCNFhZsBJBaByatRpzPkQplpf
+      SNIP: 2026年2月9日 - 宁德时代 2025年的预期净利润大约在700亿元(yoy+36%),悬念已较小。 宁德时代 的产品相比于二线电芯品牌,一直有15%~20%的溢价。但它25年上半年和24年相... xueqiu.com 反馈
+  [3] 宁德时代 (300750)销售 毛利率 历史变动-估值指针-特色数据-证券之星
+      URL: https://www.so.com/link?m=w5yAB038cPL%2BvO%2BOBiuqbUnpgXnSdW%2BEFxqAUambTEAHAlBlf4rOY3OPrWn6W93CIUDYeUAbtYthBdS82zNoj6a8cFPTikDdh0Ag0%2ByzPUg7KnclMS0YFNqoC8VH96ilx4BO3y5gk0BPdVw2l9yHwrMo%2FKPN73E0882%2Fk3Yq%2FRqev2%2Fh2VgFMfTl8cyVy7MtabO6enz5WrBELtnf
+      SNIP: 2026年5月20日 - 报告期 销售 毛利率 同比 环比 行业排名 行业均值 行业龙头股 龙头股该指标值 查看 2026 -03-31 24.82% 1.67% -5.55% .特色数据估值指针 宁德时代 (30075...
+  [4] 机构预测: 宁德时代二季度毛利率 有望明显改善 产业链一体化布局将推高盈利水平-证券日报网
+      URL: https://www.so.com/link?m=zAzt1CLGBUMKBBd8Ktx6rSZTxzTqRPgDsH%2FwekYu0VPm0C33CsOv1TNTOLNPIEvQV%2BjdktVmcXnYi2BXJ7PAuCZdqMqZB4sZjLqjxOYmBAYGCk3VuBLhy0wtrpybcGKzl9qHb0LBqpb3v9yXI0YftEffCJlvo5zTkAKpVezY8uMRSDz7YKJxqejHL2h4o%2FZ9r5%2FX0U5jewRGJevOtm%2B1a7
+      SNIP: 2022年5月4日 - 鉴于目前动力电池上游材料价格已经趋稳且呈现小幅回落迹象,产业链中游材料中,六氟电解液价格也已经开始调整,机构普遍预测 宁德时代 二 季度毛利 ... www.zqrb.cn 反馈
+  [5] 宁德时代 402.50 -0.38(-0.09%)最新价格_行情_走势图—东方财富网
+      URL: https://www.so.com/link?m=wakwJxpkqni4aa3wesUFdDVdoq4%2FjFEzZ3ChmJHDMx1EEnCsHEVnL79Ddah0cfshA0%2FYxnox0mQclS4QCfA2W7rMf8W5HIQhmx2AFRktuRXAZXl5P%2B6C55JvcoDl%2BXvNPe7%2BjjD5kgB7IPTGph5MAf1hupbXi18b0RQIwo9Ery7RjAq191QgxGOx%2BW7Sll60WKGQvtDundb2yMWq7W4z
+      SNIP: 2026 年05月12日共有1笔大宗交易,成交量11.75万股,成交额5069.3万元 宁德 时代数据全景图.总市值 净资产 净利润 市盈率(动) 市净率 毛利率 净利率 ROE 宁德 时代1.862万亿 3268亿 207.4亿 22.45 5.70 24.82% 17.61% 5.98... quote.eastmoney.com 反馈 TIME.rfTime = +new Date;
+  [6] 宁德时代二季度 业绩超预期! 毛利率 环比大幅回升_ 宁德时代 (300750)股吧_东方财富网股吧
+      URL: https://www.so.com/link?m=wu7SVSjZdwMZU7fajf67X1lJ%2BHl002ftMRXmhf%2BaO%2BjqwoIIJSKrPjjDue8aCUmc5bGyss7yBNv0P2zb4M62A05UWhWWkrEvDvMLK%2BlnPMdSyLmx3i2CWDu9EGlo0zeIWzkn2y22ognr595%2FQzcxBr4wbp%2BhMdsSnEXYznQaBiPoPQc9El0KaoJSC6rDQ4MPLqjc6MqHSzLZ8GHsc%2B
+      SNIP: 2022年8月24日 - 上半年, 宁德 时代电池系统产能为154.25GWh,在建产能为100.46GWh,产能利用率81.25%;锂电池材料、正极及相关材料产能22.92万吨,在建产能17.83万... guba.eastmoney.com 反馈
+  [7] 宁德时代 (300750)财务指标_新浪财经_新浪网
+      URL: https://www.so.com/link?m=zu70Cq3BcJFN6XSw63rtdO5AnXvldydEj2gNnN81CnNbRfBEU4tJxz8QOuOmqltvz%2BYTlurPvPoRNUlC9hHI4KJTo3R1Q9anwxyQRhdeVwhhajOQB0nV2wUJQ1pm%2FKiOI%2FETz56lgYsO3hX7tT%2F%2Fi%2F0AynoF4SYGQFYODHCq1%2B%2BUbc1iIwUDcSjIqR93Q8kL4nJaiO%2B1Za1iH5
+      SNIP: 2026年3月31日 - 新浪财经 宁德时代 (300750)行情中心,为您提供 宁德时代 (300750)财务指标信息数据查询. ... 宁德时代 -300750 -- - 昨收盘:-今开盘:-最高价:-最低价:- 市...
+
+=====[bd/qmargin_bd1] 宁德时代 2026 半年报 毛利率 下滑=====
+(curl: 200|1140943, results: 11)
+  [1] 宁德时代 交出“高速增长” 半年报 ,但宁德时代还是那个宁德时代吗?
+      URL: http://www.baidu.com/link?url=f3GXRoa9X9C58PCX34DKUB8F-qFiFbolcYZMfuKVzxVXStO-Q6FeZ9-C9Z_N8iqcZq8pW4LXTnW2JMqSLQwObb_078l1vvWPT_Y_XrgiDEi
+      SNIP: 6小时前 这份 半年报 讲的其实是两个故事的叠加：一个是“ 宁德时代 依然是那个 宁德时代 ”——份额没丢，海外在扩张，新业务在冒头，股东回报力度空前；另一个是“高速增长期正在进入更消耗现金、更考验精细化管理的阶段”——毛利率承压、研发强度相对下降、现金流质量打折、汇率敞口放大。“逃离宁德时代”作为一个市场说法，也道出了
+  [2] 终于有人说透了 宁德时代 行情走势,怪不得涨不上去!建议收藏看10遍
+      URL: https://www.baidu.com/baidu.php?url=Kf0000K5cNxA6dzipiCdEE2O5S9LHPlIKysKX50X2EB4Zy09NBml87tR6FYNKLFdSM5bCkNrAAyxzkCi2yb5GlCuzoSxkWgHILofLpSm_ul15M9IeBm-61D5b3qj8d4oixNHR1aJ7S5Ly7h6RJYP1FJRF4mw4uJ9ivd6k8s4R9-2ft1uTPQuop6-Kces7GCtSHbWNOrH9vw8aAkYo_1gB1
+  [3] 宁德时代 2026半年报 解读1、产能与业绩、目标价测算今年产能1050GWh...
+      URL: http://www.baidu.com/link?url=AEifRe8q5jeWw0zqL-umRqrl-2COB6NriS0znstzuJfPWMG6rM5zmqnRk-rbuqJA6fb5u-o31Rm_vPLc91WMCq
+      SNIP: 24小时前 可能下调质保预提比例,以此稳住单瓦时净利润水平。 5、上 半年 总产量498GWh,利润432.84亿元,单位瓦时净利润有所 下滑 。 二、负面风险要点 1、综合 毛利率 同比下滑1.5个百分点;海外业务毛利率持续提升。海外全靠欧洲,但海外高毛利能否持续 欧洲的工业加速法案会对 宁德时代 有不利影响。 2、经营现金流增速显著落后营收、利...
+  [4] ... 宁德时代 2026 年二季度 毛利率 环比、同比双 下滑 完整原因一、数据直 ...
+      URL: http://www.baidu.com/link?url=AEifRe8q5jeWw0zqL-umRqrl-2COB6NriS0znstzuJg8qQ9xy4BKB5UADsKVM8TEcwgcnesKE72qPDIr9AF8xK
+      SNIP: 2天前 宁德时代2026 年二季度 毛利率 环比、同比双 下滑 完整原因 一、数据直观表现 2026Q1整体毛利率24.82%,上 半年 综合毛利率23.93%,可算出Q2单季毛利率约23.05%,环比Q1下滑1.77pct; 拆分业务:动力电池毛利率20.63%(同比-1.78pct)、储能23.96%(同比-1.56pct),两大核心板块全部走弱,仅矿产回收业务毛利提升对冲一部分压力。 二...
+  [5] 终于有人把 宁德时代 消息解读透彻了,收藏看10遍!干货!
+      URL: https://www.baidu.com/baidu.php?url=Kf0000K5cNxA6dzipm_XMyvlBTiqOdEc1EHMmSSgS4B_lshixQHdOrzR99qpQZ80UAZMqRNLiNeGZgiKP9-GXQQWe92BtHgAAe_eX_v6o72RPe0N8Xb9OkiFDMZSudxOkev9wlCWqNiDb0xB7xFyc50Tni0zUMYp73iyIyIvpp29Kk2FKuklGL8IKXSGN0LM-tlFU9Z7dqhLhENt7-uhFv
+  [6] 宁德时代 2026 年 半年 度归母净利润 43.28 亿元,同比增长 41.98%...
+      URL: http://www.baidu.com/link?url=4WbBKYEE9r_IBfKkRmPZlxQhx1n-_kwDc639-3gFhYr8UifFP0I2M9sb8pypHMmQ
+      SNIP: 2天前 IT之家7 月 24 日消息, 宁德时代 今日发布 2026 年半年度(2026 年 1 月～2026 年 6 月)报告: 营业总收入:276.92 亿元,同比增长 54.80% 毛利:66.26 亿元,同比增长 48.03% 毛利率 :23.93%,同比 下降 1.09 个百分点 归母净利润:43.28 亿元,同比增长 41.98% 扣非净利润:39.01 亿元,同比增长 43.44% 经营现金流:...
+  [7] 07月24日晚间公告集锦: 宁德时代 : 2026 年上 半年 净利润432.84亿元...
+      URL: http://www.baidu.com/link?url=f3GXRoa9X9C58PCX34DKUB8F-qFiFbolcYZMfuKVzxUVs-wHNmX6FQqnWxHyD05Gyc4fFhtyy0JW9v7_B-j2Erz269hXoqirA8yGPsZzWMG
+      SNIP: 2天前 宁德时代 公告， 2026 年上 半年 营业收入2769.17亿元，同比增长54.80%；归属于上市公司股东的净利润432.84亿元，同比增长41.98%；归属于上市公司股东的扣除非经常性损益的净利润390.13亿元，同比增长43.44%。上年同期净利润304.85亿元。公司拟以总股本扣除回购股份后的45.98亿股为基数，每10股派发现金分红14.11元(...
+  [8] 宁德时代 2026 半年报 复盘一、半年报核心数据营收 2769.17 亿元,同...
+      URL: http://www.baidu.com/link?url=AEifRe8q5jeWw0zqL-umRqrl-2COB6NriS0znstzuJgW5ZhS0_OFCeAPXqgZModSJbbrxTwCOB1Nz8ApfamtQq
+      SNIP: 15小时前 宁德时代 2026 半年报 复盘 一、半年报核心数据 营收2769.17 亿元,同比增长 54.80%;归母净利润 432.84 亿元,同比增 41.98%。 拆分季度来看,Q1 净利润 207.38 亿,Q2 净利润 225.46 亿,环比增幅只有 8%,盈利增速有所放缓,这也是本次财报市场最关注的预期差。整体综合 毛利率 23.93%,同比小幅回落 1.09 个百分点,行...
+  [9] $ 宁德时代 (SZ300750)$ 宁德时代 2026 年 半年报 数据记录备忘整体业绩...
+      URL: http://www.baidu.com/link?url=AEifRe8q5jeWw0zqL-umRqrl-2COB6NriS0znstzuJfXQqQfbLvlzdjOafOS3d5vQEQWeNen5ANiJiZuV7ai3a
+      SNIP: 12小时前 宁德时代2026 年 半年报 数据记录备忘 整体业绩 - 营业收入:2,769.17 亿元,同比 +54.80% - 归母净利润:432.84 亿元,同比 +41.98% - 扣非净利润:390.13 亿元,同比 +43.44% - 综合 毛利率 :23.9%,同比 -1.1pp - 加权 ROE:12.08%,+0.45pp - 基本 EPS:9.51 元,+37.4% ...
+  [10] $ 宁德时代 (SZ300750)$ 宁德时代 2026半年报 业绩电话会核心总结一...
+      URL: http://www.baidu.com/link?url=ClIejTFg_olz0IAIDs4LrZ55nsuQf0jjiLajoT8H4Ubv2B6P6Y63eD2ly8uem8Satn_zCvUPdB1kaLhSAqxbCK
+      SNIP: 2天前 宁德时代 2026半年报 业绩电话会核心总结 一,核心财务数据(2026上半年) 1.营收2769.2亿元,同比+54.8%;归母净利润432.8亿元,同比+42%;年化roe 24.2%,盈利质量稳健. 2.股东回报动作:中期分红65亿元;推出200-400亿a股回购方案,回购股份注销减资;4月完成50亿美金h股配售,支撑全球化扩张. 3.盈利逻辑:销量增速高于...
+
+=====[bd/qmargin_bd2] 宁德时代 储能 毛利率 拖累 2026=====
+(curl: 200|1139340, results: 10)
+  [1] 宁德时代 财报解读:营收增长54.8%背后 财务费用激增89.17%暴露汇率...
+      URL: http://www.baidu.com/link?url=lV7cMctykHDsSM7hVlV2Er_FAxnQp3AFoVIth-fpPVzCDocc1zsxPVSr8gFjVlYVWs69a5pUGPfoXCJil-2iGIA2d5qRDshNDHsM9_1h2Um
+      SNIP: 2天前 营收与利润双增长 储能 业务成新引擎 2026 年上半年， 宁德时代 实现营业收入2769.17亿元，同比增长54.80%；归属于上市公司股东的净利润432.84亿元，同比增长41.98%；扣除非经常性损益后的净利润390.13亿元，同比增长43.44%。基本每股收益9.51元/股，同比增长37.43%；扣非每股收益8.57元/股，同比增长39
+  [2] 终于有人把 宁德时代 消息解读透彻了,收藏看10遍!干货!
+      URL: https://www.baidu.com/baidu.php?url=Kf0000K5cNxA6dzipir3mnoef2G7KAdg-5qGW9guJQvwNzusDJ0zwAjTFasnlF_jPsTUEmL5e9TabNk1GtOAUagDMeeSFhe-RdF9kTUA2uxodY0r9G-GRBxs0D9_OTv8wri2aOeqQTVFznrkg9bOCTkcVtkp4_iN1FhQ9B5lOy3Ja41uCjyehQtrXnqvMacYmCkTSJaCk4Q0sxzR3OpSb-
+  [3] 麦格理:升 宁德时代 (03750)目标价至700港元 评级“跑赢大市”
+      URL: http://www.baidu.com/link?url=lV7cMctykHDsSM7hVlV2Er_FAxnQp3AFoVIth-fpPVzCDocc1zsxPVSr8gFjVlYVwOggvEg-YELkaknP2_ZeKSC5_7bxLyZQDaYjkNwFAOW
+      SNIP: 2天前 智通财经APP获悉，麦格理发布研报称，将 宁德时代 (03750)目标价由680港元上调至700港元，重申“跑赢大市”评级。该行指出，尽管国内电动车需求软化 拖累 情绪，但宁德时代可透过提高单车电池装机量及转嫁成本来抵消影响。虽然该行将其 2026 财年盈利预测下调9%，但将估值基准滚动至2027财年每股盈利的20倍，并考虑到股份供求情...
+  [4] 锂价飙涨130% 宁德时代 笑看车企利润纸片化谁能扛过 2026 生死战_车家...
+      URL: http://www.baidu.com/link?url=6S0a3HCXR4lM75FZoybZgdqY3HlXfmZk0MfUl_z9U52oKaHiPLMWXdjfNoahzllS8LZRy1ERLESr5iFMLO1xW_
+      SNIP: 3天前 宁德时代 构建了难以复制的控制力:电池原材料成本占总成本60%-80%,其通过长单协议锁定了80%以上的锂资源采购,自有锂矿能满足35%的锂需求。更重要的是,它通过“原材料价格联动”条款,能将80%-90%的原材料涨价传导给下游车企。因此,即便碳酸锂价格翻倍,宁德时代的 毛利率 依然稳定在26.3%的高位。 压力承受点在车企...
+  [5] 车企利润率只剩1.5%? 宁德时代 不肯让利,车企就活该薄利?产业链的...
+      URL: http://www.baidu.com/link?url=lV7cMctykHDsSM7hVlV2Er_FAxnQp3AFoVIth-fpPVyvdtlRvJRkTHWmMoFD1-vlndc9jQ0x0-67xB8N3xLAraMcquDJLK0LAN1oly8gbKO
+      SNIP: 2026年7月13日 而且宁德时代自己也在承压。 2026 年一季度碳酸锂等原材料价格涨了，宁德时代的毛利率环比下滑了3.4个百分点。也就是说，电池厂也在被上游原材料涨价挤压，只不过它的利润空间厚，还能扛得住。车企利润率从4%跌到1.5%叫“惨”， 宁德时代毛利率 从28%降到24%叫“略有承压”。这就是差距。二、宁德时代为什么不...
+  [6] 宁德时代 Q1业绩看阳光电源 基于 宁德时代 (CATL)刚刚发布的 2026 年一...
+      URL: http://www.baidu.com/link?url=2jZXBKqiAZ2KXmCG5neW8EKB5b1_j4GQEwNYUUG_AH7zDHTzmi9ebIzyZL-8ANJDJkWrIjndqdfuveHFtX_WPK
+      SNIP: 2026年4月15日 🔋 第一部分:从宁德时代Q1看 储能 行业 毛利率 现状 宁德时代2026 年一季报显示,公司整体毛利率为24.82%(同比上升0.41个百分点),其中储能业务的表现尤为亮眼,揭示了行业盈利能力的修复: 1. 储能毛利优于动力,且差距拉大 * 数据对比: 宁德时代的储能业务毛利率维持在26%-28%区间,而动力电池业务毛利率仅为23%-25%。
+  [7] 欠账3千亿、固态电池未见影,日赚2亿的 宁德时代 有“暗伤”_车家号...
+      URL: http://www.baidu.com/link?url=6S0a3HCXR4lM75FZoybZgdqY3HlXfmZk0MfUl_z9U52oKaHiPLMWXdjfNoahzllSvr6UYEhURL4SZn7ym1bG9a
+      SNIP: 2026年5月1日 宁德时代 给的解释是,原材料涨价,成本传导有点滞后; 储能 业务占比在提升,而这部分 毛利率 本来...
+  [8] 储能 热销驱动业绩超预期, 宁德时代 千亿营收背后的隐忧与算盘_财富...
+      URL: http://www.baidu.com/link?url=iCNuMwbfIuJd7CYW8dvcFB9KwSNvpBtKnOVracSto03vG6aUWBPFYfdGrEwgnVOeHulmFqhiQ4Ldz01l3u4xhjQxs8PzWJSvdhlYJpIHN0_
+      SNIP: 2026年5月4日 2026 年4月15日盘后, 储能 龙头 宁德时代 (300750.SZ)发布了一季报。当期实现营业收入1291.31亿元,同比增长52.45%,归母净利润207.38亿元,同比增长48.52%。在近两万亿市值的体量下,利润增速仍逼近50%,这无疑是一份令市场侧目的成绩单。 然而,华丽数字的背后,藏着储能崛起、赢家通吃、 毛利率 下滑与出口退税退坡等多重交织...
+  [9] 宁王:产能拉满!AI 基建 时代 霸气归来
+      URL: http://www.baidu.com/link?url=lV7cMctykHDsSM7hVlV2Er_FAxnQp3AFoVIth-fpPV5B5KFrt4Cnpos8uTElqElVtTrNedGcCEUr90S1kbdrrftj9YmDYXw-V23E4mnLYVC
+      SNIP: 2026年3月10日 ① 担忧新能源车增速放缓对26年整体出货量的拖累：随着中国新能源车购置税等补贴政策进一步退坡，国内电动车销量增速可能结构性放缓，从而 拖累宁德时代2026 年的动力电池出货量指引。② 担忧原材料上涨侵蚀单wh盈利：2025年Q3以来，碳酸锂、铜、电解液等核心原材料价格加速上涨，市场担忧宁德时代无法将全部成本上涨压力传导...
+  [10] 储能 爆发! 宁德时代 Q1动储总销超200GWh, 毛利率 微降 - 盖锡新能源...
+      URL: http://www.baidu.com/link?url=lV7cMctykHDsSM7hVlV2E9gsoS4xp0B_4kKnEmpKbmdiJ1LW8IvZ7-_weAkqSrKf
+      SNIP: 2026年4月16日 宁德时代Q1动储总销超200GWh, 毛利率 微降 【核心数据提炼】 宁德时代2026 Q1动储总销超200GWh, 储能 50GWh(占比 25%)。电动化+储能+AI算力三重驱动公司加速扩产,毛利率微降受原材料涨价+产品结构变化影响,匈牙利工厂正爬坡降本。 4月16日,宁德时代披露,2026年第一季度,动力和储能合计销量超过200GWh,其中,储能占...
+
+=====[gg/qen_gg1] CATL 2026 H1 earnings call transcript gross margin Q2=====
+NO FILE: 000|0
+
+=====[gg/qen_gg2] CATL Ningde 300750 2026 interim results analyst call=====
+(curl: 200|91260, results: 0)
+
+=====[gg/qen_gg3] CATL 2026 H1 gross margin decline energy storage lithium=====
+(curl: 200|75984, results: 0)
+
+=====[so/qzeng_so1] 曾毓群 2026 固态电池 凝聚态 最新表态=====
+(curl: 200|390245, results: 7)
+  [1] 事关全 固态电池 ! 曾毓群最新 发声 _ 东方财富网
+      URL: https://www.so.com/link?m=uv3vbWXK727Nu4BbMhThlQWI9kVLrFVGNlgzSk5NIc%2Bfl2HSW%2BvxaYOxsHcsxCj9pN%2FkYKUd3o1jpojapnDRGJpdFxVH%2BpBMIZT6w92l84VoRJDpRQYcfqlM%2Bfh6y1j7KFWkBJ3LyGC6nsXRVTwI5fo22zQWC5Dea4EOZGqlYowapClxPHGjIQLSbaESF5BnWMougBiApHlmPbqmnupvnJ
+      SNIP: 2025年11月12日 - 【导读】宁德时代董事长 曾毓群 最新 发声,提及全 固态电池 、 国民好车 11月12日,宁德时代董事长 曾毓群 在2025世界动力 电池 大会上发声,谈及全 固态电池 ,以及... finance.eastmoney.com 反馈
+  [2] 曾毓群 : 电池 工程化的极致 《财经》杂志执行主编马克与 曾毓群 期进行了一次深度对话,主要探讨了 宁德时代 的战略转型以及新能源行业的前沿技术。在202... ...
+      URL: https://www.so.com/link?m=e43XFUiLh1GneEcGyzsEKJpd9Zb8JV7DYhZ8yCMb8ZKNJTHZaXh9jOs%2FZpQPt94F1AroS1FBaMm2zTxL%2FIkLt4RS75V4xPIjXoXAUd0rJzsFpEf0k7t2L2qvQ%2Buyckc9YlSSy7c%2Fnn73C4rDnSHTOJ5ve2N5S6CegVs3AQePCtdqF5jDP1EwVRRqBES0gHMK4CK%2FFvaZZKt72hT5viM3Uq
+      SNIP: 2026年6月10日 - 曾毓群 在对话中明确指出, 固态 电池不是大家想象中的圣杯 ,打破了外界对该技术的过度神话与盲目崇拜。.在 2026 年6月的对话中,双方深入探讨了宁德时代正...
+  [3] 事关全 固态电池 ! 曾毓群最新 发声_天天基金网
+      URL: https://www.so.com/link?m=e9JadLurRhR9NR9Ti6WRz1RlLiT%2B6Wu3hxysHMdt0VcVCsd%2Bxq7lt4QH7hOOgxfIOhYwazcUopDohDfUu%2Bgl8iIoyNOWNG7q1OqQDTJciP462d2bIuGDZM11m8dO0btXRMxqg6jq0fjhyRrcQYk3ar9Tf4vq0V0bew3%2BV%2BfxNcfTAfKzMCHspg8%2B1DXhw7IO5oNH%2BWOWUCBeNPgbzI
+      SNIP: 2025年11月12日 - 同时, 曾毓群 谈及全 固态 电池. 曾毓群 表示,埃安UT super基于宁德时代的巧克力换电系统,并且采用宁德时代 最新 的耐高温电池,不需要水冷,寿命更长、安全性更...
+  [4] 宁德时代董事长 曾毓群:固态电池 现在只到Level 4,Level 9才算真正量产 - 今日头条
+      URL: https://www.so.com/link?m=z9sy4rGr%2F6suPj4IJGDDjWI8BQX%2BQtEtJ3%2BQFS2PanXb47zsMTGFW8GqyPh2vc21iv%2BHOT6l6%2FpA4rrU4AHmPzY8ny7Y%2FGzVPE6dvd9wfXymwKUJGktoTBnH3oyC73E3QLikCyFjxi1oRMRWoMuPHoBwVLX3KLR63mepbVwWTAuryXWfTLCKfpMyB2%2BC%2B%2BcPtKc235ft83EMAe
+      SNIP: 2026年6月27日 - 在论坛上, 曾毓群 正式抛出 固态 电池分级技术,可以做到现在只是Level 4,要量产必须得走到Level 9.而半 固态 电池给出的解法是,先把液态的优化好,宁德时代的 ...
+  [5] 宁德时代董事长 曾毓群:固态电池 ,2030年以前没戏 - 今日头条
+      URL: https://www.so.com/link?m=bZIh7R5DACAHMSJFeuVtewy%2FsmIirFVVQNEbtWQM1hLrmSq8n2Eh6SNg%2FH%2FJ4KdbOjtGvl%2FAfGZE9ZrY2WO7V9TJ7OmS5j%2F5eiV7uZO%2BFowDkK2qPVM1fGS6vB%2FmbZ2jOBf6IzvKmCdQfgEONkJeHWFNEB9uKOVOkZ2BTEU5ZBTUHqhcNHG76oVh2JQRmN8sQSBVm6WeImgNK%2F5Y
+      SNIP: 2026年7月5日 - 最近几年, 固态电池 成了新能源行业最热的话题。车企发布会、券商研报、短视频科普,全都在宣传 固态电池 是动力 电池 终极方案,宣称2027年就能大规模装车,续...
+  [6] 宁德时代 曾毓群 ,公开回应 固态电池 进展
+      URL: https://www.so.com/link?m=wisn9orJEXZ%2BuJoJSdOp55WKJ5P55NScFHiZBWQ9iinBfCRjMgCqsCPHcbwbLzT%2FFZdYxyaYvFbZSmjiVaA9i0%2BENI%2BBb0LK7WTnDTvWGqhnCXzeASV7YvonJ0L1AuBOJvpOCDadNPo8dPL0sJzNjYxbb9QTe8P3UWmy3CXxE9h%2BIhW8jf5MFEa5dy8kJC8f73j2wZi41T4715%2FT1dMY
+      SNIP: 2026年4月2日 - 58:宁德时代 曾毓群 ,公开回应 固态电池 进展 22:每日新闻摘录 30:发表于 2026 /04/02 02:03
+  [7] 曾毓群 泼冷水!车企狂飙 固态电池 是技术突破还是营销画饼?
+      URL: https://ai.so.com/search/soe82f5db02a60b42f97c97970af2082cb?search=%E6%9B%BE%E6%AF%93%E7%BE%A4%E6%B3%BC%E5%86%B7%E6%B0%B4%21%E8%BD%A6%E4%BC%81%E7%8B%82%E9%A3%99%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E6%98%AF%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E8%BF%98
+      SNIP: 曾毓群 的 冷水 并非否定 固态 电池价值,而是呼吁行业回归理性,避免过度预期. 车企 固态 电池量产 现状:技术突破与营销博弈并存 车企密集发布 量产宣言 : 2026 年北京车展上,奇瑞...
+
+=====[so/qzeng_so2] 曾毓群 LRS 技术授权 福特 海外=====
+(curl: 200|370951, results: 7)
+  [1] 宁德时代 曾毓群 :将在欧美推广 技术授权 合作模式|界面新闻
+      URL: https://www.so.com/link?m=wxCvdYwCyFiVrDKgAhfTgLfSs4kcLilfzDdSpDtupfTaLSmDbCv7L%2BMvMkqgoblyMW2AvQbopkZUM1OUlA1aOAPTpmQ0e1hN9oaVekEtVSMj9kEKCIwbCLSK%2FYqORiAHJ6V03cryheYSdK5LiVHSjHjgoUprXlzO5bNHgVlmLRnvLgwyqYuX3XTCsCC%2FtewodgW%2FjFZ0TP3xvTgllpUwEdae
+      SNIP: 2024年1月20日 - 曾毓群 称,宁德时代与 福特 汽车建立了一种很好的合作方式,宁德时代采用 技术授权 的服务模式,帮助 福特 汽车建造自己的电池工厂。.宁德时代目前在海... www.jiemian.com 反馈
+  [2] 宁德时代 曾毓群 :将与更多欧洲、美国整车厂,甚至电池厂进行 授权 服务合作_ 福特 _模式
+      URL: https://www.so.com/link?m=bzPgSDOLBnPEyHLlQ2m%2BE9ST0FiVrnKSqK8ro3vwBzcPjbOpWk8XmS3CLMp7agzxDw1AjfkmVuJl7jZjdWnJ1iBdhqVzTVtTNjVn1STS2Oo0LyT85qmv7U8w%2BCaCunjnODdIsbyUauCrVQ%2B8lWEiYE%2F%2BM4fw5PMhs%2FILebGKNz82gMnQ%2F8H%2BjNDTtK8Hjs2hhNGXc%2Bjt%2BuBP
+      SNIP: 2024年1月20日 - 宁德时代董事长 曾毓群 近日在2024年世界经济论坛年会上表示,宁德时代与 福特 汽车展开了一种很好的合作模式,将使用 授权 的服务模式,帮助 福特 汽车建造他们...
+  [3] 晚点独家丨宁德时代与通用汽车洽谈 授权 合作,计划在北美合作建厂 宁德时代 与 福特 合作后的又一 技术授权 案例。文丨李梓楠编辑丨程曼祺《晚点 LatePost》...
+      URL: https://www.so.com/link?m=buqGlmHOZmnpxv3lu4tiAy1IYp3v3kxnxCsaL1mvQA21LPHyWEj3Z7vpeHK865GYGRA8uuTZZANxMvMrhFw0AQVI%2BgSEird%2FVgDL1C9Uir1gzqF%2FKgA30xn0N0dsRF6HgQAp5hFZmh30mN1rLzBLmkgDJh8jFxBRHD2ysexVazNHFpoD2hWg79N92A3kkqO%2FNRETq92Ql8aWOe%2FuIgx6%2
+      SNIP: 2024年3月28日 - 宁德时代董事长 曾毓群 曾在 2022 年初的一场调研活动上说。.通用汽车洽谈 LRS (Licence Royalty Service, 技术授权 )模式的合作,计划在北美共同... xueqiu.com 反馈
+  [4] 曾毓群 发出总裁办2024年一号文件 宁德时代加速出海_腾讯新闻
+      URL: https://www.so.com/link?m=b2NTj88rcnIII8eheQ2jQxLt46qzNHLAkiBfsuZmOTk0Wjfsrxy8yeuorcvGFPvseNQy5QKwwqTwoKUyA1MqnlEybWiWNXe4oyGBhxKPy6OHlavYu5Xp%2FdOfS%2BXweOBZdpX%2FI4A8p0ws9NJtMUIQDcSYS4mqwWl%2FuiSylKiNbFeVwHOuq7Q5hpFv2%2FEczexG8z9fXUu4oVm6WIhEUOWM8D
+      SNIP: 2024年5月22日 - 5月22日,宁德时代董事长 曾毓群 发布2024年总裁办1号文件,这封出海动员信标志着该公司将全面加速 海外 市场的拓展与布局。.值得一提的是,宁德时... news.qq.com 反馈
+  [5] 曾毓群 达沃斯透露宁德时代与 福特 合作细节,提供 技术授权 服务模式_车家号_发现车生活_汽车之家
+      URL: https://www.so.com/link?m=baHHF%2F%2FR%2BoPbzkEzrlmUx5cAMK6zu2a5R6j1hTQKb24DJc1V77vP9y6CTt7NNlCJ%2BOySE2XYv5%2BPETI61ACnh6PrspENbKEYCACK%2FiIGAY4GOfN%2FXMOSots8%2F9WcFN%2FBzGcBFj9O7qkXl4kARPM8Z9A7PnO0oO5c21ZeuITQVDJrziJk4JZ6Ob6OybcDxfMIRSUZlhYuXzi2wS
+      SNIP: 2024年1月22日 - 曾毓群 达沃斯透露宁德时代与 福特 合作细节,向欧美车企提供 技术授权 服务模式 曾毓群 达沃斯透露宁德时代与 福特 合作细节,提供 技术授权 服务模式 汽车观察A...
+  [6] 独角兽早报| 宁德时代加速出海, 曾毓群 亲自负责;阿斯利康将在中国打造单独供应链_风闻
+      URL: https://www.so.com/link?m=bfjkf%2Bn4qqTwHd%2B0YdDyUBXkWSfakdu%2Fvq5XPKfNHGTpJlq%2FoX3U%2BiyK1y9PH%2BT%2F3XOuzpA4Nm%2BmaCnRG4yhGDTVbPmnUWzcVq7qwymIh7%2BBLG77keS8SfFM6KOz%2F474Y7%2BPnvCim8TvxtYt9%2Ft62P%2F6a7qaDqufDfwR36yE%2FxYR5oqQv847CR%2BOM67rTf66D9
+      SNIP: 2024年7月1日 - 宁德时代2024年总裁办1号文件就是一封出海动员信,由宁德时代董事长 曾毓群 亲自发出.宁德时代推出 LRS ,即 技术授权 模式后,更多国际车企开始积极... user.guancha.cn 反馈
+  [7] 曾毓群 下注新棋局:可持续即未来_宁德_全球化_时代
+      URL: https://www.so.com/link?m=zJacB4MNjcHQe9BZjKtIlsHI6p8Q62LdKd98xi%2F0lTQGZPd8mmAIA6FmbrBP5KfjNLvzr8WZhQXl5clQ8ImTOeQqjMbhSKeJo89xtvDGsiTFdl4tcLTGk%2Bo6zZjbTCoLAKkj0oPOUwfgJPSZDxX5Caa6fZvSui0a%2F7nysrmNA4CUtqk8O71jzvDF8lS9tTBiUOh%2BHL1pijPO99WQTUHjNuAB
+      SNIP: 2024年3月26日 - 3月25日,宁德时代(300750.SZ)董事长 曾毓群 现身香港One Earth Summit,提出以 开放式创新 推动全球可持续发展。.在与 福特 汽车合作的过程中,宁... www.sohu.com 反馈
+
+=====[so/qzeng_so3] 曾毓群 2026 中报 财报 解读=====
+(curl: 200|384106, results: 7)
+  [1] 曾毓群 的财富又回来了,宁德时代股价创历史新高,20个月涨了178%_腾讯新闻
+      URL: https://www.so.com/link?m=e02hNnu%2BzScd1KcBxcTC3xQWvNJnJMCYjbfirVnIYnPzWehHmayzmADvd49sxbcGJXi5MfqJDXxL%2FD0SK3hCKxtH%2FV1h%2FwG00ScCi%2BsESiqVaN96PA%2BeKOdLwpGBwqPSTDoYQil8jAHYpzykW%2Fcsi3xQfE4U7r1n5af3FrsFmnPhobxtCj2%2FjDZnkYel5fXWaSxggOL1ZpcKBVNw
+      SNIP: 2025年9月17日 - 根据此前 财报 ,宁德时代董事长 曾毓群 透过厦门瑞庭投资有限公司,整体持有宁德时代约22.47%股份.消息面上,有券商称,宁德时代 2026 年电池排产(即规... news.qq.com 反馈
+  [2] 拆解 宁王 最强年报:每秒赚2290元,储能成新增长点, 曾毓群 个人分红比部分车企盈利还高 - 今日头条
+      URL: https://www.so.com/link?m=wIL5bri%2ByZVgVzLftLMQBRI4uzTnoX8HokRPqH5FY%2FatkT2ohbMbEgNaZEGO7WG0pBQvCiVY%2BF8f5TkjxG6NAOmkB0b%2F8Uo6Jkc%2Fbw89EQNwfzf2BruDC7OIBIe7bbcPx5fWhmgh089LIUS5wwsjfRev%2FTSSKgAz4BB3k0m1qjglhQSNRQtbUBLCeBfD1PhQ%2BgskDU2Hkh0oTVo%2B
+      SNIP: 2026年3月12日 - 其中,公司创始人、董事长 曾毓群 凭借22.45%的持股比例,个人可分得约81亿元。.截至2025年末,宁德时代合同负债余额达492亿元,较2024年末增加214亿元,增幅...
+  [3] 宁德时代港股上市在即, 曾毓群 身价超2500亿,9个月营收达2590亿_公司_电池_产品
+      URL: https://www.so.com/link?m=wg65KOq2atHfkhVsISWcw2VcLTfHnPSMcUddSFgZ1fm1s5dKT2Rfr8mRBk%2BmrXce9tlU5RPZU4XT3pjX9xNQIF%2FeW8dc%2FhW%2F6hcJk5kW%2BYssLIkyqYWEm2QUQlT7QAfig2QtG%2FrMBPlmMWxhZMgtw73lmZn5fCT190MPGYG5J2qZGI8ifdfnEY2kQWlK8tbFc0jHxXJZJtD55sWxkoxN
+      SNIP: 2025年2月11日 - 宁德时代创始人 曾毓群 ,通过持有公司约23%的股份,个人身价已超过2500亿元。.根据 财报 ,宁德时代2023年营业收入达到4009亿元,同比增长22%;研发费... roll.sohu.com 反馈
+  [4] 宁德时代 曾毓群 确认 2026 年基层员工涨薪150元|薪资|职级|知名企业_网易订阅
+      URL: https://www.so.com/link?m=e9AfUPqgYAMXVQwesQAQCTQzylPEM9%2FZyzHeMR3%2FcRfGWcn2IN5bq3KglBWT5OYgvz9QYzd%2Bvffe2n53%2FPKsCNBvNRDiC86cXpbP90Vw5QvoCJCviN4qqGM87uhGdYiuwXmTpIsWrbJYxq3L2AdWiBHBPEB1wxL9HCKvFxaQH2MsQ6OzaIgsSWPCRmrgw9PZm3Bd%2F4mUCS1VrCaDFpuQe4
+      SNIP: 2025年12月2日 - 据媒体就此事向宁德时代创始人、董事长 曾毓群 求证, 曾毓群 回应称 没错 。.观点网讯:12月1日,宁德时代向内部发出通知,为更好地吸引和保留新老员... www.163.com 反馈
+  [5] 【 宁德时代 曾毓群 :从四个维度持续探索新的增长空间】$中证A500ETF华宝(SH563500)$ $A50ETF华宝... - 雪球
+      URL: https://www.so.com/link?m=bvzAUIC%2Bd9%2BuCDLr9R0ojjl%2FJHISYJO6msaImsWryOotwwxxcZOz56IIALLjTTj%2BDy0nCcwqsYfueO0VLYi3FxNht%2Ff%2BbAwLyqzXXnG3nM4S4kTh3Jltedl91%2BosWCMcmx5Cj33B5sPYeD%2F%2BPRPZBRzTvaIG9%2FJCi1%2BZfw4Wu6xF2gojcbFLbWOXdnGCFoxU8LmWWzQvxo
+      SNIP: 2025年11月12日 - 12:宁德时代169:董事长 曾毓群 作主题发言称,十多年的积累让品质成为宁德时代最重要的标签,但高品质不是终点,而是新的起点。面对全球 9:新能源5... xueqiu.com 反馈 TIME.rfTime = +new Date;
+  [6] 6000亿巨头暴涨,背后有何逻辑?跳出财务报表,才能看到成长背后的推动力!来看宁德时代的走牛"根基"_ 曾毓群
+      URL: https://www.so.com/link?m=uXbsikPkiwTA9WXpRVS9UbedIfkRXv9MrJmUzFd9fJ518GMJcWris2tpCyxtgvRVZ0wPVh4x5dICImoOTHr1uKbOgZphc2vV8mP%2F9WBCVKd%2FeSpDxNfogWNXwU4F5jNRj9AIsmj8QkfYqPFBanjbGCzt36RXPPse4LTzZrVNPJomEIQDZiqSDupHdQkjmFz2lbqB0Pe%2Btu9uYmKBZtUDGLAC5T
+      SNIP: 2020年11月9日 - ”这是宁德时代创始人兼董事长 曾毓群 常说的一句话.与这句话相伴随的,还有 曾毓群 几个被广为流传的故事,均从不同的侧面刻画了其追求极致的精... www.sohu.com 反馈
+  [7] 日赚1.81亿! 宁王 业绩,大爆发
+      URL: https://www.360kuai.com/pc/994ee08b445a8a99d?cota=3&kuai_so=1&sign=360_57c3bbd1&refer_scene=so_1
+      SNIP: 2025年10月24日 - 在此背景下,宁德时代创始人 曾毓群 身家也是水涨船高.宁德时代管理层表示,公司在国内山东济宁、广东瑞庆、江西宜春、福建厦门、青海、福建宁... www.360kuai.com 反馈
+
+=====[bd/qzeng_bd1] 曾毓群 巧克力换电 2026 进展=====
+(curl: 200|864487, results: 9)
+  [1] 宁德时代: 巧克力换电 累计落站 1650 座,今年预计突破 3000 座
+      URL: http://www.baidu.com/link?url=oommXjEpZc-6SrYvfNVABsGmI2oNbfOU89XRbbalF8woWPeDhFo8rkAnyqMilDHrY8m9xHSZpXtjQKnasCddEhEn8K1sIv0spH8Ah3HZ4Wi
+      SNIP: 2026年5月30日 据IT之家此前报道，在 2024 年底的 巧克力换电 生态大会上，宁德时代创始人、董事长、CEO 曾毓群表示，到 2030 年，换电、家充、公共充电桩将三分天下。今年 4 月，宁德时代正式发布巧克力 26#换电电池，其基于 800V 高压架构打造，首批上市产品为 75kWh 版本，未来还将提供更大电量，B 级车、C 级车都能用。“巧克力”“骐骥”（IT...
+  [2] 宁德时代 巧克力换电 : 2026 年全国覆盖127城!-新浪汽车
+      URL: http://www.baidu.com/link?url=k5XOTmstI60jnUbud7CzGWkN-7ZRbcTr_urDntP9-_VgV8QenRsn-CsA3HYHq0EX5hVDxg-GngJgDGs_GOoUkFNVQ8VNf1XCr-7beSamKCq
+      SNIP: 2026年5月31日 根据公司的目标,到 2026 年底,巧克力换电站的数量将突破3000座,覆盖城市数量接近190个。这一目标的设定,彰显了宁德时代在换电领域的雄心和信心。 回顾2024年底的 巧克力换电 生态大会,宁德时代创始人、董事长、CEO 曾毓群 指出,到2030年,换电、家充和公共充电桩将在新能源汽车补能市场中占据重要地位。这一观点不仅为换电业...
+  [3] 宁德时代赢麻了:每天净赚2.4亿,掏400亿回购股份
+      URL: http://www.baidu.com/link?url=oommXjEpZc-6SrYvfNVABsGmI2oNbfOU89XRbbalF8wyQ1Mqt8IRdnajfkXAX9WoMQ9AOJn0y5PaWXedR-9QFF1OoayhI8N6vB9HP1C7FoS
+      SNIP: 9小时前 新业务也有 进展 。半年报披露，截至报告发布日，全国累计建成 巧克力换 电站约2000座，覆盖31个省份180座城市， 换电 车型超20款；此前公司披露，商用车干线换电已率先在重庆实现盈利。宁德时代把自身定位从电池企业调整为零碳科技企业，数据中心的中压配电、机房供能、储能备电都在做，管理层称未来一两年这套综合能源方案...
+  [4] 宁德时代换电站突破2000座 目标 2026 年底前达3000座_车家号_汽车之家
+      URL: http://www.baidu.com/link?url=NY9-H-cbLlJhEB9loPyo7oXub5OP2C6yaUNjN4lWegEckGQf-BaZvrB-y4ZRj96GMC-BR-zvKa2389Tzmqz_Na
+      SNIP: 2026年7月6日 全球最大的动力电池制造商宁德时代,正通过其支持的“ 巧克力 ” 换电 网络,在换电领域展现出惊...
+  [5] “宁王”狂奔: 曾毓群 个人分红81亿,抵过10家车企利润-重庆日报
+      URL: http://www.baidu.com/link?url=6O3pr4y7rmFo-bH9a0qFq1fT9lP_WkUxur7LSy2VXVHU53GS2Sfd9_A0H3KuBJqjaySnBVpPqUsuHmf-6cPbBzlR0fZC1y1o7_k5hxoOHt3
+      SNIP: 2026年3月12日 换电则是宁德时代正在押注的另一条增长曲线。按 曾毓群 在2024年底 巧克力换电 生态大会上的判断,到2030年,换电、家充、公共充电桩将三分天下。 在9日晚的业绩交流会上,宁德时代管理层披露了换电业务的 进展 。截至报告期末,巧克力乘用车换电品牌已建站超1000座,覆盖全国45座城市,织密长三角、京津冀、川渝、大湾区四大核...
+  [6] 宁德时代的“ 巧克力 攻势”:1650座只是前菜, 换电 正在成为第二增长...
+      URL: http://www.baidu.com/link?url=oommXjEpZc-6SrYvfNVABsGmI2oNbfOU89XRbbalF8woWPeDhFo8rkAnyqMilDHr4454bORmA4N_j2Dn2KpCB5EwicFet4UruE6-0C_Q8lm
+      SNIP: 2026年5月31日 宁德时代创始人 曾毓群 在2024年底的 巧克力换电 生态大会上曾表示，到2030年，换电、家充、公共充电桩将三分天下。换电一旦占据整个补能市场三分之一的份额，宁德时代在此领域的领先地位将转化为巨大的商业护城河。1650座站是起点，3000座站是今年的刻度，而宁德时代的长远规划是3万座。在从"万座时代"迈向"十万座时代...
+  [7] 比亚迪王传福VS宁德时代 曾毓群 :闪充与 换电 ,谁才是 2026 年省心省钱...
+      URL: http://www.baidu.com/link?url=6O3pr4y7rmFo-bH9a0qFq3pvxpXibjBnKGabql0Mi9o70U0beATIyWtsVs_bLscQszwjCLjn4DNOdadfRC8BDUQijI5I1bAuIP92zATQRdG
+      SNIP: 2026年4月16日 宁德时代 2026 年主推的 巧克力换电 模式,换电服务费计算包含不同套餐。保养成本通常只与车身...
+  [8] 宁德时代产品集中上新 曾毓群 :科学精神就是要较真
+      URL: http://www.baidu.com/link?url=oommXjEpZc-6SrYvfNVABsGmI2oNbfOU89XRbbalF8wXKdWERQy_igkOo7pxdT8wP3lCucTv0Dn1Y8LNSLu6YnSzsyXJmlo9B3dmF-mgOo_
+      SNIP: 2026年4月21日 电池产品方面，发布 巧克力换电 块26号电池，搭载800V高压架构，首批75度电版本，后续将推出更大电量，全面适配B至C级800V车型。由此，巧克力换电将覆盖A0至C级完整车型矩阵。宁德时代计划到 2026 年底建成4000座这样的站点，并联合多家车企共建共享网络。这意味着，行业的焦点正从“制造更好的能量容器”延伸到“构建更...
+  [9] 宁德时代的“青海拼图”:西宁能否跑通 巧克力换电 的西北逻辑...
+      URL: http://www.baidu.com/link?url=YIoPJ4wSLgj3IPnNwNBD5UY1rjy5uca3K6RgJQWzOaJFedXeK2xsRtEQQLv8MbwO_4KdCN2xvUZkw16kciGqZK
+      SNIP: 2026年3月25日 在 2026 年 3 月“ 巧克力换电 ”全国扩容进入白热化的节点,宁德时代(300750.SZ)将补能版图的触角伸向了高海拔的青海。 近日,西宁时代电服科技有限公司正式成立,注册资本 1000 万。通过天眼查的股权全景穿透可见,这家公司由时代电服全资持股,层层向上溯源,背后站着的正是 曾毓群 。法定代表人由张永灿出任,这位在宁德时代...
+
+=====[bd/qzeng_bd2] 曾毓群 2026 中报 发言 指引=====
+(curl: 200|858254, results: 9)
+  [1] 全固态电池“翻车”, 曾毓群 : 2026 年固液混合才是出路
+      URL: http://www.baidu.com/link?url=LIVg4e38R6IVkzTcpUdb5GLAmlySVg8dkDiUgVwUoHFuCT50MK-PsqU6bM4j8wNJlE-VLXoPzjoU18WmRBN6siIlcIojEBLpeiLuyxkLOBa
+      SNIP: 2026年7月6日 宁德时代的 曾毓群 在 2026 年大连夏季达沃斯论坛上说了一句更直白的话：若把技术成熟度从1到9级划分，目前固态电池的技术仅处在第4级，而第9级才是技术路线成熟、可以量产。他甚至补了一句：“you cannot schedule the innovation”——你不能因为制定了2027年的计划，技术就准时在2027年突破。这话
+  [2] 2026 夏季达沃斯|宁德时代创始人 曾毓群 :AI用电没想象得那么可怕
+      URL: http://www.baidu.com/link?url=LIVg4e38R6IVkzTcpUdb5GLAmlySVg8dkDiUgVwUoHEoV0jyGG5-qS011Xx_8u-cDEYin6j0JC6d1y6NOLq9W4O6mEet9QT0FvbG5Udjmoa
+      SNIP: 2026年6月24日 北京商报讯（记者 魏蔚） 2026 夏季达沃斯期间，宁德时代创始人 曾毓群 表示：“中国的电网与能源体系发展十分成熟。对整个行业而言，新增人工智能数据中心的总耗电量，相较于电力总量并不多。问题在于，数据中心使用化石能源还是可再生能源。如果把数据中心当作一个新类别，要用可再生能源供电的话会有一些困难和问题，因为我们...
+  [3] ...钠电关注到,近日, 宁德时代 董事长 曾毓群 在 2026 夏季达... - 雪球
+      URL: http://www.baidu.com/link?url=QbqRChPNOgPu7JmiRt4LDYE3chJbdwtHltIMrwdcMp8O0FFaxAGFXlHeBPGf3gZBy5NYmC4AV_VLjdJNgR15-_
+      SNIP: 2026年7月13日 曾毓群 再发声:宁德时代3-5 年钠电产能破100GWh 起点钠电关注到,近日,宁德时代董事长曾毓群在 2026 夏季达沃斯论坛上表示:“目前锂矿开采始终存在各类难题,今年我们已经实现储能钠离子电池量产,以此摆脱对锂资源的依赖,还需要3至5年时间,把年产能提升至100GWh以上,届时足以支撑全球数据中心的用电配套需求。” 当前,锂矿...
+  [4] 对话 曾毓群 :固态电池已迈进第四级,投资新技术要把握节奏_新浪财经_新 ...
+      URL: http://www.baidu.com/link?url=Iv_gN8fc_tDqNZZXkBId_AoelD64cofoCPr3ThzHZY4yUZ3pHnzerBJcL6tc_uzO9podpT46oLeRJUHse4qxdFVcTOeDSa_9wdeFkr0XYe_
+      SNIP: 2026年6月24日 曾毓群 还透露,宁德时代在钠离子电池领域已有大量资金投入,今年就将实现大规模生产。 在审慎研判下一代电池技术的同时,曾毓群的目光也早已投向另一个正在重塑全球能源格局的变量——人工智能。 人工智能不仅为储能创造了需求,也正在提升能源系统的运行效率。曾毓群表示,人工智能对能源的需求巨大,而中国在这一领域的发展势...
+  [5] 2026 两会 | 曾毓群 委员通道发声:宁德时代以创新领跑新能源_车市动态...
+      URL: http://www.baidu.com/link?url=uHgD8yM4UlP0JWraIZJwri5vrnS8fbpX9jiDqvp7W2Iax2O_9WaV7Bdr9jRtRbvKQleN8BomOc1sPHr5vVQB5Bw32SKvs9MCnHrFEOJVbYC
+      SNIP: 2026年3月4日 3月4日 在全国政协十四届四次会议第一场 委员通道 集体采访活动中 全国政协委员 宁德时代新能源科技股份有限公司董事长 曾毓群 就新能源产业发展及企业规划作出表述 谈及中国新能源产业的快速崛起 曾毓群将其归因于国家长期以来的战略定力 他指出 过去二十多年国家对
+  [6] 储能销量121GWh、产能利用率96%! 曾毓群 公开信解读业绩增长→
+      URL: http://www.baidu.com/link?url=LIVg4e38R6IVkzTcpUdb5GLAmlySVg8dkDiUgVwUoHEYPnHQ0btjc0v9RkJHl14QBwI9Oq5WRjppvWEwiP3i2jxO-_a77Ze9SOBq78cmAva
+      SNIP: 2026年3月10日 4月2日，北极星太阳能光伏网、北极星储能网将在北京召开“ 2026 分布式光储创新论坛”，并带来零碳解决方案相关解读，报名咨询联系王老师18911725159。不只是车！零碳eVTOL起降平台迎高光时刻 在电动化目标 指引 下，宁德时代在2025年大举进军换电业务，且成效显著。根据财报，截至2025年末，乘用车领域的巧克力换电站已建成...
+  [7] 2026 夏季达沃斯论坛|宁德时代创始人 曾毓群 :我国新能源势头正盛...
+      URL: http://www.baidu.com/link?url=LIVg4e38R6IVkzTcpUdb5GLAmlySVg8dkDiUgVwUoHEhjFcvUxljt16UEQH1CmlsNVaHkF6Zc0X0vtwDGB-zmYyoSrPJ5UpRjJSm4q1EBde
+      SNIP: 2026年6月23日 2026 夏季达沃斯论坛｜宁德时代创始人 曾毓群 ：我国新能源势头正盛，创新是下一步关键 6月23日至25日，世界经济论坛第十七届新领军者年会（即夏季达沃斯论坛）在大连举行。活动现场，《每日经济新闻》记者独家采访宁德时代创始人、董事长兼首席执行官曾毓群。在被问及如何看待中国新能源发展时，曾毓群回应称“我国的新能源...
+  [8] ...来源:中国化工报 进入 2026 年,行业依然在快速发展,新的技术、新的产...
+      URL: http://www.baidu.com/link?url=QbqRChPNOgPu7JmiRt4LDYE3chJbdwtHltIMrwdcMp-SNueQbe0h2AfoF86cJRDhdFv9A5W8oAI2dEy_IXKTOa
+      SNIP: 2026年5月19日 宁德时代董事长 曾毓群 :新能源时代,更需要科学精神 来源:中国化工报 进入 2026 年,行业依然在快速发展,新的技术、新的产品、新的表达不断出现。越是在这样的阶段,我们越需要回到一些更底层的问题。怎么看待技术?怎么看待创新?我的看法其实一直没有变——我们不...网页链接...
+  [9] 【 曾毓群 :#宁德时代今年产能将超...@中国报道的动态
+      URL: http://www.baidu.com/link?url=s3Mroz8nSuXrqsxrbAG_t9oli7Hr1gQUx54FD0bpqzzQ3_Y-I2CFM0K1plAKta5TgVSYqOicvdZ9wHzg9T5cPoy7ktgM14eRCJFiH-CB9WN1rLzdqoKiHn13tRdvBpkc
+      SNIP: 2026年6月23日 【 曾毓群 :#宁德时代今年产能将超1000GWh#】在今天的世界经济论坛第十七届新领军者年会( 2026 大连夏季达沃...
+
+=====[so/qshare_so1] 宁德时代 2026 全球 市占率 海外 业务=====
+(curl: 200|380777, results: 7)
+  [1] SNE Research发布 2026 年Q1 全球 动力电池榜单: 宁德时代市占率 破40%,韩系三巨头降至15.6%|装机量|gwh|电动汽车| 世界 动力电池大会_网易订阅
+      URL: https://www.so.com/link?m=wCWFYNRKX8%2FYpx02zQ4R%2BWbregDhJPLlYncxRymZVjG3VF%2F7HmWM%2BFEnNA3RUC1FPlw66ZNf%2FOjuZTWpTVqftUDqCQqagTqyVC8Iov1gzjT4O%2FlZ%2BlUU6G4oxPuWzIMYQ0%2B66GobwOevPexrlHyPmNnvk%2FlZ8EnPOhr5o4XJv5OScvr2MMOaTR2wGr4naILnYL%2Bt1LLOZngR
+      SNIP: 2026年5月6日 - 根据SNE Research的统计, 宁德 时代在今年一季度装机量达到99.5GWh,同比增长15.2%,以40.7%的 市占率 继续保持全球第一。.这一增长主要得益于赛力斯、理想...
+  [2] 宁德时代 狂飙42% 市占率 ! 全球 电动车 心脏 被中国卡脖,欧美如何破局?-有驾
+      URL: https://www.so.com/link?m=eoVSTJ9HH8UNocm08H%2BM8z8HLeiPHMQeNNCUKYh0LFLQMP%2BL3ch3Uh4MqQU3ODxELz%2Fetcuy2nzDqKjbbXsZbtBALNhkBLrb7%2BMTVmuLciHCmHa0DjjpMTm4LUfrX8sYHuy%2BVWuvMAb4mA6GSCPdSTt0QQL0ftBbhWGGD2OsPgtMmsMHtnJRV%2FoUDfIIPpOsm0QOarrUWs74nemAcDFn
+      SNIP: 2026年4月13日 - 宁德时代 的 海外 收入占比已达30.5%,德国工厂已经满产,匈牙利基地 2026 年投产,还在印尼布局了全产业链项目. 宁德时代 的高 市占率 并非偶然.2026年1-... www.yoojia.com 反馈
+  [3] 一、公司定位( 2026 .3) 宁德时代 (300750): 全球 动力电池+储能电池绝对龙头、双轮驱动、技术+规模+ 全球 化三... - 雪球
+      URL: https://www.so.com/link?m=uZ7wEHj7owkCVt8zOxPTdwY6LxgVDutyEscZoG3JcGprSlMRM6S9Xrz4Nr17lZnQn6c6AkrTHTdFsnc3JlRYzR5pO5Ryd1OJd5qJ6gR6ZTmeNS%2FmBgTPIaYGuKtf1ZrwBAvnv2MyX2zdIGQ5cbrg4EpFTkJ%2BKWr1HbARjoEs3UFz8zfVc3C0WdiE01i31fT6enewOGCOHwW1WtRbQFqx8eSzOoA7
+      SNIP: 2026年3月28日 - 格局: 全球 第一;出货182GWh(+50%); 2026 目标250GWh+(翻番).- 格局: 全球 市占率45%;国内50.1%(重回半壁江山);绑定.- 增长: 2026 年出货648GWh(+20%... xueqiu.com 反馈
+  [4] 宁德时代2026 年一季度业绩预测分析 一、公司基本情况1.1 主营 业务 结构 宁德时代 是 全球 领先的零碳 新能源 科技公司,主要从事动力电池和储能电池的研发...
+      URL: https://www.so.com/link?m=eEUdm%2BpF%2B1ghE9CCiTJ6B4WL6eLl2R%2Btaopk4xyyWvhnRntsCK3GmHkemctzuuHjUMFmI4MmpGYt8VmO%2F2Vc1Z1w%2FOUJNH505UFkzzPiCw29qXVb2rhZJUHE275HTe1KLqtY5mbqe3vB3B%2B92z42tpW3eP8l3S2vPHCRPXOOJuyELk%2BSQIT%2FuGmfGpDHJTh7Hbb0VZVseofRU%2F
+      SNIP: 2026年4月7日 - 宁德时代 一季报预计披露时间为: 2026 年4月中下旬. 海外业务 :海外业务毛利率达31.4%,显著高于国内. 2026 年产能规划: 全球 总产能冲刺1.3-1.4TWh,新...
+  [5] 海外 市场成 宁德时代 新增长点, 市占率 升至27.7%,增幅
+      URL: https://www.so.com/link?m=zIcZhAr5JObPrIFpH1g6tirvJaihGX6%2Fr%2BtO51hOpb6RJR7nY%2BDHq7ITdODuCqQxueL%2FeUfTQxK%2BAPTlQB3zpW3H8NR7lsz6DUHuxJxWg79Uw4Q0GC5qNsRIpeVRIwHQzF2rS6aBmHrDCjYH95rfLR6CmzmFEMHxduvxqI0otXkwaNAmQ5DBmpcVfifwFbBClSZwCG3RHp65Dsg2rcEsui
+      SNIP: 2023年11月3日 - 年的新一轮欧洲车企定点中拿到了更高的份额,持续支撑其欧洲 市占率 稳步提升。.据SNE Research最 新数据显示, 2023 年1- 8 月 宁德时代 海外 (除中... www.chinaz.com 反馈 TIME.rfTime = +new Date;
+  [6] 宁德时代 42.1% 全球市占率 :如何重塑电池产业链格局 - 今日头条
+      URL: https://www.so.com/link?m=eT6vR6EJysnEVEjJC8Z1qeEGHof0salvZxN6sJG93eCTMBnblgjT%2B%2BK7V4HaYsGCdNTc%2Fbls0NUJoJ2TXi1Xkx33V8GYYiLp9bVpGtUXjcjxs4IEY9xth6WaYF%2FSSLcCdYq5o8xKc%2FWVtK7WhudMciY9CB8npKu6%2BEM1CFRQVylD%2Fpmq1X4EFbJ4avqCmBeZqOv4TtV%2B0zMrX4ib
+      SNIP: 2026 年1-2月, 宁德 时代全球市占率已达42.1%,而第三名的LG新能源装车量同比下滑2.7%,第五名的松下市场份额仅剩4%。. 宁德 时代凭借** 长协锁价+35%资源自给+15%-20%锂回收闭环 ** 构建的成本控制体...
+  [7] 宁德时代:全球 储能龙头的估值锚正从20倍向30倍跃迁 从动力电池制造商到 全球 能源基础设施平台, 宁德时代 正在经历一场深刻的商业模式质变。 2026 年一...
+      URL: https://www.so.com/link?m=wPNGM7n43vHZn%2FWIwTxCFw7mWLqpd791Vcm9LX7k0E7XTbqQFIJDazH1gvG0Dfvd0aqiPSlBbEKF6q%2BhAUfphVFTjw19RUwMfeHelPBacveP1VxHZGAVdhSdpVdcJuDajJKWkfZUb2LffE7NmT%2FOegTJvLB%2FC7W%2Ba%2Btg%2F8hjK6jteq1GSPBx%2FZF0%2FqyvwZYKgbxs6LG0uqmqIy
+      SNIP: 2026年5月30日 - 2025年, 宁德 时代储能电池出货量121GWh, 全球 市占率30.4%,连续五年蝉联 全球 第一. 2026 年一季度,公司储能 业务 占比跃升至25%,全年净利润大概率突破950亿元...
+
+=====[bd/qshare_bd1] 宁德时代 匈牙利 工厂 2026 进展=====
+(curl: 200|1029249, results: 9)
+  [1] 宁德时代 日赚2.4亿元,产能还要再扩1.5倍
+      URL: http://www.baidu.com/link?url=t-xXjrukcCNZvVIDfBQiaOLTM8am9TU24C9CHA1A0L18eFzyL2NpUICduaaNMzC8Qez2MFHDe-GRA30IbZ8h3-uMTQAFvZ9qAuvDT1YnArq
+      SNIP: 7小时前 7月24日晚间，“宁王”公布了 2026 年半年度财务报告。财报显示， 宁德时代 （300750.SZ）上半年实现营业总收入2769.17亿元，同比增长54.80%；归母净利润432.84亿元，同比增长41.98%，折合日赚约2.4亿元；扣非净利润达到390.13亿元，同比增长43.44%。与此同时，宁德时代抛出200亿元至400亿元天量“注销式回购”
+  [2] 宁德时代匈牙利 德布勒森 工厂 (2022年宁德时代宣... - 百度百科
+      URL: http://www.baidu.com/link?url=vOD8OgfCPhaH2zkDTQbNAMo2SDLNqJRXHsEx2TGBkpCzURq9Z8G_jY9r4vtLIhJ9JV8cvp5UusS0kieiiAD0VbBJXxK85DuS7c1_0pMjQF6NugBgzHfQPy8lpQv0Fg9IrQBa4SIV8npa4hACMKb4CwpK-qwuubstO3QfAG-XyobInNFdtyIVjYrfWnMMak8S20eJFCi68eAyRTzHzU5QRcg6oZJI
+      SNIP: 宁德时代匈牙利 德布勒森 工厂 是宁德时代新能源科技股份有限公司在匈牙利德布勒森市投资建设的电池生产基地，也是匈牙利有史以来最大的绿地投资项目。2022年8月12日，宁德时代正式宣布建设该 工厂 。 工厂 位于德布勒森南部工业园区，占地221公顷，总投资73.4亿欧元，规划产能100GWh...
+  [3] 180度大反转! 匈牙利 严控电池产业
+      URL: http://www.baidu.com/link?url=t-xXjrukcCNZvVIDfBQiaOLTM8am9TU24C9CHA1A0L1NvQwlepNC3JRy-TsaX0oi7GQ9W1U93xu8F_-8_sx2AorUpleTOYShw_KxSvhk4bm
+      SNIP: 2026年7月7日 匈牙利 新政府明确否决 宁德时代 当地 工厂 二期、三期扩建计划，同时出台系列新规：强化工厂常态化环保监测、扩大监管处罚权限、优化项目公众听证机制，要求审批充分尊重民众诉求，大幅抬高外资电池项目准入门槛。业内预判，匈牙利电池产业粗放扩张时代彻底终结，未来项目落地、政策补贴将与环保合规、信息透明度深度绑定。宁德时代电池...
+  [4] 止损、合规、风险对冲|反思“ 宁德时代 们” 匈牙利 环保合规纠纷
+      URL: http://www.baidu.com/link?url=2KXtvfJxoCWqvT6TbC-zrfIHD3lPDYgkxoraivmTn6BUzygMUWexXGeB_mlQyPMcR5KZ7Aa2wCK4UkPQ__ugg3RRaDmpxNOZiyFpoT1UCE7
+      SNIP: 6天前 2026 年上半年,在 匈牙利 发生了一系列中国电池产业链企业遭遇环保合规纠纷,以至运营受阻的事件,涉事企业有 宁德时代 、恩捷股份、亿纬锂能、欣旺达等,其中,纠纷最为严重,并导致 工厂 直接全面停产的,要数隔膜龙头企业恩捷股份。 ​ 2026年6月24日,匈牙利环保部门对恩捷股份位于匈牙利德布勒森市的工厂下达停产令,7月3日,...
+  [5] 宁德匈牙利工厂 遭重罚| 宁德时代 |匈牙利水务部门|匈牙利州政府|...
+      URL: http://www.baidu.com/link?url=yZ8spg6eikVImXVVAcIF-drybsCUjaeHd8HEYcz0x9aPLQypZGrpTLybJK1uHV8mxZiZFwF-HqQElzdpd1HXRa
+      SNIP: 2026年7月16日 宁德 匈牙利工厂 遭重罚 2026 年5月5日, 宁德时代 德布勒森工厂发生一起“绿色液体泄漏”事件。工厂2号门前的雨水井突然涌出绿色液体,画面迅速在社交平台传播。独立实验室检测显示,液体中含有锰、锂、镍、钴以及N-甲基-2-吡咯烷酮(NMP) ——电池电芯生产的关键溶剂(三元电池正极浆料)。
+  [6] 匈牙利 新政府上台才3个月,就拿中国电池 厂 开刀,地下水铝超标一万...
+      URL: http://www.baidu.com/link?url=t-xXjrukcCNZvVIDfBQiaOLTM8am9TU24C9CHA1A0L23UExLVBRH83NuHa3Szez3YI7vSKBXflrCyp7kt6Ai8kiHlNLHJoU0EGR2Nfmdxa_
+      SNIP: 2026年7月10日 宁德时代 ：落地德布勒森项目总投资额 73.4 亿欧元，规划年产 100GWh 动力电池，建成后将成为欧洲单体规模最大电池 工厂 。当前电芯主体厂房基本竣工，生产设备全部安装到位，仅差最终审批许可启动试生产；配套模组产线已投产，年产能 5GWh，稳定向大众、宝马等欧洲本土车企供货。亿纬锂能： 匈牙利生产基地 总投资约 99....
+  [7] 1.3万倍! 匈牙利 市长亲自下令叫停!中资电池巨头遭遇最狠“背刺...
+      URL: http://www.baidu.com/link?url=t-xXjrukcCNZvVIDfBQiaOLTM8am9TU24C9CHA1A0L1NvQwlepNC3JRy-TsaX0oi5KnCgkK5scWYMHOUZZEzsnayvJ82fOB-vny5Qi7HsZa
+      SNIP: 2026年7月7日 匈牙利 警方自2023年以来对三星SDI启动了四项刑事诉讼，包括2024年的环境损害和职业危害调查，以及 2026 年的废物管理违规调查。德布勒森的市民决心避免重蹈戈德的覆辙。 宁德时代工厂 所面临的问题远不止环保方面。2025年，该厂以匈牙利籍员工工作效率不达预期为由，裁员约200人，并计划用中国员工替换，这一举动激起了劳资双方...
+  [8] ...电池 工厂 环保问题→ 恩捷股份 被停产→ 宁德时代 匈 ... - 雪球
+      URL: http://www.baidu.com/link?url=SJPUp86Lv3thGhFWJZ_D7c8sLdEr9P_xsQqSMAuXi8cXdRXsrxiRa1IpOHq7od-6_cFs8zTk6k8aWjjPZtmlHK
+      SNIP: 2026年7月12日 2026 年6月底至7月初,一则小作文在市场广泛传播:匈牙利新政府审查电池工厂环保问题→恩捷股份被停产→ 宁德时代匈牙利工厂 受阻→中资出海逻辑崩塌。受此影响,锂电板块持续承压。 这条逻辑链条,每一个环节都经不起事实检验——它不仅混淆了三星SDI与恩捷事件的行业共性、忽略了匈牙利总理“欢迎投资”的公开表态,更完全无...
+  [9] 宁德时代 在 匈牙利 公司
+      URL: http://www.baidu.com/link?url=MPM9-MwV9jbQdxlcVCnOrXvDBpJkgUYa_HPflpp9yc0iCt1ZHjA7VmYp7LyAO5V4dnntiz4Kn274VGu9JXl4ijDY69cM13HTXDnjba6Q984ZEV-y5hYJrLQ1wV-7Mz71
+      SNIP: 2026年3月13日 ,该项目一期已于2025年底完成产线调试,正稳步推进投产. 1 最新建设与投产 进展 一期工程调试完成,量产在即 :根据 宁德时代 在 2026 年3月的最新披露,其 匈牙利 德布勒森 工厂 的 一期产线已于2025年底基本完成安装调试,目前正稳步推进投产工作 .公司表示,产能爬坡和达到稳定生产良率需要一个过程. 投产时间与初期产能 :该工厂...
+
+=====[so/qpromise_so1] 宁德时代 2026 一季度 业绩会 全年 指引=====
+(curl: 200|382356, results: 7)
+  [1] 宁德时代|2026 年中报 业绩 深度前瞻:动力电池量利齐升、储能爆发兑现、全球龙头估值重构 核心结论前置: 2026 年锂电板块核心逻辑彻底切换为需求高增、...
+      URL: https://www.so.com/link?m=uq%2B8%2Fx%2BnG89NIoJue5kQAOtzflR4hCxX7ra%2BjVsWjUfDhL4DcryImzdQCMScpGnvXBcNeLk6k7%2FafUbfUIFjUmvV9pjmlFpMWGcYuDgeu1MgjxkLTmqXzAeFbTjyj6iJ1cLk%2BHXFNiV3WAXTZPUd%2BMItC8T1hhqGNg60xk2A4yjqLYGhMBWZv%2FiPKqy7QWNCdUwkPmz%2BHkdFxi
+      SNIP: 2026年6月15日 - 宁德 时代作为全球动力电池绝对龙头、储能赛道标杆、全球化布局领先的核心标的,中报将验证出货高增、结构优化、毛利率持续修复、 业绩 超预期的反转逻辑,...
+  [2] 宁德时代2026 年一季报财报:高增长背后的隐忧必须注意 一、前言 宁德时代 的一季报确实相当亮眼,营收同比增长52.45%,归母净利润同比增长48.52%,扣非...
+      URL: https://www.so.com/link?m=efK8un2DEJEMK5ERyqNVjQyv5VO14SpX262XoofroxTah%2Bc52370lxvyfBMsfGS1k0DhX3RjwtqfGRa1YMWRdJV2dnebKoQB9oLsaAZlH%2FzKKDXXPTIx00NQrGDrjOlSxWWezw2B49%2Byk8E1loQtE1U%2FEft1sXCdDwBy2HKu64mUckUUiskpz77DoZupwa0duCrq%2BJKEYB%2BI95iBUU2Y
+      SNIP: 2026年4月26日 - 一、前言 宁德时代 的 一季 报确实相当亮眼,营收同比增长52.45%,归母净利润同比增长48.52%,扣非净利52.95%。营收与净利润保持同步增长,作为大的...
+  [3] 宁德时代2026 年 一季度业绩 亮眼:营收超1291亿,拟300亿投向上游原材料-信息流-ITBear比尔科技
+      URL: https://www.so.com/link?m=bp9rcJ4S4BJWk9nSRy7igbKTBSlsJCfl9oo8Ej1XBudFI6QRjy3W%2FpggApWUU%2FvJ1EMA6WyNNylVfourJIoluc3XUxtC9QKd1uJCgyttri0izRcbQIycdHuGeSn%2FELj25QTA0kgiMARTAWZTX8MuAkJ9%2FthEEPsHvTHuw6zraRwMYAReHsUhd30KdC2jrbnmJE1%2Br1RSFDucbwpvURJZGa
+      SNIP: 2026年4月16日 - 宁德时代2026 年 一季度业绩 亮眼:营收超1291亿,拟300亿投向上游原材料 宁德时代 最新发布的财务报告显示, 2026 年第 一季度 公司经营 业绩 持续攀升,实现营业收...
+  [4] 宁德时代 2026 一季度 业绩会 全年 指引 _360图片
+      URL: https://image.so.com/i?src=imageonebox&q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%202026%20%E4%B8%80%E5%AD%A3%E5%BA%A6%20%E4%B8%9A%E7%BB%A9%E4%BC%9A%20%E5%85%A8%E5%B9%B4%20%E6%8C%87%E5%BC%95&obx_type=360pic_new_normal1
+      SNIP: #mohe-360pic_new_normal1 .mh-image-list{margin-top:8px}#mohe-360pic_new_normal1 .mh-image-list-item{width:105%}#mohe-360pic_new_normal1 .mh-image-item-cont{float:left;-webkit-transition:.1s;transition:.1s;position:relative;border:1px solid rgba(0,0,0,0.04);background:#fff}#mohe-360pic_new_normal1 .m
+  [5] 宁德时代2026 年 一季度业绩 大增58%具体对创业板指贡献了多少点位?|归母净利润|伯恩斯坦|财报|净利润|股价_新浪新闻
+      URL: https://www.so.com/link?m=ejD4Gvby4k6KSWdksVMJYu0SQ8fKLnqxeEPt7lPGW0sekg%2FLjXyRqhy2Vy4%2B7c2pcL59Hj1TDF2FZnagsqxClBvTlVCVOyvVJlFJo4hjkn8M6G980gLLn6Te%2Bec2HCtvrL2b0Cm7E6mU0b9cas0GvPwzzggmUkRz4jj%2BdBFLCXeT7jtgGYbVF5mwmwDn6rDU0j7M2RJ3dWktXCNfb2P0i7ji
+      SNIP: 2026年4月20日 - 宁德时代2026 年 一季度 净利润同比大增48.52%至207.38亿元,推动其股价单日飙升6%,并直接贡献创业板指当日涨幅..._新浪网 宁德时代2026 年 一季度 净利润同... k.sina.com.cn 反馈 TIME.rfTime = +new Date;
+  [6] [一季报] 宁德时代 (300750): 2026 年 一季度 报告- CFi.CN 中财网
+      URL: https://www.so.com/link?m=ezT6ZltnlcmBuOWzT%2B%2BShkX8CNprAZ7PQMafeO3i9XifM6vgV%2FqKOZe2UmtUgFJU6oLoaa0E3rtbzrccuOsaADsesDhDA4JP0%2BSb0SivQKLub49nCe8Q1o4KaASjqJJlc25CBlN1NR5rETG4vs0IosPWxljcRHJmW4AKIBVCzeuytWNd%2F%2B7suVnFpesTSvHV26JpZosJHbkCdPoYdMF9
+      SNIP: 2026年4月16日 - 宁德 时代: 2026 年一季度报告. 宁德 时代公告编号: 2026 -033. 2026 年第一季度报告...
+  [7] 财报速递: 宁德时代2026 年 一季度 净利润207.38亿元
+      URL: https://www.so.com/link?m=wrxSRZCQGAGyuB6praCaAfw7p1vIDgjfPdOwDqDMoVXYJ0xia0XTCs9jic%2BYZ1dVOB4jG9gTaLOT%2FCdf4IijnlLoxAQ0oj%2BhMNeWEkxPhEHOBbIVT6ihXUGKZIHUTZWsozy%2BGdIn5MxhKehQ%2BbcVq6YUn3aEADh%2BqbpXb0Oul74rt5UqjZ76w4PwAXGlQivkjmfXF21yBp9%2Bc8sJOO
+      SNIP: 2026年4月15日 - A股上市公司 宁德时代 (300750)发布 2026 年 一季度业绩 报告,其中,净利润207.38亿元,同比增长48.52%。 yuanchuang.10jqka.com.cn 反馈
+
+=====[bd/qpromise_bd1] 宁德时代 2026 Q1 电话会 25-30% 增速=====
+(curl: 200|833116, results: 10)
+  [1] ...管理层认为在未来五年( 2026 -2030年)取得 25% - 30% 的复... - 雪球
+      URL: http://www.baidu.com/link?url=To0XeL7kOp3Lqq5kLJq6Q7oPXPFi5rM52wQI6ysDyEMbfiLYLdnGGpz2uhCUYOPttxDLwHDImGSlZZuzl7NoOa
+      SNIP: 2026年3月11日 在业绩会中, 宁德时代 的管理层也明确了 2026 年的预期,管理层认为在未来五年( 2026 -2030年)取得25%-30%的复合增速问题不大,并且宁德时代与主要大客户构建了相对稳定的价格传导机制,管理层有信心减少未来的单季度业绩波动。 同时,从业务布局来看,宁德时代遵从了三层面法:核心现金奶牛业务动力电池、第二曲线正处于发展期的储能系统,以及探索上线更高的新业务场景...
+  [2] 宁德时代 FY26 Q1电话会 :Q2排产依然饱和,产能利用率维持85%-90%高位...
+      URL: http://www.baidu.com/link?url=oxK8h_rqtinNGDxBMp6s8_faiP8ijCV7YE43qL5VAQGCpbw7187of602wCzlBSNx
+      SNIP: 2026年4月17日 近日, 宁德时代 (03750)召开FY26 Q1 财报 电话会 。宁德时代表示,二季度排产依然饱和,产能利用率维持 85%-90% 高位区间;全年综合毛利率预计相对稳定;4-5 月排产正向,未受地缘冲突负面影响。 财务指标方面,Q1 营收 1291 亿元(同比 +52.45%),归母净利润 207 亿元(同比 +48.52%);综合毛利率约 25% ,同比略有下降,但...
+  [3] 当市场开始重新定价 宁德时代 ,它不再给出唯一答案
+      URL: http://www.baidu.com/link?url=YTlfGo5dOjVLbwVfzv2IWSH1XkKPODu4MnDDSP_eRiNAw7lHpqXSXjldeH5alvPwNHsjjExYzVNbDZcMv1uSszgeRd95K-w2qTajitMJX3K
+      SNIP: 2026年4月23日 此外，与受购置税退坡及春节等季节性因素影响而普遍销量预冷的车企不同，作为供应商的 宁德时代 电池装车量、市场份额均在持续提升。根据中国汽车动力电池产业创新联盟数据显示， 2026 年 Q1 ，宁德时代动力电池装载量占比达到 47.7%，同比提升 3.4 个百分点。对此，宁德时代管理层在业绩 电话会 上分析指出，当前公司在乘...
+  [4] 大摩上调 宁德时代 目标价17%至815港元!钠离子电池+凝聚态电池要...
+      URL: http://www.baidu.com/link?url=YTlfGo5dOjVLbwVfzv2IWSH1XkKPODu4MnDDSP_eRiMNg8mpj2B4xXdBnmNgv9FLpUY9sumXuZbMln4vqkwCriPeHZKQb-MS8-jjuC32mOK
+      SNIP: 2026年5月5日 一句话总结：大摩上调 宁德时代 目标价17%至815港元，把 增速 预期从 25 %提到 30% ，押注的是钠电池和凝聚态电池的"快速规模化"；但钠电池的能量密度瓶颈、凝聚态电池的成本与量产难题、以及海外市场的贸易壁垒，都是这份乐观预期背后的"暗礁"。你觉得宁德时代下一代技术能如期落地吗？815港元的目标价是务实还是过于乐观？...
+  [5] 宁德时代2026Q1 业绩交流纪要
+      URL: http://www.baidu.com/link?url=RN5chUGlymbAvT4-zx0sBlA2-34_YEH94tshbSj6VREtFVTWINBEg21TEcFwpLKfdiBkQIVtaJJLyY0N6f51bnHOFz_Db5AHXaNejYsOn-y
+      SNIP: 2026年4月16日 ​​基本面: 2026 年 一季度 实现总营收1291亿元,同比增长52.45%;归属上市公司股东的净利润207亿元,同比增长48.52%。期末货币资金及交易性金融资产合计超4100亿元;总资产首次突破1万亿元,达到10463亿元。动力储能电池销售总体同比 增速 超60%。根据SNE数据,2026年1-2月全球动力电池使用量市占率40.5%,同比提升1.8pct;中国...
+  [6] ...投资报告核心结论: 宁德时代2026 年 Q1 实现营收1291.31亿元...
+      URL: http://www.baidu.com/link?url=To0XeL7kOp3Lqq5kLJq6Q7oPXPFi5rM52wQI6ysDyEMIxaVw0MxjtEK-T3joLEdaNhPBoLPROr9epIjW5Csu2_
+      SNIP: 2026年4月15日 宁德时代2026 年 Q1 业绩延续高增长,动力电池与储能双轮驱动,国内市占率突破50%,海外产能加速释放,盈利能力持续提升。尽管面临原材料价格波动与行业竞争加剧等风险,但公司凭借技术、规模与客户优势,有望维持全球领先地位,未来3年净利润复合 增速 有望达 25-30% ,具备长期投资价值。
+  [7] 宁德时代 (03750)FY 25电话会 :对 2026 年单位净利稳定持乐观态度...
+      URL: http://www.baidu.com/link?url=j2dvLBnpq5vsuBap0ib0GVdj7C5fWXFMHoPtUnZ4eiHq6J8kacOAsph-qSQehgZExipraikPpuevM70atqZAfF0rIyO7TGmJYt4Py7TgpUy
+      SNIP: 2026年3月10日 智通财经APP获悉, 宁德时代 (03750,300750.SZ)召开 FY 25 年报 电话会 。公司2025年锂离子电池销量达661GWh,同比增长39.2%。其中,动力电池销量约540GWh(+41.9%),储能电池销量约121GWh(+29.1%)。全年实现总收入4237亿元,同比增长17%。归属于上市公司股东的净利润为722亿元,同比增长42.3%。经营活动产生的现金流量净额为133...
+  [8] 一季度 日赚2.3亿, 宁德时代 大赚背后:手握上游矿权、储能业务爆发……
+      URL: http://www.baidu.com/link?url=YTlfGo5dOjVLbwVfzv2IWSH1XkKPODu4MnDDSP_eRiK8JigkKkdrHIfo-T_x4FmTGen1S4-hM_kafDVAXlEfRJFBMfcJwHNPCeImgFAZYH7
+      SNIP: 2026年4月16日 图据 2026 年一季报 业绩说明会上， 宁德时代 披露储能业务占比约25%，较之前季度有明显提升。对于未来储能市场，宁德时代表示，未来动力电池与储能电池需求向好，产销量将持续提升，预计2030年动力加储能整体市场规模有望达到4TWh以上，未来几年行业复合 增速 或超 25% - 30% 。根据SNE Research统计，2025年宁德时代储能电池出货...
+  [9] 宁德时代Q1 产销两旺再超预期,新能源车ETF(159806)大涨超3%
+      URL: http://www.baidu.com/link?url=YTlfGo5dOjVLbwVfzv2IWSH1XkKPODu4MnDDSP_eRiLWkZ94JSihZAanaj-KAdHLn6kF0j036aA3poYM9t0ouGN7sT2uACQzSmuhLqMtjD3
+      SNIP: 2026年4月16日 4月16日， 宁德时代 披露 2026 年一季报，核心经营数据全面超预期，为产业链注入强心剂。产销两旺，储能成第二增长极。公司 Q1 动储电池销量约200GWh，同比增长超60%。其中储能电池销量约50GWh，同比增长超110%，占比提升至 25% 左右，较2025Q4环比增长约40%。储能业务的显著放量印证了此前产能短缺随新产能释放后份额提升的...
+  [10] 宁德时代2026 年 Q1 净利同比大增48.52%,单季再破200亿_新能源车...
+      URL: http://www.baidu.com/link?url=j2dvLBnpq5vsuBap0ib0GYCbA6tMxqyV_01PA-KuDshkXWZjlm9EU7MtJ0tX91ZI
+      SNIP: 2026年4月15日 宁德时代2026 年 第一季度 实现归母净利润207.38亿元,同比增长48.52%。该数据来源于公司于2026年...

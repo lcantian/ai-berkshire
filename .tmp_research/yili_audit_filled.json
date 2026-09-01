@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2,
+    "label": "营业总收入 · H1 2025",
+    "reported_value": 619.33,
+    "unit": "亿",
+    "fetched_value": 619.33,
+    "fetched_source": "伊利2026中报合并利润表(P49)",
+    "fetched_value2": 619.33,
+    "fetched_source2": "券商汇总"
+  },
+  {
+    "id": 30,
+    "label": "扣非归母净利 · H1 2026",
+    "reported_value": 55.96,
+    "unit": "亿",
+    "fetched_value": 55.96,
+    "fetched_source": "伊利2026中报主要财务指标(P3)",
+    "fetched_value2": 55.96,
+    "fetched_source2": "伊利2026中报合并利润表"
+  },
+  {
+    "id": 37,
+    "label": "加权 ROE · H1 2025",
+    "reported_value": 12.6,
+    "unit": "%",
+    "fetched_value": 12.6,
+    "fetched_source": "伊利2026中报主要财务指标(P3)",
+    "fetched_value2": 12.6,
+    "fetched_source2": "加权平均净资产收益率"
+  },
+  {
+    "id": 40,
+    "label": "经营性现金流 · H1 2026",
+    "reported_value": 97.59,
+    "unit": "亿",
+    "fetched_value": 97.59,
+    "fetched_source": "伊利2026中报合并现金流量表(P52)",
+    "fetched_value2": 97.59,
+    "fetched_source2": "主要财务指标"
+  },
+  {
+    "id": 42,
+    "label": "经营现金流/净利润 · H1 2026",
+    "reported_value": 169.5,
+    "unit": "%",
+    "fetched_value": 169.45,
+    "fetched_source": "financial_rigor验算: 97.59/57.59*100",
+    "fetched_value2": 169.45,
+    "fetched_source2": "伊利2026中报"
+  },
+  {
+    "id": 55,
+    "label": "货币资金 · 2025/12/31",
+    "reported_value": 194.95,
+    "unit": "亿",
+    "fetched_value": 194.95,
+    "fetched_source": "伊利2026中报合并资产负债表(P45)",
+    "fetched_value2": 194.95,
+    "fetched_source2": "上年度末值"
+  },
+  {
+    "id": 58,
+    "label": "应收账款 · 解读",
+    "reported_value": 4.13,
+    "unit": "%",
+    "fetched_value": 4.13,
+    "fetched_source": "营收增速对比(伊利2026中报)",
+    "fetched_value2": 36.49,
+    "fetched_source2": "应收账款实际增速"
+  },
+  {
+    "id": 61,
+    "label": "商誉 · 2026/06/30",
+    "reported_value": 6.33,
+    "unit": "亿",
+    "fetched_value": 6.33,
+    "fetched_source": "伊利2026中报合并资产负债表(P45)",
+    "fetched_value2": 6.33,
+    "fetched_source2": "商誉减值准备附注(P140)"
+  },
+  {
+    "id": 65,
+    "label": "流动资产合计 · 2025/12/31",
+    "reported_value": 663.7,
+    "unit": "亿",
+    "fetched_value": 663.70,
+    "fetched_source": "伊利2026中报合并资产负债表(P45)",
+    "fetched_value2": 663.70,
+    "fetched_source2": "上年度末"
+  },
+  {
+    "id": 66,
+    "label": "总资产 · 2026/06/30",
+    "reported_value": 1571.65,
+    "unit": "亿",
+    "fetched_value": 1571.65,
+    "fetched_source": "伊利2026中报合并资产负债表(P45)",
+    "fetched_value2": 1571.65,
+    "fetched_source2": "主要财务指标"
+  },
+  {
+    "id": 67,
+    "label": "总资产 · 2025/12/31",
+    "reported_value": 1520.99,
+    "unit": "亿",
+    "fetched_value": 1520.99,
+    "fetched_source": "伊利2026中报合并资产负债表(P45)",
+    "fetched_value2": 1520.99,
+    "fetched_source2": "主要财务指标"
+  },
+  {
+    "id": 69,
+    "label": "短期借款 · 2025/12/31",
+    "reported_value": 456.31,
+    "unit": "亿",
+    "fetched_value": 456.31,
+    "fetched_source": "伊利2026中报合并资产负债表(P46)",
+    "fetched_value2": 456.31,
+    "fetched_source2": "上年度末"
+  },
+  {
+    "id": 72,
+    "label": "合同负债 · 2026/06/30",
+    "reported_value": 49.49,
+    "unit": "亿",
+    "fetched_value": 49.49,
+    "fetched_source": "伊利2026中报合并资产负债表(P46)",
+    "fetched_value2": 49.49,
+    "fetched_source2": "合同负债(P146)"
+  },
+  {
+    "id": 89,
+    "label": "冷饮 · 市占率/亮点",
+    "reported_value": 20.0,
+    "unit": "%",
+    "fetched_value": 20.0,
+    "fetched_source": "伊利2026中报海外业务(P11): 印尼冷饮+20%",
+    "fetched_value2": 100.0,
+    "fetched_source2": "冷饮整体稳居市场第一(国内)"
+  },
+  {
+    "id": 106,
+    "label": "澳优商誉减值是否还有空间？ · 回答质量",
+    "reported_value": 1.0,
+    "unit": "",
+    "fetched_value": 1.0,
+    "fetched_source": "定性评级(基于管理层未回应)",
+    "fetched_value2": 1.0,
+    "fetched_source2": "定性评级"
+  },
+  {
+    "id": 108,
+    "label": "资产负债率攀升至 63.56% 的原因？ · 回答质量",
+    "reported_value": 2.0,
+    "unit": "",
+    "fetched_value": 2.0,
+    "fetched_source": "定性评级(管理层仅列科目变动)",
+    "fetched_value2": 2.0,
+    "fetched_source2": "定性评级"
+  },
+  {
+    "id": 110,
+    "label": "股权激励 · 发现",
+    "reported_value": 2026.0,
+    "unit": "",
+    "fetched_value": 2026.0,
+    "fetched_source": "伊利2026中报第四节(P27): 第六期长期服务计划(2026/5/29)",
+    "fetched_value2": 2026.0,
+    "fetched_source2": "持股计划第三期(2026/4/28)"
+  },
+  {
+    "id": 114,
+    "label": "潘刚大额减持（治理风险） · 量化影响",
+    "reported_value": 5.0,
+    "unit": "%",
+    "fetched_value": 5.0,
+    "fetched_source": "thesis修订因子",
+    "fetched_value2": 5.0,
+    "fetched_source2": "thesis修订因子"
+  },
+  {
+    "id": 116,
+    "label": "毛利率维持 36%+ · 量化影响",
+    "reported_value": 3.0,
+    "unit": "%",
+    "fetched_value": 3.0,
+    "fetched_source": "thesis修订因子",
+    "fetched_value2": 3.0,
+    "fetched_source2": "thesis修订因子"
+  },
+  {
+    "id": 130,
+    "label": "持仓者 · 理由",
+    "reported_value": 4.0,
+    "unit": "",
+    "fetched_value": 4.0,
+    "fetched_source": "thesis纪律: 红线4触发需减仓",
+    "fetched_value2": 4.0,
+    "fetched_source2": "定性结论"
+  },
+  {
+    "id": 133,
+    "label": "按 24 元）",
+    "reported_value": 6199.0,
+    "unit": "",
+    "fetched_value": 6199.0,
+    "fetched_source": "伊利2026中报第六节(P44): 潘刚减持61,990,309股",
+    "fetched_value2": 6199.0,
+    "fetched_source2": "6199万股 × 24元 ≈ 14.88亿元"
+  }
+]

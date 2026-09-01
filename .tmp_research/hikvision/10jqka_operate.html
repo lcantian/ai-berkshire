@@ -1,0 +1,2139 @@
+<!DOCTYPE HTML>
+<html>
+<head id="head">
+		    <title>海康威视(002415) 经营分析_F10_同花顺金融服务网</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7;IE=9"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=gbk"/>
+	<meta name="keywords" content="海康威视最新动态,海康威视公司概况,海康威视财务分析,海康威视股东研究,海康威视股本结构,海康威视公司大事,海康威视分红融资"/>
+	<meta name="description" content="暂无"/>
+	<!-- 券商url参数添加，落地只落broker-pcf10.html -->
+	
+	<script type="text/javascript" src="//s.thsi.cn/js/chameleon/chameleon.1.13.min.1784955.js"></script> <script type="text/javascript" src="//s.thsi.cn/js/chameleon/chameleon.min.1784955.js"></script> <script>
+    function getUrlParams(key, url) {
+        var href = url ? url : window.location.href;
+        if (href.indexOf("?") < 0 && href.indexOf("#") < 0) {
+            return false;
+        }
+        var hrefStr = href.replace(/#/g, "&");
+        hrefStr = hrefStr.replace(/\?/g, "&");
+        var paramsObj= {};
+        hrefStr.split("&").forEach(function(i) {
+            if (i.indexOf("=") > -1) {
+                paramsObj[i.split("=")[0]] = i.split("=")[1];
+            }
+        });
+        if (key) {
+            return paramsObj[key] || false;
+        } else {
+            return paramsObj;
+        }
+    }
+
+    function addParam(url, obj) {
+        var str = "",res;
+        for (var key in obj) {
+            str += (key + "=" + obj[key]);
+        }
+        if (url.indexOf("?") > -1) {
+            res = url.split('?').join('?' + str + '&');
+        } else if (url.indexOf("#") > -1) {
+            res = url.replace(/#/g, "?" + str + "#");
+        } else {
+            res = url + "?" + str;
+        }
+        return res;
+    }
+
+    var historyUrl = document.referrer;
+    if (historyUrl) {
+        var broker = getUrlParams('broker', historyUrl);
+        if (broker && window.history) {
+            var url = window.location.href;
+            url = addParam(url, broker ? {broker: broker} : {});
+            window.history.pushState('', '', url);
+        }
+    }
+</script>
+	<!-- f10工具箱，工具函数修改，落地只落utils.html -->
+	
+	<script type="text/javascript" src="//s.thsi.cn/js/chameleon/chameleon.min.1784955.js"></script> <script type="text/javascript" charset="utf-8" src="//s.thsi.cn/cb?cd/website-thsc-f10-utils/1.4.8/f10-polyfill.js" crossorigin></script>
+<script type="text/javascript" charset="utf-8" src="//s.thsi.cn/cd/kernel-thslc-component-materials-container/F10/static/css-vars-ponyfill.js" ></script>
+<script type="text/javascript" charset="utf-8" src="//s.thsi.cn/cb?cd/website-thsc-f10-utils/1.6.0/thsc-f10-utils.js" crossorigin></script>
+<script>
+    function isIEInClient(){
+        return !!(window.external && 'getUserPath' in window.external && 'createObject' in window.external);
+    }
+
+    function isInTongYiClient(){
+      return !!(window.external && 'createObject' in window.external);
+    }
+
+    function isInYuanHangClient(){
+        return !!(window.HevoCef && 'IsHevoCef' in window.HevoCef);
+    }
+    
+    function isInIEEnv(){
+        var ua = window.navigator.userAgent.toLowerCase();
+        return ua.indexOf('msie') > -1 || ua.indexOf('trident/') > -1;
+    }
+
+    function isChromeOlderThan50(){
+        var userAgent = navigator.userAgent.toLowerCase();
+        var match = userAgent.match(/chrome\/(\d+)./);
+        if (match && parseInt(match[1]) <= 49) {
+           return true;
+        }
+        return false;
+    }
+
+</script>
+<style>
+.kamis-loading {
+	min-height: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #437EB7;
+	background-color: rgba(255,255,255,0.8);
+	gap: 4px;
+	font-size: 14px;
+}
+.dark .kamis-loading, .black .kamis-loading {
+	background-color: #171D25;
+	color: #FEB302;
+}
+.kamis-loading svg {
+	width: 20px;
+	height: 20px;
+}
+.arco-icon-spin {
+  animation: spin 1s linear infinite;
+}
+.kamis-nodata {
+  min-height: 300px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  color: #333;
+  padding: 10px 14px;
+}
+.dark .kamis-nodata, .black .kamis-nodata {
+  color: #999;
+  background-color: #0b1016;
+  border-color:#1e2b38;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+		<script type="text/javascript" src="//s.thsi.cn/js/chameleon/chameleon.min.1784955.js"></script> <script src="//s.thsi.cn/js/m/common/bridge.js" type="text/javascript"  crossorigin></script>
+	<script type="text/javascript"  crossorigin  src="//s.thsi.cn/js/jquery-1.8.3.min.js"></script>
+	<script charset="utf-8" src="//s.thsi.cn/cb?webprivate/lib/axios.min.js;hxapp/m/base/js/vue.2.7.16.min.js" crossorigin="anonymous"></script>
+	<!-- kamis 渲染器 -->
+	<script charset="utf-8" src="//s.thsi.cn/hxapp/m/pkgs/amis-2c/sdk/v1-3/2c-sdk-register.1.3.6.js"></script>
+	<!-- 新版埋点cdn -->
+	<script crossorigin src="//s.thsi.cn/cb?cd/weblog/0.0.1-alpha.27/weblog.js"></script>
+		<script>
+		var xhrProto = XMLHttpRequest.prototype;
+		var origOpen = xhrProto.open;
+		xhrProto.open = function (method, url) {
+			if (location.host.indexOf('0033.cn') > -1 && arguments[1] !== undefined && arguments[1].indexOf('10jqka.com.cn') > -1) {
+				arguments[1] = arguments[1].replace('10jqka.com.cn', '0033.cn');
+			}
+			return origOpen.apply(this, arguments);
+		};
+	</script>
+	<script>
+		var originCreateElement =  document.createElement;
+		document.createElement = function(tagName){
+			const element = originCreateElement.apply(document,arguments);
+			if(tagName.toLowerCase() === 'script'){
+				element.setAttribute('charset','utf-8');
+			}
+			return element;
+		}
+	</script>
+	<script id="monitor-script" api_key="ths_f10" src="//s.thsi.cn/cb?cd/website-thsc-f10-utils/1.6.40/monitor.js" crossorigin></script>
+	<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/common/cefapi/1.5.5/cefApi.min.js;js/basic/stock/newPcJs/common.js"></script>
+	<script>
+		try{
+			feMonitor.setConfig(
+				{
+				slientDev:false,//开发环境(localhost)是否发送报错请求，默认不发送为true
+				sampleRate:0.1, //采样率,可设置0-1之间，越小采集的频率越低
+				isCollectPerformance:true, //是否采集性能
+				title:'pc-F10'
+				}
+			);
+		}catch(e){
+
+		}
+	</script>
+	<style>
+        .wencaibs{color:#008BFF!important;cursor:pointer;}
+        .wd-tb .ptxt { word-break: break-word;}
+        .comment-chart-head{color: #89a;}
+        .comment-chart-head span{float: right;}
+        .comment-chart-head span i{vertical-align: middle; display: inline-block; width: 20px; height: 20px;margin: 0 2px 0 6px; border-radius: 20px; overflow: hidden;}
+        .comment-chart-head .imp-news{background: #da2e1f;}
+        .comment-chart-head .yidong-news{background: #e3bf1a;}
+
+        #ckg_table1 tr td{text-align:center}
+        #ckg_table2 tr td{text-align:center}
+        #ckg_table3 tr td{text-align:center}
+        #ckg_table4 tr td{text-align:center}
+        #ckg_table5 tr td{text-align:center}
+		li{list-style-type:none;
+			list-style-position:outside;}
+		#jpjl-input:focus { outline: none; }
+		.black.inClient .clientJump {
+			cursor: pointer;
+			color: #0199fa;
+			text-decoration: underline;
+		}
+		.white.inClient .clientJump {
+			color: #07519a;
+			text-decoration: underline;
+			cursor: pointer;
+		}
+		.managelist .name a {    color: #0199fa;
+			margin: 0 3px 2px;
+			text-decoration: underline;
+			border-bottom: none !important;
+		}
+	</style>
+	<!--统计页面加载时间-->
+	<script type="text/javascript">
+		var loadTimer= new Date().getTime();
+	</script>
+    <style>
+        #search_cyter{
+            display: block !important;
+        }
+		#profile .tickLabels .tickLabel{
+			padding-right:12px;
+			box-sizing:border-box;
+		}
+	  .a_cursor {
+		pointer: cursor;
+	}
+    </style>
+</head>
+<script type="text/javascript">
+
+//cookie设置
+function setReviewJumpState(state) {
+	document.cookie = 'reviewJump='
+					+ state
+					+ ';path=/;domain='
+					+ window.location.host;
+}
+//取得对应名字cookie
+function getCookie(name) {
+	var cookieValue = "";
+	var search = name + "=";
+	if (document.cookie.length > 0) {
+	    offset = document.cookie.indexOf(search);
+	    if (offset != -1)    {
+	        offset += search.length;
+	        end = document.cookie.indexOf(";", offset);
+	        if (end == -1) end = document.cookie.length;
+	        cookieValue = unescape(document.cookie.substring(offset, end))
+	    }
+	}
+	return cookieValue;
+}
+//栏目提前跳转
+var reviewJumpState = getCookie('reviewJump');
+if (!!reviewJumpState && reviewJumpState != 'nojump') {
+	setReviewJumpState('nojump');
+	window.location.href = unescape(reviewJumpState);
+} else {
+	setReviewJumpState('nojump');
+}
+//动态添加link-同步-会阻塞
+function addCssByLink(url){
+    document.write('<link rel="stylesheet" type="text/css"');
+    document.write(' href="' + url + '">');
+}
+function isMac() {
+        return /macintosh|mac os x/i.test(navigator.userAgent);
+};
+ var hash = window.location.hash.substring(1);
+hashArray = hash.split('=');
+if (hashArray[0] == 'stockpage') {
+    var STOCK_SKIN = 'white';
+} else {
+    var STOCK_SKIN = getCookie('skin_color');
+}
+//肤色与客户端同步
+function syncClientSkin(){
+	try {//取得客户端肤色
+		if (isMac()) {
+			return 'white';
+		}
+		return 'black';
+	} catch(e) {}
+}
+if (!STOCK_SKIN) {
+	STOCK_SKIN = syncClientSkin();
+}
+document.documentElement.setAttribute("class",STOCK_SKIN);
+if (STOCK_SKIN == 'white') {
+	// addCssByLink('/f10/css/company-compare.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/company-compare-202006082100.css');
+ 
+    addCssByLink('//s.thsi.cn/cb?css/basic/stock/white/20200604153837/style_v4-2.css;css/basic/stock/white/20200604153837/chart_v2.min.20180110.css;css/basic/stock/white/20200604153837/dupont.css;css/basic/stock/white/20200604153837/black_v2-4.20190711.css;css/basic/stock/white/custom.min.css;css/basic/stock/white/20200604153837/operations.css;css/basic/stock/white/20200604153837/writecsskzd.min.css');
+	addCssByLink('//s.thsi.cn/cb?css/basic/stock/20200604153837/survey-w.css;css/basic/stock/20200604153837/wxgcl_mod.css;css/basic/stock/provider-w_v2.css;css/basic/stock/20200604153837/searchbar-w_v2.css;css/basic/stock/20200604153837/wccept.css;css/basic/stock/wtgfx.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/fschool/20200604153837/f_school_w.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/white/wsplpager.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/wchartsdom.css');
+	addCssByLink('//s.thsi.cn/cb?css/basic/stock/white/20200604153837/industrydata.css;css/basic/stock/white/20200604153837/main_v1-2.css;css/basic/stock/white/20200604153837/xgcl.css;css/basic/stock/white/20200604153837/courier.css;css/basic/stock/white/20200604153837/recommend.css;css/basic/stock/white/20200604153837/housedata.css;css/basic/stock/white/202005071600/20200604153837/longhu.css;css/basic/stock/white/20200604153837/operate_white.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/white/remind_white.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/index_v1.css');
+	addCssByLink('//s.thsi.cn/js/home/v5/thirdpart/scrollbar/jquery.mCustomScrollbar.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/20200604153837/instition_white_v2.css');
+	if (!!window.ActiveXObject&&!window.XMLHttpRequest) {
+		addCssByLink('//s.thsi.cn/css/basic/stock/white/20200604153837/expression.css');
+	}
+					addCssByLink("//s.thsi.cn/css/basic/common/white/title.css")
+} else {
+	// addCssByLink('/f10/css/company-compare.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/company-compare-202006082100.css');
+ 	addCssByLink('//s.thsi.cn/cb?css/basic/stock/black/20200604153837/style_v3-5.min.20200426.css;css/basic/stock/black/20200604153837/chart_v2.min.20190410.css;css/basic/stock/black/20200604153837/black_v2-4.20190711.css;css/basic/stock/black/custom.min.css;css/basic/stock/black/20200604153837/operations.css;css/basic/stock/black/20200604153837/csskzd.min.20150608.css;/css/basic/stock/20200604153837/survey.20150929.css;/css/basic/stock/provider_v2.css;/css/basic/stock/20200604153837/searchbar_v2.css;/css/basic/stock/20200604153837/ccept.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/fschool/20200604153837/f_school.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/black/splpager.20170504.css');
+	addCssByLink('//s.thsi.cn/cb?css/basic/stock/chartsdom.css;css/basic/stock/20200604153837/xgcl_mod.css;/css/basic/stock/tgfx.css');
+	addCssByLink('//s.thsi.cn/cb?css/basic/stock/black/20200604153837/industrydata.css;css/basic/stock/black/20200604153837/main_v1-2.css;css/basic/stock/black/20200604153837/xgcl.css;css/basic/stock/black/20200604153837/courier.css;css/basic/stock/black/20200604153837/funcRecommend.css;css/basic/stock/black/20200604153837/dupont.css;css/basic/stock/black/202005071600/20200604153837/longhu.css;css/basic/stock/black/20200604153837/operate.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/black/remind_black.css');
+	addCssByLink('//s.thsi.cn/js/home/v5/thirdpart/scrollbar/jquery.mCustomScrollbar.css');
+
+	addCssByLink('//s.thsi.cn/css/basic/stock/index_v1.css');
+	addCssByLink('//s.thsi.cn/css/basic/stock/20200604153837/instition_black_v2.css');
+	if (!!window.ActiveXObject&&!window.XMLHttpRequest) {
+		addCssByLink('//s.thsi.cn/css/basic/stock/black/20200604153837/expression.min.20140801.css');
+	}
+					addCssByLink("//s.thsi.cn/css/basic/common/black/title.css")
+}
+/*calendar*/
+function  minDate(){
+ 	var data = $('#inte_json').text();
+	var datajson =new Object();
+	if (data) {
+		data = eval('('+data+')');
+	}
+	for (var x in data) {
+		datajson = data[x];
+	}
+	var minDate = datajson.year+'-'+datajson.month+'-'+datajson.day;
+	return minDate;
+ }
+ Date.prototype.Format = function(fmt)
+{ //author: meizz
+  var o = {
+    "M+" : this.getMonth()+1,                 //月份
+    "d+" : this.getDate(),                    //日
+    "h+" : this.getHours(),                   //小时
+    "m+" : this.getMinutes(),                 //分
+    "s+" : this.getSeconds(),                 //秒
+    "q+" : Math.floor((this.getMonth()+3)/3), //季度
+    "S"  : this.getMilliseconds()             //毫
+  };
+  if(/(y+)/.test(fmt))
+    fmt=fmt.replace(RegExp.$1, (this.getFullYear()+"").substr(4 - RegExp.$1.length));
+  for(var k in o)
+    if(new RegExp("("+ k +")").test(fmt))
+  fmt = fmt.replace(RegExp.$1, (RegExp.$1.length==1) ? (o[k]) : (("00"+ o[k]).substr((""+ o[k]).length)));
+  return fmt;
+}
+ function  displayDate(){
+ 	var data = $('#inte_json').text();
+ 	var date =new Array();
+	var datajson =new Object();
+	var i=0;
+	if (data) {
+		data = eval('('+data+')');
+	}
+	for (var x in data) {
+		datajson[x] = data[x];
+		dates = datajson[x].year+'-'+datajson[x].month+'-'+datajson[x].day;
+		if (x==0|| date[i-1] != dates) {
+			date[i] = dates;
+			i++;
+		}
+	}
+	var count =date.length;
+	var date2 = new Date();
+	var month =date2.getMonth()+1;
+	var day =date2.getDate();
+	if ((date2.getMonth()+1)>9) {
+	} else {
+	 	var month ="0"+month;
+	}
+	if (date2.getDate()>9) {
+	} else {
+	 	var day ="0"+day;
+	}
+	year = date2.getFullYear();
+	date2 = year+'-'+month+'-'+day;
+	var result = "['";
+	for (i=0;i<count;i++) {
+		if (date2 == date[i]) {
+			dateArr = date2.split('-');
+			newdate = new Date(new Date(dateArr[0], dateArr[1]-1,  dateArr[2])-24*60*60*1000);
+			date2 = newdate.Format("yyyy-MM-dd");
+		} else {
+			result +=date2+"',";
+			dateArr = date2.split('-');
+			newdate = new Date(new Date(dateArr[0], dateArr[1]-1,  dateArr[2])-24*60*60*1000);
+			date2 = newdate.Format("yyyy-MM-dd");
+			i--;
+		}
+	}
+	result = result.substr(0,result.length-1)+']';
+	return result;
+ }
+    function showDatePicker1(color) {
+        WdatePicker({
+            selfCssUrl:'//s.thsi.cn/css/basic/stock/'+STOCK_SKIN+'/mydatepicker.css',
+            eCont:'WdateDiv1',
+            vel:'elDate1',
+            minDate:minDate(),
+            maxDate:'%y-%M-%d',
+            onpicked:function(dp){
+                $('#elDate1').text(dp.cal.getNewDateStr());
+                var invalider = $(".J_calendar").find("iframe").contents().find(".WinvalidDay");
+            },
+            Mchanged:function(dp){
+                var invalider = $(".J_calendar").find("iframe").contents().find(".WinvalidDay");
+            }
+        });
+    }
+    function showDatePicker2(color) {
+
+        WdatePicker({
+            selfCssUrl:'//s.thsi.cn/css/basic/stock/'+STOCK_SKIN+'/mydatepicker.css',
+            eCont:'WdateDiv2',
+            vel:'elDate2',
+            maxDate:'%y-%M-%d',
+            onpicked:function(dp){
+                $('#elDate2').text(dp.cal.getNewDateStr());
+                var invalider = $(".J_calendar").find("iframe").contents().find(".WinvalidDay");
+            },
+            Mchanged:function(dp){
+                var invalider = $(".J_calendar").find("iframe").contents().find(".WinvalidDay");
+            }
+        });
+    }
+  function isIE() {
+	// 判断IE浏览器及其版本
+	if(document.documentMode) {
+		return document.documentMode;
+	}
+	var userAgent = navigator.userAgent.toLowerCase();
+	if (userAgent.indexOf('edge') > -1) {
+		return 'edge';
+	}
+	return false;
+  }
+	 // 初始化财务
+	 var initFinance = window.localStorage.getItem('initFinance');
+	 if (!initFinance) {
+		 window.localStorage.setItem('initFinance', 'init');
+		 window.localStorage.setItem('memoryPage', 'old');
+	  }
+	  // 跳转地址
+    function jumpToUrl(url, name, anchor, conceptName) {
+	  if (!url || !name) {
+			return;
+		}
+		// 新老地址切换
+		var oldPage = {
+			'financen': true
+		}
+		var pageLocation = window.localStorage.getItem('memoryPage');
+      //在IE环境中
+      if (isInIEEnv() || (pageLocation && pageLocation == 'old' && oldPage[name])) {
+        location.href = url;
+	    return;
+     }
+     var code = $('#stockCode').val();
+	 var codeName = $('#stockName').val();
+	 var marketid = $('#marketId').val();
+	 var pageAnchor = anchor ? '&anchor=' + anchor : '';
+	 var host = window.location.host;
+	 var targetUrl = '//' + host + '/astockpc/astockmain/index.html#/' + name + '?code=' + code + '&marketid=' + marketid + '&code_name=' + codeName + pageAnchor;
+	 if (conceptName) {
+		 targetUrl += "&cname=" + conceptName;
+	 }
+     location.href = targetUrl;
+    }
+	// 跳转新地址
+	function jumpToNew() {
+       var code = $('#stockCode').val();
+	   var codeName = $('#stockName').val();
+	   var marketid = $('#marketId').val();
+	   var url = window.location.href;
+	   var module = url.match(/\/(\w+).html?/);
+	   var moduleName = '';
+	   var host = window.location.host;
+	   if (module && module[1]) {
+		   moduleName = module[1];
+		   if (module[1] == 'finance') {
+			   moduleName = 'financen';
+		   }
+	   }
+	   window.TA.log('F10hs_cwfx.tyxbb.click');
+	   window.localStorage.setItem('memoryPage', 'new');
+	   setTimeout(function (){
+		  location.href = '//' + host + '/astockpc/astockmain/index.html#/' + moduleName + '?code=' + code + '&marketid=' + marketid + '&code_name=' + codeName;
+	   }, 10)
+	}
+</script>
+    <script type="text/javascript" charset="utf-8" src="//s.thsi.cn/js/basic/stockph_v2/qdc_ad-510a70.js"></script>
+	<link href="//s.thsi.cn/css/basic/stockph/qdc_ad-6e8683.css" rel="stylesheet" type="text/css">
+ 
+<body>
+<div class="votepopbox votesuccess" style="display: none">
+		<div class="vpopicon"></div>
+		<p class="vpoptxt fz18">谢谢您的宝贵意见</p>
+		<p class="vpoptxt">您的支持是我们最大的动力</p>
+	</div>
+	<div class="votepopbox voteinfo" style="display: none">
+		<div class="vpopicon"></div>
+		<p class="vpoptxt fz18">谢谢您的支持</p>
+		<p class="vpoptxt"></p>
+	</div>
+    <div class="wrapper">
+<!-- F10 Header Start -->
+		<div class="header">
+		    <div class="hd">
+		        <div class="logo fl" id="logo_self"><a title="同花顺F10">同花顺F10</a></div>
+
+															<div onclick="sendTalog('f10_click_quot')" style="width:260px; margin-left:60px; font-size:14px;cursor:pointer;margin-right:10px;display:none;text-align:center" class="fl tip " id="quotedata">
+							<div  class="fl">最新价： <span style="width:40px" class="upcolor" id="zxj">--</span></div>
+							<div  class="fr">涨跌幅： <span style="width:40px;" class="upcolor" id="zdf">--</span></div>
+						</div>
+											        <span class="fr skin-change"><a href="###">换肤</a></span>
+		        <div class="search fr" id="search_cyter">
+		            <div id="updownchange" type="once" class="codeChange fl" style="display: none;">
+		                <a href="javascript:void(0)" class="per">上一个股</a>
+		                <a href="javascript:void(0)" class="next">下一个股</a>
+		            </div>
+		            <div class="fl searchbar">
+			            <div class="text fl">
+			                <input type="text" id="jpjl-input" value="输入股票名称或代码" /><!--文本框获得焦点给.searchbar添加hover类-->
+			             </div>
+		                <input type="button" value="搜索" class="btn" id="submit"/>
+		            </div>
+		        </div>
+		    </div>
+		    <div class="bd clear">
+		        <div class="code fl">
+					<div><h1 style="margin:3px 0px 0px 0px">
+												海康威视</h1></div>
+					<div>
+						<a href="interactive.html" tid="wdm" posid="r1c1" class="iwen" onclick="TA.log({'id':'F10_review','nj':1})">i问董秘</a>
+						<style>
+							.qiyehao {
+								display:none;
+								float:left;
+								cursor:pointer;
+								margin: 4px 0 0 17px;
+								width:50px;
+								text-align:center;
+								font-size:12px;
+								padding: 2px  0 4px 0;
+								line-height:12px;
+							    border-radius:6px;
+								color: white;
+                                background-color:#437eb7;
+							}
+							.black  .qiyehao {
+								background-color: #b60006;
+							}
+						</style>
+						<div class="qiyehao">企业号</div>
+						<h1 style="margin:3px 0px 0px 0px">
+						002415						</h1>
+						<script>
+							 $(document).ready(function(){
+								//获取市场代码
+                                var market = $('#marketId').val();
+								//获取股票代码
+								var code = $('#stockCode').val();
+								//判断是否是B股
+								var isBStock = function () {
+									var flag = market == '18' || market == '34' || market == '105';
+									return flag;
+								}
+								
+								//在B股和Ie浏览器中不展示企业号入口
+								if(isBStock() || isInIEEnv()){
+									return ;
+								}
+								isThsClient(function(){
+                                   //隐藏董秘问答入口
+								   $('.iwen').hide();
+                                   //展示企业号入口
+								   $('.qiyehao').show();
+								   $(document).on ('click','.qiyehao',function(){
+                                      var url = 'https://board.10jqka.com.cn/fe/board/qyh.html#/qyh/homepage?thscode=' + code  + '&marketid=' + market + '&from=f10';
+									    window.API.use({
+										  method: "Util.openURL2",
+										  data:{
+											url: url,
+											mode: 1,
+											useCef: true,
+										  }
+									    })
+								    })
+								})
+							 })
+						</script>
+					</div>
+		        </div>
+		        <div class="nav">
+		            <ul>
+		                <li><a href="./"              target="_self" tid="zxdt" posid="r1c3" >最新动态</a></li>
+		                <li><a href="javascript:void(0)" onclick="jumpToUrl('./company.html', 'company', '');return false;"   target="_self" tid="gszl" posid="r1c4" > 公司资料</a></li>
+		                <li><a href="./holder.html"   target="_self" tid="gdyj" posid="r1c5" >股东研究</a></li>
+						<li><a href="javascript:void(0)" onclick="jumpToUrl('./operate.html', 'operate', '');return false;" target="_self" tid="jyfx" posid="r1c6"  class="cur"> 经营分析</a></li>
+		                <li><a href="./equity.html"   target="_self" tid="gbjg" posid="r1c7" >股本结构</a></li>
+		                <li><a href="./capital.html"  target="_self" tid="zbyz" posid="r1c8" > 资本运作</a></li>
+		                <li><a href="./worth.html"    target="_self" tid="ylyc" posid="r1c9"  >盈利预测</a></li>
+		                <li><a href="./news.html"     target="_self" tid="xwgg" posid="r2c3" >新闻公告</a></li>
+						<li><a  href="javascript:void(0)"  onclick="jumpToUrl('./concept.html', 'concept', '');return false;"target="_self" tid="gntc" posid="r2c4" >概念题材</a></li>
+		                <li><a  href="javascript:void(0)"  onclick="jumpToUrl('./position.html', 'position', '');return false;"target="_self" tid="zlcc" posid="r2c5" >主力持仓</a></li>
+		                <li><a href="javascript:void(0)"  onclick="jumpToUrl('./finance.html', 'financen', '');return false;" target="_self" tid="cwgk" posid="r2c6" > 财务分析</a></li>
+						<li><a href="javascript:void(0)"  onclick="jumpToUrl('./bonus.html', 'bonus', '');return false;" target="_self" tid="fhrz" posid="r2c7" >分红融资</a></li>
+						<li><a href="./event.html"    target="_self" tid="gsds" posid="r2c8" >公司大事</a></li>
+		                <li><a href="./field.html"    target="_self" tid="hydb" posid="r2c9" >行业对比</a></li>
+		            </ul>
+		        </div>
+		        <div class="subnav">
+					<ul>
+					   						<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="bjprice" taid="f10_click_bjprice" name="operate.html#bjprice" href="###">白酒价格							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="intro" taid="f10_click_intro" name="operate.html#intro" href="###">主营介绍							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="invest" taid="f10_click_invest" name="operate.html#invest" href="###">运营业务数据							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="analysis" taid="f10_click_analysis" name="operate.html#analysis" href="###">主营构成分析							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="provider" taid="f10_click_provider" name="operate.html#provider" href="###">主要客户及供应商							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="price" taid="f10_click_price" name="operate.html#price" href="###">产品价格							</a>
+						</li>
+												<li>
+							<a style="position:relative;height:25px;" class="skipto" type="" nav="observe" taid="f10_click_observe" name="operate.html#observe" href="###">董事会经营评述							</a>
+						</li>
+								            </ul>
+		        </div>
+		    </div>
+		</div>
+<!-- F10 Header End -->
+<!-- F10 Content Start -->
+		<style>
+		.iwc_searchbar{display: none;}
+	</style>
+		<div class="iwc_searchbar clearfix" style="">
+    <div class="tips-box" style="display: none;">
+        <div class="t-hd"></div>
+        <div class="t-bd">
+            <div class="info">
+                <p>F10 功能找不到？在搜索框里直接输入您想要的功能！比如输入“龙虎榜”，赶快试一下哦！</p>
+                <div class="btn">
+                    <a href="###" class="a-left close">跳过</a>
+                    <a href="###" class="a-right next">下一步</a>
+                </div>
+            </div>
+            <div class="info" style="display: none;">
+                <p>选股选不好？可以直接输入你想要的问句啦，比如输入“近一周涨幅超过30%的股票”赶紧行动吧！</p>
+                <div class="btn">
+                    <a href="###" class="a-left prev">上一步</a>
+                    <a href="###" class="a-right close">完成</a>
+                </div>
+            </div>
+        </div>
+        <div class="t-ft"></div>
+   	 </div>
+     <div class="searchfx">
+        <input id="search_input" x-webkit-speech="" x-webkit-grammar="builtin:search" lang="zh_CN" class="fillbox" autocomplete="off" type="text" value="输入问句，你想知道的都在这里">
+        <input class="action_btn" id="search_submit" type="button" value="搜索">
+        <span  class="tips-icon"></span>
+     </div>
+	</div>
+	<div class="content page_event_content" >	
+<style type="text/css">
+    .ls-tags-wrap{
+        display: inline-block;
+        width: 100px;
+        font-weight: 400;
+    }
+    .ls-tags{
+        font-size: 12px;
+        color: #fff;
+        border-radius: 3px;
+        background: #f10f10;
+        padding: 0 3px;
+        margin: 0 5px;
+        height: 18px;
+        line-height: 17px;
+        display: inline-block;
+    }
+    .lp-price-chart{
+        height: 250px;
+        width: 866px;
+    }
+    .lcomment-pic{
+        margin-top: 2px;
+        width: 71px;
+        height: 44px;
+        float: left;
+        margin-right: 20px;
+    }
+    .lp-data-list{
+        overflow: hidden;
+        zoom: 1;
+    }
+    .lp-data-list li{
+        padding-left: 20px;
+        background: url(//i.thsi.cn/images/basic/stock/lp-data-icon.png) no-repeat 0 50%;
+    }
+    .lp-data-table td{
+        text-align: center;
+    }
+    .lp-data-table th{
+        font-size: 14px;
+    }
+    .lp-data-table .m_select .text{
+        font-size: 12px;
+    }
+    .lp-desc{
+        padding: 15px;
+        border: 1px solid #1e2b38;
+        border-bottom: none;
+        position: relative;
+        min-height: 35px;
+    }
+    .lp-box .m_tab_content2{
+        padding-top: 0;
+    }
+    .lp-box .m_select{
+        font-size: 12px;
+    }
+    .lp-sale-type, .lp-area-type{
+        display: none;
+        height: 100%;
+    }
+    .lp-city-area li{
+        float: left;
+        height: 28px;
+        line-height: 28px;
+        padding: 0 28px;
+        font-size: 14px;
+        color: #999;
+        margin-right: 1px;
+    }
+    .lp-city-chart{
+        height: 244px;
+        border: 1px solid #344459;
+    }
+    .lp-city-trend-chart, .lp-city-money-chart{
+        height: 244px;
+        float: left;
+        width: 431px;;
+    }
+    .lp-city-trend-chart{
+        border-right: 1px solid #344459;
+    }
+    .lp-box .pager li a{
+        width: auto;
+        padding: 0 5px;
+    }
+    .lp-box .m_select .list{
+        z-index: 9
+    }
+</style>
+
+<!-- 主营介绍 -->
+<div class="m_box main_intro i_hover_box" id="intro" stat="operate_intro" itag='0'>
+	<div class="hd">
+		<h2>主营介绍</h2>
+	</div>
+	<div class="bd pt5">
+		<div class="mt15">
+			<!--<div class="threecate pd5 clearfix"><p class="fl">导出excel样式</p><a class="fr export_excel" href="#"><s></s>导出EXCEL</a></div>
+			--><ul class="main_intro_list">
+				<li><span class="hltip f12">主营业务：</span><p>以智能物联为战略定位，视频技术为核心打造从研发，制造到营销的完整价值链。</p></li>
+				<li><span class="hltip f12">产品类型：</span><p>主业建造工程、机器人业务、智能家居业务、热成像业务、汽车电子业务、存储业务、其他创新业务</p></li>
+				<li><span class="hltip f12">产品名称：</span><p>
+																    					主业建造工程												    、					机器人业务												    、					智能家居业务												    、					热成像业务												    、					汽车电子业务												    、					存储业务												    、					其他创新业务																</p></li>
+				<li><span class="hltip f12">经营范围：</span><p>电子产品（含防爆电气产品、通信设备及其辅助设备、多媒体设备、传输与显示设备）、消防产品、大数据与物联网软硬件产品、飞行器、机器人、智能装备与智能化系统、实时通讯系统、汽车零部件及配件、车用电气信号设备装置、服务器及配套软硬件产品的研发、生产；销售自产产品；提供技术服务，电子技术咨询服务，培训服务（不含办班培训），电子设备安装，电子工程及智能系统工程的设计、施工及维护。（国家禁止和限制的项目除外，涉及许可证的凭证经营）（依法须经批准的项目，经相关部门批准后方可开展经营活动）</p></li>
+			</ul>
+		</div>
+	</div>
+	<div class="ft"></div>
+</div>
+
+<!-- 运营业务数据 -->
+<div class="m_box gqtz i_hover_box" id="invest" stat="operate_invest" itag='1'>
+	<div class="hd">
+		<h2>运营业务数据</h2>
+	</div>
+		<div class="bd pt5">
+			<div class="clearfix">
+				<div class="m_tab mt15 clearfix">
+					<ul>
+					    					    						<li class="cur"><a href="javascript:void(0)" class="operateTab" tag="0">累计值</a></li>
+																		<li ><a href="javascript:void(0)" class="operateTab" tag="1">期末值</a></li>
+																	</ul>
+					<div class="fr">最新公告日期：<span class="tip">2026-04-18　</span></div>
+				</div>
+																<div class="m_tab_content"  >
+					<table class="m_table m_hl" id="operate_table">
+						<thead>
+							<tr>
+								<th width="170px">业务名称</th>
+																<th>2025-12-31</th>
+																<th>2024-12-31</th>
+																<th>2023-12-31</th>
+																<th>2022-12-31</th>
+																<th>2021-12-31</th>
+															</tr>
+						</thead>
+						<tbody>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">产量:智能物联产品及服务(台/件)</td>
+																<td>2.77亿</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">销量:智能物联产品及服务(台/件)</td>
+																<td>2.67亿</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">产量:视频产品及视频服务(台/件)</td>
+																<td>-</td>
+																<td>2.56亿</td>
+																<td>2.40亿</td>
+																<td>-</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">销量:视频产品及视频服务(台/件)</td>
+																<td>-</td>
+																<td>2.45亿</td>
+																<td>2.27亿</td>
+																<td>-</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">视频产品及视频服务产量(台/件)</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>2.08亿</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">视频产品及视频服务销量(台/件)</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>2.03亿</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">智能物联产品及服务产量(台/件)</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>2.08亿</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">智能物联产品及服务销量(台/件)</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>1.94亿</td>
+															</tr>
+													</tbody>
+					</table>
+					<div class="pager clearfix">
+														</div>
+				</div>
+																<div class="m_tab_content"  style="display:none;">
+					<table class="m_table m_hl" id="operate_table1">
+						<thead>
+							<tr>
+								<th width="170px">业务名称</th>
+																<th>2017-12-31</th>
+																<th>2016-12-31</th>
+																<th>2015-12-31</th>
+																<th>2014-12-31</th>
+																<th>2013-12-31</th>
+															</tr>
+						</thead>
+						<tbody>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">视频产品及视频服务库存量(台/件)</td>
+																<td>688.39万</td>
+																<td>502.48万</td>
+																<td>342.31万</td>
+																<td>255.79万</td>
+																<td>-</td>
+															</tr>
+														<tr>
+								<td style="text-align:left;font-size:12px" class="tl f12">安防行业库存量(台(套))</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>-</td>
+																<td>171.57万</td>
+															</tr>
+													</tbody>
+					</table>
+					<div class="pager clearfix">
+														</div>
+				</div>
+															</div>
+	</div>				
+<div class="ft"></div>
+</div>
+
+<!-- 主营构成分析 -->
+<style>
+	.date-show-icon {
+		width: 20px;
+		height: 20px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.img/m/atom/79176f26-b101-42db-be07-037d99804f4f.png')
+	}
+	.white .date-show-icon {
+		background-image: url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.img/m/atom/2a7d35c8-c727-4a97-81a8-e5945a54de7a.png')
+	}
+	.date-left-icon {
+		width: 20px;
+		height: 20px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/b00ef51b-af88-4bff-8b2c-9d00edf67c3f.svg')
+	}
+	.date-left-icon.off {
+		cursor: no-drop;		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/c139ceb6-3275-403f-9b43-d28384bf6d58.svg');
+	}
+	.white .date-left-icon {
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/e760b470-fb28-4bb3-ad65-7febf598384c.svg')
+	}
+	.white .date-left-icon.off {
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/fb941308-c46b-4144-aa2d-2afdab25e399.svg');
+		cursor: no-drop;
+	}
+	.date-right-icon {
+		width: 20px;
+		height: 20px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: cover;
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/b00ef51b-af88-4bff-8b2c-9d00edf67c3f.svg');
+		transform: rotate(180deg);
+	}
+	.date-right-icon.off {
+		cursor: no-drop;		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/c139ceb6-3275-403f-9b43-d28384bf6d58.svg');
+	}
+	.white .date-right-icon {
+		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/e760b470-fb28-4bb3-ad65-7febf598384c.svg')
+	}
+	.white .date-right-icon.off {
+		cursor: no-drop;		background-image:url('//i.thsi.cn/staticS3/mobileweb-upload-static-server.file/m/atom/fb941308-c46b-4144-aa2d-2afdab25e399.svg');
+	}
+	.date-ul {
+		display: flex;
+		gap: 1px;
+		cursor: pointer;
+		position: relative;
+	}
+	.date-list {
+		display: flex;
+		gap: 1px;
+		max-width: 873px;
+		overflow-y:clip;
+	}
+	.date-show-select {
+		background-color: #324054;
+		display: flex;
+		width: 27px;
+		height: 27px;
+		justify-content: center;
+		align-items: center;
+	}
+	.white .date-show-select {
+		background-color: #ebebeb;
+	}
+	.swiper-wrapper {
+		height: 27px;
+		font-size: 12px;
+	}
+	.date-li {
+		background-color: #324054;
+		align-items: center;
+		display: flex;
+		justify-content: center;
+		font-weight: 700;
+		max-width: 91px;
+	}
+	.white .date-li{
+		background-color: #ebebeb;
+		color: #666;
+		
+	}
+	.date-li.selected {
+		color: #ffb400;
+		background-position: 100% -316px;
+		background:#314156 url(//i.thsi.cn/images/basic/stock/nav_tab_bg.png) no-repeat 0 0;
+	}
+	.white .date-li.selected {
+		color: #333;
+		background: #ddd url(//i.thsi.cn/images/stockpage/new/nav_tab_bg.png) no-repeat 100% 0;
+	}
+	.swiper-container-dates {
+		width: 100%;
+		overflow: hidden;
+		z-index: 1;
+	}
+	#zyjg-dates-container {
+		height: 27px;
+	}
+	.charttit-nodata {
+	    color: #8294a6;
+		font-weight: 700;
+		position: absolute;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.chartit-center {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+	.m_select .list li {
+		border-right: none;
+	}
+</style>
+<div class="m_box i_hover_box" id="analysis" stat="operate_analysis" itag='2'>
+	<div class="hd">
+		<h2>主营构成分析</h2>
+	</div>
+	<div class="bd pt5">
+		<div class="chart_nav clearfix mt15">
+			<ul id="chartNav" class="nav_tab fl">
+				<li class="current"><a href="javascript:void(0)" data-type="YYSR">营业收入</a></li>
+				<li><a href="javascript:void(0)" data-type="YYCB">营业成本</a></li>
+				<li><a href="javascript:void(0)" data-type="LRBL">利润比例</a></li>
+				<!--<li><a href="javascript:void(0)" data-type="MLL">毛利率</a></li>-->
+			</ul>
+			<div id="periodSelect" class="field_date">
+				<div class="m_select">
+					<div class="text"><s></s><span>报告期</span></div>
+					<ul class="list none" style="border:1px solid #292e34; height: 132px;overflow-y:auto;">
+					</ul>
+				</div>
+				报告期
+			</div>
+		</div>
+		<div class="clearfix" style="padding-bottom: 24px;">
+			<table class="m_table m_hl">
+				<tbody>
+					<tr id="chartWrapContains" style="padding:0px;height:255px;width:100%;boder:1px solid #344459;">
+						<td class="tc" id="chartWrapkey+" style="padding:0px;height:255px;width:296px;">
+						   <div style="width: 295px;margin: 0 auto;overflow: hidden;height: 255px;position:relative;">
+						       <p class="charttit"></p>
+							   <p class="charttit-nodata chartit-center">加载中...</p>
+						       <div class="chartmain fl" style="width: 165px;height:170px;margin-top: 22px"></div>
+						       <div class="chartinfo fl" style="width: 130px;"></div>
+					        </div>
+				        </td>
+					</tr>
+				</tbody>
+			</table>
+			<div class="rp_tipBox none">
+				<p class="rp_tipTitle_box">
+					<strong class="rp_tipTitle">营业收入</strong>
+					<span class="close">X</span>
+				</p>
+				<div class="rp-select">
+					<div class="rp-select-item">
+						<input class="rp-input" type="checkbox" checked="checked" name="SRBL" id="rp_srbl" >
+						<label>收入比例</label>
+					</div>
+					<div class="rp-select-item">
+						<input class="rp-input" type="checkbox" name="YYSR" id="rp_yysr" >
+						<label>营业收入</label>
+					</div>
+				</div>
+				<div class="rp-unit">
+					<span class="rp-unit-left">单位（%）</span>
+					<span class="rp-unit-right">单位（万元）</span>
+				</div>
+				<div id="rp_hightChart" style="width: 540px;height: 260px;"></div>
+			</div>
+		</div>
+		
+		<div class="date-ul" id="table-date-list" style="display:none;">
+			<div id="periodSelect_v2" class="date-show-select">
+				<div class="m_select" style="position:absolute;z-index: 100;width: 100px;top:28px;left:0px;">
+					<ul class="list none" style="border:1px solid #292e34;height: 132px;overflow-y:auto;">
+					</ul>
+				</div>
+				<div class="date-show-icon" src=""></div>
+			</div>
+			
+			<div id="zyjg-dates-pre" class="date-show-select"><div class="date-left-icon off" src=""></div></div>
+			<div class="swiper-container-dates" id="zyjg-dates-container">
+				<div class="swiper-wrapper" id="swiper-date-line">
+				</div>
+			</div>
+			<div id="zyjg-dates-next" class="date-show-select"><div class="date-right-icon" src=""></div></div>	
+		</div>
+		<div class="m_tab_content">
+			<table class="m_table m_hl">
+				<thead>
+					<tr>
+						<th colspan="2">业务名称</th>
+						<th>营业收入(元)</th>
+						<th>收入比例</th>
+						<th>营业成本(元)</th>
+						<th>成本比例</th>
+						<th>主营利润(元)</th>
+						<th>利润比例</th>
+						<th>毛利率</th>
+					</tr>
+				</thead>
+				<tbody id="table_zygc">
+				    <tr>
+						<th rowspan="1" colspan="9" style="position:relative;height:150px;">
+					        <div class="charttit-nodata">加载中...</div>
+					    </th>
+				    </tr>
+				</tbody>
+			</table>
+		</div>
+		<div class="fr">注：<span class="tip">通常在中报、年报时披露　</span></div>
+	</div>
+	
+	<div class="ft"></div>
+</div>
+<!-- 主要客户及供应商 -->
+<div class="m_box" id="provider" stat="operate_provider" >
+<div class="hd">
+    <h2>主要客户及供应商</h2>
+    <div class="opinion_opts_wraper fr evaluate" tag="provider">
+	    <b class="oow_left fl"></b>
+	    <div class="oow_cont fl"><span>您对此栏目的评价：</span><a class="opinion_up" tag="support" href="javascript:void(0)"> 有用 <span class="opi_up">
+	    </span></a><a class="opinion_down" tag="opposition" href="javascript:void(0)"> 没用 <span class="opi_down"></span></a>
+	    <span class="btn_idea" onclick="sendTalog('f10_stock_advice')"><a onclick="$('.f10_append_advice').click();" title="我要提建议" href="javascript:void(0)">提建议</a></span></div><b class="oow_right fl"></b>
+	</div>
+</div>
+<div class="bd pt5" >
+<div class="m_tab mt15">
+    <ul>
+                        <li class="cur"><a href="javascript:void(0);" class="operateTab" tag="0">2025-12-31</a></li>
+                        <li class=""><a href="javascript:void(0);" class="operateTab" tag="1">2024-12-31</a></li>
+                        <li class=""><a href="javascript:void(0);" class="operateTab" tag="2">2023-12-31</a></li>
+                        <li class=""><a href="javascript:void(0);" class="operateTab" tag="3">2022-12-31</a></li>
+                        <li class=""><a href="javascript:void(0);" class="operateTab" tag="4">2021-12-31</a></li>
+                    </ul>
+</div>
+  	<!--第一页-->
+  	 	 		<div class="m_tab_content clearfix ">
+			      <div class="m_tab_content clearfix ">
+	      	  <!--两栏 左边 客户-->
+            <div class="m_charts_box">
+            	                <div class="m_charts_tit">              
+                	 前5大客户：共销售了<i>18.51亿</i>元,占营业收入的<i>2.01%</i>
+                 </div>    
+                            
+                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-0"></div>
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon" ></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon" ></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon" ></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon" ></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon" ></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>客户名称</th>
+                        <th>销售额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                        	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">4.50亿</td>
+		                <td class="tc">0.49%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">3.95亿</td>
+		                <td class="tc">0.43%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">3.95亿</td>
+		                <td class="tc">0.43%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">3.15亿</td>
+		                <td class="tc">0.34%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">2.97亿</td>
+		                <td class="tc">0.32%</td>
+		           	 </tr>
+   					               
+                    </tbody>
+                </table>
+                            </div>
+            
+            <!--两栏 右边 供货商-->
+            <div class="m_charts_box">
+                                <div class="m_charts_tit">
+                	前5大供应商：共采购了<i>69.42亿</i>元,占总采购额的<i>14.50%</i>
+                </div>
+                                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-1"></div>                    
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon"></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon"></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon"></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon"></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon"></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>   
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>供应商名称</th>
+                        <th>采购额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+   					                    	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">23.09亿</td>
+		                <td class="tc">4.82%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">13.96亿</td>
+		                <td class="tc">2.92%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">13.00亿</td>
+		                <td class="tc">2.72%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">9.88亿</td>
+		                <td class="tc">2.06%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">9.49亿</td>
+		                <td class="tc">1.98%</td>
+		           	 </tr>
+   					                   
+                    </tbody>
+                </table>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+	   	</div>
+			<div class="m_tab_content clearfix none">
+			      <div class="m_tab_content clearfix ">
+	      	  <!--两栏 左边 客户-->
+            <div class="m_charts_box">
+            	                <div class="m_charts_tit">              
+                	 前5大客户：共销售了<i>23.43亿</i>元,占营业收入的<i>2.53%</i>
+                 </div>    
+                            
+                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-2"></div>
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon" ></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon" ></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon" ></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon" ></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon" ></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>客户名称</th>
+                        <th>销售额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                        	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">5.76亿</td>
+		                <td class="tc">0.62%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">5.14亿</td>
+		                <td class="tc">0.56%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">4.79亿</td>
+		                <td class="tc">0.52%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">4.11亿</td>
+		                <td class="tc">0.44%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">3.63亿</td>
+		                <td class="tc">0.39%</td>
+		           	 </tr>
+   					               
+                    </tbody>
+                </table>
+                            </div>
+            
+            <!--两栏 右边 供货商-->
+            <div class="m_charts_box">
+                                <div class="m_charts_tit">
+                	前5大供应商：共采购了<i>62.48亿</i>元,占总采购额的<i>12.79%</i>
+                </div>
+                                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-3"></div>                    
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon"></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon"></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon"></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon"></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon"></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>   
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>供应商名称</th>
+                        <th>采购额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+   					                    	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">18.98亿</td>
+		                <td class="tc">3.89%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">11.90亿</td>
+		                <td class="tc">2.43%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">10.89亿</td>
+		                <td class="tc">2.23%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">10.87亿</td>
+		                <td class="tc">2.22%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">9.85亿</td>
+		                <td class="tc">2.02%</td>
+		           	 </tr>
+   					                   
+                    </tbody>
+                </table>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+	   	</div>
+			<div class="m_tab_content clearfix none">
+			      <div class="m_tab_content clearfix ">
+	      	  <!--两栏 左边 客户-->
+            <div class="m_charts_box">
+            	                <div class="m_charts_tit">              
+                	 前5大客户：共销售了<i>20.19亿</i>元,占营业收入的<i>2.26%</i>
+                 </div>    
+                            
+                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-4"></div>
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon" ></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon" ></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon" ></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon" ></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon" ></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>客户名称</th>
+                        <th>销售额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                        	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">6.64亿</td>
+		                <td class="tc">0.74%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">5.06亿</td>
+		                <td class="tc">0.57%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">2.94亿</td>
+		                <td class="tc">0.33%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">2.88亿</td>
+		                <td class="tc">0.32%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">2.67亿</td>
+		                <td class="tc">0.30%</td>
+		           	 </tr>
+   					               
+                    </tbody>
+                </table>
+                            </div>
+            
+            <!--两栏 右边 供货商-->
+            <div class="m_charts_box">
+                                <div class="m_charts_tit">
+                	前5大供应商：共采购了<i>73.85亿</i>元,占总采购额的<i>15.86%</i>
+                </div>
+                                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-5"></div>                    
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon"></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon"></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon"></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon"></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon"></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>   
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>供应商名称</th>
+                        <th>采购额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+   					                    	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">18.56亿</td>
+		                <td class="tc">3.99%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">17.24亿</td>
+		                <td class="tc">3.70%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">13.10亿</td>
+		                <td class="tc">2.81%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">12.57亿</td>
+		                <td class="tc">2.70%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">12.38亿</td>
+		                <td class="tc">2.66%</td>
+		           	 </tr>
+   					                   
+                    </tbody>
+                </table>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+	   	</div>
+			<div class="m_tab_content clearfix none">
+			      <div class="m_tab_content clearfix ">
+	      	  <!--两栏 左边 客户-->
+            <div class="m_charts_box">
+            	                <div class="m_charts_tit">              
+                	 前5大客户：共销售了<i>20.25亿</i>元,占营业收入的<i>2.43%</i>
+                 </div>    
+                            
+                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-6"></div>
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon" ></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon" ></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon" ></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon" ></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon" ></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>客户名称</th>
+                        <th>销售额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                        	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">8.15亿</td>
+		                <td class="tc">0.98%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">3.33亿</td>
+		                <td class="tc">0.40%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">3.10亿</td>
+		                <td class="tc">0.37%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">3.00亿</td>
+		                <td class="tc">0.36%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">2.66亿</td>
+		                <td class="tc">0.32%</td>
+		           	 </tr>
+   					               
+                    </tbody>
+                </table>
+                            </div>
+            
+            <!--两栏 右边 供货商-->
+            <div class="m_charts_box">
+                                <div class="m_charts_tit">
+                	前5大供应商：共采购了<i>82.94亿</i>元,占总采购额的<i>17.58%</i>
+                </div>
+                                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-7"></div>                    
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon"></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon"></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon"></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon"></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon"></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>   
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>供应商名称</th>
+                        <th>采购额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+   					                    	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">27.70亿</td>
+		                <td class="tc">5.87%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">17.19亿</td>
+		                <td class="tc">3.65%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">13.64亿</td>
+		                <td class="tc">2.89%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">13.16亿</td>
+		                <td class="tc">2.79%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">11.24亿</td>
+		                <td class="tc">2.38%</td>
+		           	 </tr>
+   					                   
+                    </tbody>
+                </table>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+	   	</div>
+			<div class="m_tab_content clearfix none">
+			      <div class="m_tab_content clearfix ">
+	      	  <!--两栏 左边 客户-->
+            <div class="m_charts_box">
+            	                <div class="m_charts_tit">              
+                	 前5大客户：共销售了<i>27.63亿</i>元,占营业收入的<i>3.39%</i>
+                 </div>    
+                            
+                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-8"></div>
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon" ></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon" ></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon" ></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon" ></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon" ></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>客户名称</th>
+                        <th>销售额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                        	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">7.86亿</td>
+		                <td class="tc">0.97%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">7.52亿</td>
+		                <td class="tc">0.92%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">4.71亿</td>
+		                <td class="tc">0.58%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">4.02亿</td>
+		                <td class="tc">0.49%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">3.52亿</td>
+		                <td class="tc">0.43%</td>
+		           	 </tr>
+   					               
+                    </tbody>
+                </table>
+                            </div>
+            
+            <!--两栏 右边 供货商-->
+            <div class="m_charts_box">
+                                <div class="m_charts_tit">
+                	前5大供应商：共采购了<i>88.18亿</i>元,占总采购额的<i>17.81%</i>
+                </div>
+                                <div class="m_charts_cont">
+                    <div class="m_charts_pie" id="charts-9"></div>                    
+                    <ul class="m_charts_info">
+                                                                    	                        <li><i class="charts_icon1 charts_icon"></i>第一名</li>
+                                                                                            	                        <li><i class="charts_icon2 charts_icon"></i>第二名</li>
+                                                                                            	                        <li><i class="charts_icon3 charts_icon"></i>第三名</li>
+                                                                                            	                        <li><i class="charts_icon4 charts_icon"></i>第四名</li>
+                                                                                            	                        <li><i class="charts_icon5 charts_icon"></i>第五名</li>
+                                                                                                <li><i class="charts_icon6 charts_icon"></i>其他</li>   
+                    </ul>
+                </div>
+                <table class="m_table m_hl ">
+                    <thead>
+                    <tr>
+                        <th>供应商名称</th>
+                        <th>采购额（元）</th>
+                        <th>占比</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+   					                    	                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第一名</div></td>
+		                <td class="tc">40.46亿</td>
+		                <td class="tc">8.17%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第二名</div></td>
+		                <td class="tc">15.00亿</td>
+		                <td class="tc">3.03%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第三名</div></td>
+		                <td class="tc">14.49亿</td>
+		                <td class="tc">2.93%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第四名</div></td>
+		                <td class="tc">9.48亿</td>
+		                <td class="tc">1.91%</td>
+		           	 </tr>
+   						                 <tr class="">
+      
+	                	<td class="tc"> <div class="clientname">第五名</div></td>
+		                <td class="tc">8.76亿</td>
+		                <td class="tc">1.77%</td>
+		           	 </tr>
+   					                   
+                    </tbody>
+                </table>
+                            </div>
+            <div class="clearfix"></div>
+        </div>
+	   	</div>
+		   	<div style="display:none" id = "providerflash">{"2025-12-31":{"supplier":[{"name":"\u7b2c\u4e00\u540d","y":230860.25},{"name":"\u7b2c\u4e8c\u540d","y":139571.06},{"name":"\u7b2c\u4e09\u540d","y":130040.72},{"name":"\u7b2c\u56db\u540d","y":98826.62},{"name":"\u7b2c\u4e94\u540d","y":94932.86},{"name":"\u5176\u4ed6","y":4093572}],"customer":[{"name":"\u7b2c\u4e00\u540d","y":44958.95},{"name":"\u7b2c\u4e8c\u540d","y":39518.55},{"name":"\u7b2c\u4e09\u540d","y":39474.68},{"name":"\u7b2c\u56db\u540d","y":31531.56},{"name":"\u7b2c\u4e94\u540d","y":29664.9},{"name":"\u5176\u4ed6","y":9026226.72}]},"2024-12-31":{"supplier":[{"name":"\u7b2c\u4e00\u540d","y":189782.68},{"name":"\u7b2c\u4e8c\u540d","y":118954.87},{"name":"\u7b2c\u4e09\u540d","y":108858.78},{"name":"\u7b2c\u56db\u540d","y":108656.06},{"name":"\u7b2c\u4e94\u540d","y":98532.28},{"name":"\u5176\u4ed6","y":4260161.86}],"customer":[{"name":"\u7b2c\u4e00\u540d","y":57550.72},{"name":"\u7b2c\u4e8c\u540d","y":51374.6},{"name":"\u7b2c\u4e09\u540d","y":47938.27},{"name":"\u7b2c\u56db\u540d","y":41128.16},{"name":"\u7b2c\u4e94\u540d","y":36349.64},{"name":"\u5176\u4ed6","y":9028164.15}]},"2023-12-31":{"supplier":[{"name":"\u7b2c\u4e00\u540d","y":185630.61},{"name":"\u7b2c\u4e8c\u540d","y":172403.17},{"name":"\u7b2c\u4e09\u540d","y":130982.8},{"name":"\u7b2c\u56db\u540d","y":125717.77},{"name":"\u7b2c\u4e94\u540d","y":123756.66},{"name":"\u5176\u4ed6","y":3917820.57}],"customer":[{"name":"\u7b2c\u4e00\u540d","y":66358.25},{"name":"\u7b2c\u4e8c\u540d","y":50585.87},{"name":"\u7b2c\u4e09\u540d","y":29439.66},{"name":"\u7b2c\u56db\u540d","y":28839.66},{"name":"\u7b2c\u4e94\u540d","y":26695.03},{"name":"\u5176\u4ed6","y":8732526.43}]},"2022-12-31":{"supplier":[{"name":"\u7b2c\u4e00\u540d","y":276966.43},{"name":"\u7b2c\u4e8c\u540d","y":171947.12},{"name":"\u7b2c\u4e09\u540d","y":136427.62},{"name":"\u7b2c\u56db\u540d","y":131642.74},{"name":"\u7b2c\u4e94\u540d","y":112428.42},{"name":"\u5176\u4ed6","y":3888519}],"customer":[{"name":"\u7b2c\u4e00\u540d","y":81490.31},{"name":"\u7b2c\u4e8c\u540d","y":33314.4},{"name":"\u7b2c\u4e09\u540d","y":31049.77},{"name":"\u7b2c\u56db\u540d","y":30007.13},{"name":"\u7b2c\u4e94\u540d","y":26607.67},{"name":"\u5176\u4ed6","y":8129599.68}]},"2021-12-31":{"supplier":[{"name":"\u7b2c\u4e00\u540d","y":404597.31},{"name":"\u7b2c\u4e8c\u540d","y":149999.05},{"name":"\u7b2c\u4e09\u540d","y":144857.89},{"name":"\u7b2c\u56db\u540d","y":94782.21},{"name":"\u7b2c\u4e94\u540d","y":87578.99},{"name":"\u5176\u4ed6","y":4069422.36}],"customer":[{"name":"\u7b2c\u4e00\u540d","y":78600.44},{"name":"\u7b2c\u4e8c\u540d","y":75194.42},{"name":"\u7b2c\u4e09\u540d","y":47118.92},{"name":"\u7b2c\u56db\u540d","y":40239.06},{"name":"\u7b2c\u4e94\u540d","y":35192.49},{"name":"\u5176\u4ed6","y":7875434.43}]}}</div>
+	</div>
+  <div class="ft"></div>
+</div>
+
+<!-- 董事会经营评述 -->
+<div class="m_box" id="observe" stat="operate_observe">
+	<div class="hd">
+		<h2>董事会经营评述</h2>
+	</div>
+	<div class="bd">
+		<div class="m_tab">
+			<ul>
+												<li class="cur"><a href="javascript:void(0);" tag="0" class="operateTab">2026-06-30</a></li>
+												<li ><a onclick="TA.log({'id':'f10_jyfx_jyps','nj':1})"href="javascript:void(0);" tag="1" class="operateTab">2025-12-31</a></li>
+												<li ><a onclick="TA.log({'id':'f10_jyfx_jyps','nj':1})"href="javascript:void(0);" tag="2" class="operateTab">2025-06-30</a></li>
+											</ul>
+		</div>
+						<div class="m_tab_content m_tab_content2" >
+			<p class="f14 pr">
+				　　一、主营业务分析<br />　　2026年上半年，国际环境复杂多变，全球经济复苏呈现明显的区域和行业分化，外部不确定性持续存在；国内经济持续向高质量发展迈进，产业结构不断优化，数字化、智能化升级稳步推进。人工智能技术快速发展，大模型应用持续深化，为智能物联产业带来新的机遇。<br />　　面对国内外环境变化，公司坚持稳健经营，顺应产业发展趋势，坚持技术创新，更加注重经营质效与长期发展能力，推动有效益的增长，不断提升供应链韧性和运营保障能力。报告期内，公司以提升经营质量为导向，夯实技术基础，深化组织变革，优化资源配置，推进提质增效，推动人工智能技术与产品创新、经营管理深度融合，持续优化供应链管理，不断增强经营韧...								<span style="display: inline-block;width: 70px;"></span>
+				<a class="more fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">查看全部▼</a>
+							</p>
+			<p class="f14 none clearfix pr">
+				　　一、主营业务分析<br />　　2026年上半年，国际环境复杂多变，全球经济复苏呈现明显的区域和行业分化，外部不确定性持续存在；国内经济持续向高质量发展迈进，产业结构不断优化，数字化、智能化升级稳步推进。人工智能技术快速发展，大模型应用持续深化，为智能物联产业带来新的机遇。<br />　　面对国内外环境变化，公司坚持稳健经营，顺应产业发展趋势，坚持技术创新，更加注重经营质效与长期发展能力，推动有效益的增长，不断提升供应链韧性和运营保障能力。报告期内，公司以提升经营质量为导向，夯实技术基础，深化组织变革，优化资源配置，推进提质增效，推动人工智能技术与产品创新、经营管理深度融合，持续优化供应链管理，不断增强经营韧性和可持续发展能力。<br />　　报告期内，公司实现营业总收入468.23亿元，比上年同期增长11.97%；实现归属于上市公司股东的净利润78.96亿元，比上年同期增长39.57%。<br />　　1、坚持技术创新，夯实核心能力<br />　　公司始终坚持以技术创新驱动业务发展，保持高水平的研发投入，不断完善物联感知、人工智能和大数据三大核心技术体系。报告期内，公司持续推进观澜大模型与软硬件产品深度融合，围绕安防业务和场景数字化业务不断丰富AI大模型产品体系，推动AI能力持续融入产品创新和场景应用，进一步提升产品智能化水平和场景应用价值。公司持续加强多维感知的核心技术能力建设，不断拓展智能物联技术应用边界，为产业数字化转型提供更加丰富的产品和解决方案。<br />　　2、完善供应链体系，提升保障能力<br />　　报告期内，公司围绕关键物料保障、供应链生态建设等方面，持续优化供应链体系，不断提升供应链保障能力。公司依托长期积累的供应链管理能力，加强关键物料战略储备，提升产品交付保障能力；不断完善供应链生态建设，深化上下游协同机制，增强供应链运行效率和稳定性。相关举措有效保障了生产经营平稳运行，为公司持续提升经营质量和业务发展提供有力保障。<br />　　3、优化运营体系，以“数智质量”引领提质增效<br />　　报告期内，公司持续推广“数智质量”管理模式，不断深化研发、供应链、营销、服务等关键业务流程的数智化建设，推动质量管理、研发创新与运营管理协同提升，积极推进AI大模型技术在经营管理活动中的应用，不断提升运营效率和资源配置水平。公司坚持精细化经营，深化机制改革，加强费用管理和运营资产管理，完善风险控制与合规管理体系，不断提升经营质量与效益，为公司稳健发展筑牢基础。<br />　　4、深耕主营业务，增强发展韧性<br />　　报告期内，公司持续深耕智能物联行业，积极把握人工智能技术发展带来的产业机遇，持续推动安防行业升级和场景数字化业务发展。国内业务方面，场景数字化业务持续打开增长空间，SMBG渠道运营效率进一步提升；海外业务方面，坚持国际化发展战略，持续深化”一国一策”经营策略，不断优化产品结构和营销体系，提升本地化营销、服务和运营能力，积极拓展重点区域市场。公司坚持稳健经营，积极应对外部环境变化，持续提升风险防控能力，不断增强主营业务核心竞争力和发展韧性。<br />　　5、创新业务持续成长，释放增长动能<br />　　报告期内，创新业务整体收入151.70亿元，同比增长28.93%，占公司营收比重达到32.40%。公司创新业务继续保持较快增长，盈利水平稳步提升。海康机器人、海康微影、萤石网络、海康汽车电子、海康存储等创新业务持续深耕细分行业，不断提升产品竞争力和经营质量，进一步巩固行业领先地位，成为公司重要的增长动能。有统有分的业务布局进一步增强了公司整体竞争力，主业与创新业务协同发展的效应持续显现，不断完善智能物联产业生态，为公司长期可持续发展提供有力支撑。<br /><br />　　二、公司面临的风险和应对措施<br />　　报告期内，公司一直努力识别各类风险，积极采取应对措施，规避和降低风险：<br />　　1）全球经济下行风险：全球主要经济体增长动能持续分化，通胀波动与货币政策调整带来的宏观不确定性加剧，区域经济发展不均衡问题更为突出，若全球经济陷入持续衰退，公司整体业务将受到显著波及。公司依托全球化业务布局分散单一市场风险，灵活适配各地需求调整经营策略，缓解全球经济波动对经营的冲击。<br />　　2)地缘政治环境风险：全球地缘博弈持续加剧，区域冲突未得到有效缓解，单边主义与贸易保护主义抬头，企业跨境经营的合规壁垒与不确定性显著上升，地缘局势突发恶化将对公司海外业务造成不利冲击。公司持续优化全球资源布局，完善属地化风险管控体系，强化海外业务风险排查与管控，对冲地缘政治变动带来的经营风险。<br />　　3)国内经济转型风险：国内经济处于结构转型与动能转换关键期，传统领域需求持续调整，市场预期修复周期较长，叠加外部贸易环境压力，若国内产业转型进程不及预期，市场需求波动将对公司业务开展造成不利影响。公司依托智能物联技术赋能各行业数字化转型，紧抓国内经济转型机遇，对冲市场需求波动带来的经营压力。<br />　　4)技术更新换代风险：人工智能、物联网、大数据、云计算等前沿技术迭代速度持续加快，技术与实体场景融合持续深化，若公司无法精准把握行业技术演进趋势、跟进技术升级节奏，将面临核心市场竞争力下滑的风险。公司长期深耕核心技术领域，依托海量商业落地实践持续迭代技术，紧跟行业技术发展趋势，稳固自身核心竞争优势。<br />　　5)内部管理风险：随着公司业务规模持续扩张，新产品、新业务及全球化布局持续深化，企业组织管理复杂度、跨区域及跨业务协同难度持续提升，若公司管理能力无法匹配业务扩张速度，将影响整体经营效率与发展质量。公司持续优化管理制度与流程体系，完善治理架构，夯实核心人才梯队建设，提升组织协同与管理能力，适配业务规模化、全球化发展节奏。<br />　　6)供应链风险：全球供应链区域化重构加速，叠加技术管制、贸易限制等因素，全球供应链稳定性持续受冲击，若核心供应环节出现大范围中断，将直接影响生产经营稳定性。公司持续完善多元化供应网络，优化库存管控模式，提升供应链韧性与抗风险能力，保障生产经营稳定有序开展。<br />　　7)网络安全风险：智能物联应用场景持续拓展，网络攻击手段日趋复杂化、隐蔽化，针对物联网设备与系统的定向安全威胁持续升级，公司业务仍存在恶意攻击、数据泄露等潜在网络安全隐患。公司搭建全链路网络安全防护体系，持续迭代优化安全防护能力，常态化开展风险排查，有效防范各类网络安全风险。<br />　　8)产品质量安全风险：公司智能物联产品应用场景广泛，覆盖民生、公共安全等关键领域，行业质量安全标准严苛，若公司质量安全管理出现疏漏，可能引发产品质量问题甚至重大召回事件，损害公司经营与品牌口碑。公司严格落实产品质量安全管理，建立研发、生产、落地全流程质量管控体系，全方位严控产品质量安全风险。<br />　　9)法律合规风险：全球多边贸易规则持续调整，各国数据安全、出口管制、市场准入等监管政策日趋严格，跨境经营合规复杂度持续提升，若公司合规能力无法适配监管变化，将产生经营合规风险。公司建立覆盖全球业务的全流程合规体系，动态跟进监管政策更新，持续提升跨境合规管控能力，适配全球监管合规要求。<br />　　10)客户支付能力下降导致的资金风险：宏观经济波动传导至产业链上下游，客户经营状况与资金流动性存在不确定性，市场流动性持续收紧可能导致公司回款放缓、坏账增加，影响公司资金安全。公司坚持稳健经营，搭建全流程回款管控机制，常态化跟踪回款进度，维持充足现金储备，防范回款滞后及坏账风险。<br />　　11)汇率波动风险：公司海外业务遍布全球多个国家和地区，采购、销售、融资等经营环节存在多币种结算敞口，全球外汇市场超预期剧烈波动，将对公司财务表现和经营成果造成不利影响。公司运用合规金融工具对冲汇率风险，动态管控多币种结算敞口，降低外汇波动对经营业绩的冲击。<br />　　12)知识产权风险：行业全球竞争日趋激烈，各国知识产权保护力度持续提升，公司虽积累大量智能物联核心技术、建立知识产权管理体系，但仍存在知识产权纠纷、核心技术成果被侵害的潜在风险。公司持续加大研发投入，完善知识产权保护与管理机制，强化核心技术防护，主动防范应对各类知识产权风险。<br />　　上述提示未包括公司可能发生但未列示的其他风险，请投资者谨慎投资。				<span style="display: inline-block;width: 42px;"></span>
+				<a class="less fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">收起▲</a>
+			</p>
+		</div>
+						<div class="m_tab_content m_tab_content2" style="display:none;">
+			<p class="f14 pr">
+				　　一、报告期内公司所处的行业情况及公司从事的主要业务<br />　　1、业务概述：<br />　　物理世界的数字化建构，是迈向通用人工智能的基础与关键环节。海康威视以智能物联为战略定位，深耕行业二十余年，构建并不断完善物联感知、人工智能、大数据三大核心技术，打通物理世界与数字世界的连接链路，推动物联数据价值的高效释放。<br />　　二十余年来，海康威视深度参与并推动智能物联行业的智能化升级进程，持续迭代产品的智能化能力，探索适配客户需求的技术落地路径，全程见证并引领了智能分析与人工智能算法在行业内的迭代发展。公司早在2006年就组建了智能算法团队，2023年发布“海康威视观澜大模型”，在中国信通院“可信AI大模型能力评...								<span style="display: inline-block;width: 70px;"></span>
+				<a class="more fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">查看全部▼</a>
+							</p>
+			<p class="f14 none clearfix pr">
+				　　一、报告期内公司所处的行业情况及公司从事的主要业务<br />　　1、业务概述：<br />　　物理世界的数字化建构，是迈向通用人工智能的基础与关键环节。海康威视以智能物联为战略定位，深耕行业二十余年，构建并不断完善物联感知、人工智能、大数据三大核心技术，打通物理世界与数字世界的连接链路，推动物联数据价值的高效释放。<br />　　二十余年来，海康威视深度参与并推动智能物联行业的智能化升级进程，持续迭代产品的智能化能力，探索适配客户需求的技术落地路径，全程见证并引领了智能分析与人工智能算法在行业内的迭代发展。公司早在2006年就组建了智能算法团队，2023年发布“海康威视观澜大模型”，在中国信通院“可信AI大模型能力评测”中获得业内首个模型开发5级评分。<br />　　海康威视不仅将人工智能大模型算法全面融入技术、产品与解决方案升级的完整链条，同时也以大模型能力深度赋能自身研发、运营、生产制造的各个环节，实现核心能力的持续精进。<br />　　1)以观澜大模型体系为核心，实现技术能力全面升级<br />　　感知算法层面，观澜物联感知大模型已全面覆盖多维度感知产品，实现感知精度跨越式提升，显著优化复杂环境下的目标检出率与检准率。2025年感知大模型应用不断拓展，效果持续精进，其中音频大模型助力设备质检场景异常零件拦截率提升70%，X光大模型推动安检违禁品检测漏报率下降70%。<br />　　多模态应用层面，公司推出文搜系列存算产品，依托大语言模型实现亿级视频数据的自然语言秒级检索；同时持续强化视觉细粒度感知能力，深化画面深度理解，在水利河湖治理场景中，依靠多模态图文精准问答能力快速识别河面漂浮物，准确识别违规游泳、违规钓鱼等事件，助力生态保护，保障水域安全。<br />　　底层技术层面，依托大模型能力迭代优化的观澜编码技术，通过ROI1分割技术实现目标精准区分与差异化压缩，全面优化视频压缩效果，有效节省存储空间与能耗，大幅提升录像存储与调用效率。<br />　　2)深耕垂直场景沉淀行业算法，持续提升解决方案实用性与适配性<br />　　技术与产品的迭代升级支撑着各类场景算法的不断沉淀，基于观澜大模型底座，公司扎根近百个垂直行业、数百个细分场景，打造安全生产、公共安全、自然灾害、工业应用等系列垂类大模型算法，已在安全生产、城管市政、水利河湖、工业制造等场景实现规模化落地。<br />　　1ROI：RegionofInterest，感兴趣区域。<br />　　随着智能体技术的快速发展，公司将智能体技术做规模化应用，不断提升系统凭借告警事件做自动化分析处置的能力。通过硬件端数据采集、软件端“小海智能助手”自主分析处置的协同模式，相关方案已在安全生产、公共安全防控、交通综合管控、城市应急指挥等多领域落地，推动行业解决方案完成从传统事后取证向事中实时调度、事前主动预警的范式升级。<br />　　3)聚焦高性价比与可落地性，构建全场景适配的轻量化部署体系<br />　　大模型算法的成功商业化，既需要依靠强劲的技术升级，更需要有高性价比的落地部署方式。<br />　　模型优化层面，公司通过模型结构优化、模型压缩等核心技术攻关，实现大模型内存占用降低50%，构建高性价比应用部署模式，有效降低大模型技术的行业应用门槛。<br />　　部署方案层面，公司采用云边端融合、前后端协同、大小模型结合的系统架构，通过前端感知设备与后端算力系统的高效联动，实现大模型系统的高效、低成本落地。其中，通过猫头鹰相机2与后端系统的前后端协同，特殊作业场景违章识别准确率提升至95%，实现技术效果与落地成本的兼顾。<br />　　4)以AI大模型技术为核心抓手，全面推进公司内部数字化转型<br />　　海康威视以己为田，利用AI大模型技术不断优化公司管理方式，持续锻造高质量增长的内生韧性。研发环节，公司借助大模型技术实现代码自动生成与测试用例自动构建，大幅提升研发迭代效率，为技术快速落地提供支撑。<br />　　营销与服务环节，公司依托AIGC3技术实现营销内容自动生成，持续完善智能客服机器人，有效提升客服响应质量与效率，优化客户服务体验。<br />　　生产制造环节，公司将大模型技术深度融入数智质量管理与行为SOP4管控，结合工业大模型持续优化生产制造能力，完善大规模、小批量、多批次的柔性制造体系，实现生产全流程提质增效。<br />　　海康威视持续迭代物联感知、人工智能、大数据三大核心技术，提供超过30,000种智能物联产品，构建起全场景覆盖的智能物联技术体系与产品矩阵，推动物理世界与数字世界的深度融合，助力全社会的数字化转型。<br />　　2猫头鹰相机：主动视觉作业监管臻全彩枪球相机的简称。由全景镜头检测到目标后，联动球机镜头变倍观察细节，稳定跟踪目标并对疑似违规行为做识别和图像捕捉，再由后端系统对抓拍图片做分析复核，从而高效过滤误报。<br />　　3AIGC：AI-generatedContent，人工智能生成内容。<br />　　4SOP：StandardOperatingProcedure，标准操作规程。<br />　　凭借国内与海外双营销体系、主业和八大创新业务协同联动的组织架构、成熟的柔性生产制造能力与稳健的供应链体系优势，公司深度服务安防与场景数字化两大核心业务领域，持续助力社会治理精准高效、企业经营提质增效、人民生活智慧安康，不断引领智能物联产业新未来。<br />　　2、产品体系<br />　　海康威视持续丰富和强化物联感知技术储备，二十余年来持续深耕智能算法，不断推动行业智能化升级，2023年发布观澜大模型后，进一步聚焦业务场景精进感知智能，打造垂类高性价比模型，强化云边端协同的软硬件产品体系。<br />　　基于一个个场景化的业务需求，公司不懈寻找一种种别具匠心的技术方案，打造一件件高效实用的产品形态，创建丰富、齐备的智能物联软硬件产品体系，为全社会的数字化转型探索出一条条可行之路。<br />　　2.1全面感知：充实多维感知产品体系，完善智能物联数据根基<br />　　海康威视以视频感知技术为起点，不断拓展和丰富更多维度的物联感知能力，经过二十多年的积累与沉淀，构建了覆盖电磁波、机械波，并融合温湿压磁等物理传感技术的多维感知体系。广泛的感知能力与多维感知的融合应用构建起海康威视的物联感知技术平台，支撑起海康威视在安防与场景数字化领域更多的创新应用。<br />　　2.1.1前端摄像机产品<br />　　海康威视深耕智能物联领域，凭借全环境优质成像、观澜编码技术以及端侧大模型等核心能力，构建了稳定的视觉基础，有效降低视频存储成本，并拓展了摄像机在目标识别、场景理解与辅助决策方面的应用能力，从而持续为生产管理、公共安全及资源保护等行业的数字化建设提供有力支持。<br />　　1)成像全面突破，画质优<br />　　海康威视摄像机在极端光线条件，如极暗、极亮及高动态范围等场景下，均能实现稳定且清晰的成像效果，保障复杂环境中画面质量的高可靠性与细节的精准呈现，为各类智能应用奠定坚实的视觉基础。<br />　　2)创新观澜编码，存储省<br />　　海康威视自主研发的观澜编码技术，通过ROI分割技术对目标做精准区分和有差别的压缩处理，在对背景高效压缩的同时，确保关键区域的画质不受影响，从而大幅减少存储空间占用，显著降低大规模视频系统的存储成本。<br />　　3)全面拥抱大模型，智能准<br />　　依托观澜视觉大模型体系，海康威视确立了L1到L4分级端侧大模型产品架构，以前端摄像机为核心，构建起从动态目标检准、要素识别匹配，到图文理解交互、任务决策控制的分层次能力体系，为行业应用提供更加丰富的数据支持与决策辅助。<br />　　-L1动态目标检准：L1级产品聚焦于动态目标的检出与分类，可对人员、机动车、非机动车及动物等目标进行高效识别，实现园区运营、工业安全生产等场景中的高风险行为预警，为各类安全监测场景提供基础能力支撑。<br />　　-L2要素识别匹配：L2级产品可实现画面要素识别、属性提取与行为分析能力，可对场景中的人员、设备及环境要素进行多维度解析。目前该技术已在工业生产、电梯监管、输变电巡检及交通管理等场景中得到广泛应用，为行业的精细化运营提供数据基础。<br />　　-L3图文理解交互：L3级产品融合视觉与多模态能力，具备图像语义理解、视频摘要生成等能力，并支持通过文本问答方式生成摄像机智能算法。例如在安全生产管理等场景中，L3产品可实现风险作业识别、违规筛查及预警，为现场管理提供辅助决策支持。<br />　　-L4任务决策控制：L4级产品可实现对场景内“目标是什么、在哪里、在做什么”的全维度理解，结合客户具体需求提供针对性的任务决策与控制建议，完成从“辅助决策”到“自主决策”的技术突破，从而最大化释放大模型技术在产业应用中的价值。<br />　　4)深耕场景应用，价值广<br />　　海康威视依托多维感知技术与行业应用需求的深度结合，构建覆盖生产、生活与社会治理等多领域的场景数字化解决方案。目前，该方案已在生产制造、教育教学、食品安全、交通出行等领域实现广泛应用，并逐步拓展至水、电、油、矿等资源保护场景。<br />　　以水资源管理为例，海康威视通过部署各类智能摄像机，构建覆盖岸边、水面与水下的水资源立体感知体系，可实现水质管理、管网液位监测及水下立体成像等功能，为水环境的精细化管理提供有力支撑。<br />　　公司持续深耕底层技术创新，推动大模型技术与产业应用的深度融合，以更领先的产品技术能力、更全面的场景化数字化解决方案，赋能千行百业智能物联的高质量发展。<br />　　2.1.2智能交通产品<br />　　1)智能交通抓拍系统<br />　　海康威视持续深耕智能交通市场，2025年，公司进一步迭代升级以观澜大模型为基础的交通行业专用大模型，显著提升包括未系安全带、驾驶时使用手机、车斗载人等多项违法行为以及车辆特征识别的准确率，并进一步拓展对于大货车管控和非机动车不安全驾驶行为的检测应用。<br />　　公司发布了1,200万分辨率的系列交通摄像机产品，产品在纵向视野上较上一代提升显著，结合新一代AIISP图像算法，能够在满足新补光灯标准的前提下，实现更优的图像效果和更强的大灯抑制效果，同时，环保型1200万系列产品在减轻光污染方面取得更佳成效。<br />　　这些技术升级有效推动了智慧交管业务从单一取证向全要素精准感知演进，使公司产品成为国内外智慧交管领域的核心基础设施。<br />　　2)交通基础设施数字化业务<br />　　此业务以公路和高速公路场景为核心，涵盖收费车道车牌牌识、门架卡口、车型识别相机、一体化栏杆机、ETC天线、交通事件检测服务器等关键产品，专注于提升收费效率，保障通行安全。<br />　　公司持续优化产品硬件结构设计，显著增强在恶劣天气等复杂场景下的适应性；在算法方面，依托视觉大模型和多模态大模型技术，有效提升了车型识别准确率以及道路交通异常事件的检测能力。<br />　　通过技术创新和产品迭代优化，公司为交通基础设施的数字化转型提供更加智能、可靠的产品和解决方案，有力支撑行业向高效、安全方向演进。<br />　　3)智能信号控制系统业务<br />　　公司持续强化全链路自研优势，全面构建涵盖雷视融合感知、信号机与信号灯、信控算法盒子、信控平台及配时优化服务在内的“五位一体”全体系自研架构。<br />　　在硬件产品层面，公司发布全新一代92-94GHz频段毫米波雷视一体机，并创新发布7系列高端智能信号机，进一步夯实了系统控制底座的技术基础。在算法应用层面，公司推动信控方案向“机动车、非机动车、行人”的全要素管控深化演进，显著提升了对各类交通参与者的精细化调度能力。在系统交付与服务层面，依托自有信控配时团队，公司打通从前端精准感知到后端配时优化的业务闭环，全面支持城市复杂交通场景的高效治理需求。<br />　　2.1.3移动终端产品<br />　　海康威视移动终端产品以行业穿戴设备及手持PDA产品为核心，深度融合感知，传输，计算和AI算法等核心技术，构建了覆盖数据采集、传输与智能分析的全场景解决方案。在大模型技术的强力加持下，新一代终端在目标识别、语音识别、场景事件检测等方面的能力得到全面提升，已在多个行业实现规模化部署，在执法和作业规范化领域，市场占有率保持行业领先地位，在企业数字化转型相关业务中，不断有效满足日益多元化的场景需求。<br />　　2.1.4科学仪器产品<br />　　海康威视科学仪器业务，致力于高端科研装备的研发与产业化，护航科技创新。从实现精准定性定量，到深入探索微观世界，我们助力用户获取关键洞见，揭示物质本质，从而推动产业持续升级，为全球科技进步贡献智慧和力量。<br />　　海康威视色谱、质谱系列产品，为实验室物质成分分析提供了高精度、高灵敏度与高稳定性的强大工具。超高效液相色谱仪以自研直驱式双柱塞杆串联泵为核心，流量精度高、梯度洗脱准确。气相色谱仪搭载高精度电子压力控制系统，结合性能优异的柱温箱设计，有效保障仪器的稳定运行。色质谱联用产品依托自主研发的高效离子传输与高精度质量分析技术，实现fg级5超高灵敏度。公司以柔性制造与能力供应链管理体系为基石，为产品构建了自主可控的核心竞争优势，确保了供应链的安全与稳定。<br />　　海康威视融合光谱煤质快速分析仪，充分发挥近红外分子光谱与X射线荧光原子光谱的成像特性，利用人工智能算法对两者信息进行双模态融合，可在2分钟内对99%以上煤型实现快速、准确、鲁棒、无损的煤质分析，获取灰分、硫分、热值、全水含量等全面指标，为行业带来重大技术突破，助力能源高效利用。<br />　　海康威视超景深3D数码显微镜，融合先进光学系统与智能三维建模算法，集高分辨率、大景深、快速成像等优势于一体，能够实现对细微结构的高精度三维测量与分析。其横向分辨率高达0.42μm，Z轴分辨率可达1μm，为工业检测与科研探索提供更高效、更精准的技术支撑。<br />　　2.1.5光谱传感<br />　　海康威视持续创新光谱传感技术，构建了涵盖气体监测、水质监测与成像光谱监测的三大产品体系，依托高精度光谱感知与智能算法，为工业安全、生态保护、农业生产等领域的数字化转型提供有力支撑。<br />　　气体监测产品：产品体系进一步完善，形成从便携防护到全域遥测、从固定站点到高空巡检、从单一气体到数百种气体分析的全链路监测能力。2025年，公司推出符合国家本质安全标准的防爆TDLAS6产品，面向高危场景实现轻量化精准泄漏监测，有效提升工业安全监测的可靠性与场景适用性。<br />　　水质监测产品：通过“光谱+AI”深度融合，系列产品端侧算力全面增强，监测稳定性持续提升。2025年，公司新发布全光谱水质监测仪及机载、机巢式高光谱水质监测仪，进一步拓展了水环境监测的时空覆盖范围，推动行业向实时化、智能化方向演进。<br />　　成像光谱监测产品：产品线持续丰富，应用逐步拓展至植被监测、颜色检测、过程分析等多个领域。2025年推出的多光谱地表火相机，具备秒级火情早期识别与精准预警能力，有效强化生态安全防控水平。<br />　　6TDLAS：TunableDiodeLaserAbsorptionSpectroscopy，可调谐半导体激光吸收光谱。<br />　　2.1.6声学传感<br />　　海康威视依托先进的声学器件与声学算法，结合可听声与超声多频段感知技术，实现设备设施状态监测及零部件内部缺陷检测等应用。2025年，公司进一步拓展产品矩阵，深化智能算法与场景适配能力，持续助力工业智能化转型。<br />　　声波监测产品：通过对声波异常信号的智能分析，实现设备在线监测与预测性维护，监测数据可实时上传至平台，助力运维人员精准预判风险，有效减少非计划停机，保障设备运行安全。产品方案目前已成功应用于镇江港、中孚实业等多个企业。<br />　　超声检测产品：聚焦零部件内部缺陷检测，公司具备国内领先的AI算法与熔深检测技术，超声相控阵产品在业内率先达到±0.1mm的检测精度，大幅降低探伤门槛并提升探伤效率。该方案已在多个大型制造企业实现规模化落地应用，推动探伤作业数字化升级。<br />　　2.1.7光纤传感<br />　　自2021年进入光纤传感领域以来，海康威视始终围绕“更高精度、更多维度、更强性能”的产品发展方向，不断丰富完善产品布局。目前已形成覆盖分布式与点式两大类别的完整产品线，包括分布式定位型振动光纤、测温光纤、听诊光纤，以及点式光纤光栅解调仪等，可实时监测温度、振动、应变等多种关键物理量，有力支撑工业生产及基础设施的安全运行。<br />　　2025年，公司持续推进分布式与点式光纤传感业务协同发展。在分布式光纤方面，通过突破空间分辨率关键技术瓶颈，成功推出高空分振动光纤与高空分测温光纤，实现检测精度从米级到厘米级的跨越，进一步满足高精度场景的监测需求。同时，点式光纤光栅产品已在风机、整流柜、管廊等多个典型场景实现规模化落地应用，产品竞争力与市场覆盖能力进一步提升。<br />　　2.2存储与计算：深化多模态大模型应用，激活海量数据价值<br />　　海康威视持续深化多模态大模型技术的落地应用，全面驱动存储与计算产品的技术革新与迭代升级。伴随AI技术的快速演进与安防行业发展的新形势新要求，2025年，公司重点打造文搜存算、观澜编码存储两大全新产品体系：<br />　　文搜产品体系实现了视频业务应用与大模型技术的深度融合与双向赋能，依托多模态大模型技术充分激活海量视频数据的核心价值。该体系构建了层次完备的产品矩阵，覆盖从边缘到中心、从存储到计算的全链路产品，可全面适配各类安防及行业数字化应用场景。<br />　　观澜编码磁盘阵列采用存储与计算一体化架构，依托大模型技术实现视频编码技术的突破性升级，可大幅压缩高清视频码率。该产品既有效满足了行业日益增长的海量视频数据存储空间需求，也有力对冲了存储介质价格上行带来的成本压力，以技术创新为客户持续创造核心价值。<br />　　海康威视存储与计算产品，秉承公司在智能物联、大数据领域的核心技术优势，着力打破数据流通与应用壁垒，实现多维数据的跨模态融合应用，大幅拓展人工智能技术的场景应用边界。该系列产品品类完备、布局全面，以公司多年行业深耕积淀为根基，以客户价值创造为核心驱动，全面加速多模态大模型在千行百业的深度落地与规模化应用。<br />　　2.2.1存储产品<br />　　在存储产品上，海康威视凭借持续创新与深厚积累，将先进的多模态大模型技术和存储技术深度融合，率先在业内推出多模态“文搜”存储产品。该产品通过大语言模型高效处理海量视频数据，显著提升数据价值，使客户可以通过自然语言便捷地搜索和应用视频数据，以技术创新驱动行业持续变革。<br />　　1)NVR——域端核心存储产品<br />　　海康威视NVR产品的市场占有率连续多年领先，历经近20年的发展，沿网络化、高清化、智能化路径稳步演进。该产品涵盖经济型、通用型及高密度全系列产品，种类齐全，应用广泛。以文搜NVR产品为先驱，海康威视积极推动技术发展浪潮，引领行业进入大模型时代。<br />　　2025年，文搜NVR产品显著提升多模态大模型性能，产品搜索内容更加丰富，准确率大幅提升，兼容性进一步增强。目前，该产品已在众多行业的安防系统中成功部署，为客户带来全新的搜索体验。<br />　　2)磁盘阵列——大规模集中存储产品<br />　　数据是用户的核心资产，而存储系统作为数据仓库，构成了信息系统的重要基础设施。海康威视磁盘阵列产品线完备，涵盖CVR和云存储等通用存储系列，同时提供加密型存储、数据对象存储、超长备份存储等多种专用产品，满足不同场景下的数据管理需求。<br />　　2025年，海康威视磁盘阵列产品在智能化方向上全面加速，依托多年积累的深厚存储技术底蕴，融合先进的多模态大模型技术，持续推动产品迭代与创新，相继推出多模态文搜磁盘阵列、观澜编码磁盘阵列两大系列大模型产品。<br />　　多模态文搜磁盘阵列：基于观澜多模态大模型技术平台，结合公司二十余年的存储研发经验，率先在安防行业推出多模态文搜型磁盘阵列产品。产品采用存储和AI计算一体化架构，具备高性能、大带宽及数据存算融合能力，实现即存、即算、即用。产品在对海量视频数据存储的同时，能够对视频中的各类目标进行大语言建模，用一个词、一句话即可对亿级数据进行秒级检索。<br />　　公司通过多模态大模型技术的深度应用，重塑了海量图像数据的存储与使用模式，充分释放数据潜在价值，引领中心存储磁盘阵列产品全面迈入大模型技术引领的新时代。<br />　　观澜编码磁盘阵列：海康威视观澜编码磁盘阵列产品内置高性能GPU，采用创新的观澜编码技术，融合了观澜大模型深度理解能力与像素级分割技术，能够精准识别视频中的关键目标（如人员、车辆、动物等）。通过ROI技术对视频画面进行精细化分割，在确保人、车等关键目标有足够画质清晰度的前提下，对背景区域进行高效压缩，从而显著降低码率。该技术构建了“智能识别-精准ROI分割-差异化编码”全链路优化体系，实现存储效率与画质保障的双重协同。<br />　　观澜编码存储可有效节省存储空间、降低电力损耗，尤其适合磁盘阵列产品的长周期视频存储形式。海康威视愿通过持续的技术创新，不断探索高效、安全、经济的视频存储新方案，为用户创造长期价值。<br />　　云存储：在云存储领域，2025年海康威视推出新一代智能融合云存储方案，实现从“被动存储”向“主动智能”的跨越。该方案具备四大核心能力：<br />　　-智存：毫秒级低时延存取，以高吞吐量适配AI算力；<br />　　-智编：融合观澜编码算法，显著节省存储空间；<br />　　-智搜：支持语义及多模态检索，基于自然语言或图像快速精准检索人、车、物等目标；<br />　　-智管：提供精准故障诊断与容量预测，提升系统可靠性与运维效率，化解运维迷雾。<br />　　新一代智能融合云存储方案以“更快、更省、更准、更稳”的核心优势，重塑数据基础设施架构，助力客户实现数据价值最大化。<br />　　3)数据存储——聚焦非结构化数据和工业质检存储系统，推动数据普惠应用<br />　　海康威视数据存储产品聚焦于非结构化存储与工业质检存储应用，结合多样化应用场景，提供高性价比的存储解决方案。产品系列涵盖单控、双控、分布式存储及冷存储等多种架构，适配各类业务平台，具备高可靠性与高可用性。同时，产品具备数据管理中台能力，可简化数据接入与应用开发，提升业务效率。通过内置GPU与海康多模态大模型技术，产品能够高效解析非结构化数据，为公安、交警、交通、高速等业务提供大规模实时数据存储与分析支持。<br />　　在工业领域，工厂的智能升级改造带来对质检数据的高效管理需求，公司推出涵盖数据采集、压缩、查询及训练推理的全链路产品。无论是单个质检设备还是整条流水线、整座工厂的数据，公司都可提供端到端解决方案，助力企业实现质检数据的集约化、智能化管理。<br />　　2.2.2智能计算产品<br />　　1)域端智能计算——更精准、更灵活<br />　　海康威视域端智能计算产品包括智能安防和场景数字化两大产品体系，经历十多年发展，现已建构了涵盖全行业场景应用的全新大模型产品体系。产品的智能化水平不断跃升，各类数字化、工程化手段持续迭代，支持产品不断推陈出新，以满足广大客户在智能安全防范、智慧监管及数字化安全预警等方面日益多样化的诉求。<br />　　智能安防产品：面向智能安防场景应用，公司应用多模态大模型、高效检索等技术，打造文搜主机和文搜超脑产品。<br />　　-文搜主机：产品适用于中大场景企业园区、高校行业、文博景区等场景，单台设备支持500路以上相机的智能化改造，集文搜、人员聚类聚档、场景化智能预警等功能于一体，是中大场景下的旗舰产品，目前已在100余个高校与企业园区实战应用，并取得显著的应用成效。<br />　　-文搜超脑：该产品面向中小场景如工厂、学校、医院等环境设计，其应用范围覆盖人员、车辆乃至常见物品、动物等，具备行业领先的搜索准确率，可以满足客户文搜+智能安防人车预警的需求，文搜实现目标初筛，结合图片搜索、聚类、报警等，高效实现应用闭环。凭借产品的卓越表现，文搜超脑已成为中小场景下文搜领域首选产品，目前全国范围内已有超5,000个项目成功落地。<br />　　场景数字化域端计算产品：场景数字化域端计算产品是公司近年来重点打造的全新产品线，专注于各行业的安全生产监管和生产运营领域。基于客户业务需求，海康威视在多年积累的行业模型基础上，融合多模态大模型技术，构建了创新的场景数字化产品体系。该体系包括AI融合巡检超脑、行业垂直产品、AI多模态研判主机等，可灵活适配不同规模和类型行业应用场景。<br />　　-AI融合巡检超脑：产品聚焦于企业安全生产和政府安全监管领域的智能化巡检需求，提供全天24小时在线服务。产品不仅可大幅提升巡检效率和即时性，降低人工巡检强度，更能削减监管盲区，助力安全生产，让巡检业务“高效、及时、简单”。新一代大模型巡检超脑具备三大特性：算法多：内置百种算法，支持开箱即用，满足多样化需求；算法准：以强大算力支持多模态大模型算法，显著提升巡检算法准确性；见效快：支持算法现场调优，可现场根据需求灵活优化，大幅提升算法更新效率。<br />　　-行业垂直专用超脑：针对加油站、水利、矿山、电力、生产线等特定行业，公司发布了行业垂直专用超脑，产品深度贴合行业需求，助力各行业实现高效数字化转型。<br />　　-AI多模态研判主机：主要面向工业企业安全生产监管和政府智慧监管等应用，产品内置参数量更大、场景理解能力更强的多模态大模型，能够对安全生产中的复杂作业如动火作业、登高作业，吊装作业等实现更精准的细节和逻辑研判。根据业务需求，产品还支持通过文字描述快速生成算法，以更灵活的方式响应业务需求，广泛应用于发电厂、大型石化企业、大型制造工厂、森林防火等场景。<br />　　2)中心计算——打造智能物联算力基座，提供丰富且有竞争力的方案<br />　　随着人工智能、大数据、云计算、云存储等技术的快速发展，安全可靠、性能领先的IT基础设施变得不可或缺。<br />　　通用计算产品：海康威视通用服务器基于高性能处理器进行全栈自研，在高速信号设计、BMC/BIOS基础固件研发、节能降噪、整机性能调优及操作系统开发等方面持续提升能力，产品丰富完善，涵盖机架式服务器、边缘服务器和塔式服务器等多种产品形态，能够充分满足不同市场应用需求。<br />　　智能计算产品：海康威视智能服务器产品家族产品形态丰富，涵盖训练与推理等主流应用场景。产品可搭载国内外各类GPU计算卡，扩展能力强，兼容性好，满足各层次客户性价比要求。产品支持大规模视频数据的实时处理，支持多种类型算法的并行计算，显著提升分析效率，降低建设成本。<br />　　产品既可满足信息化市场的通用需求，也能为智算中心、云计算和大数据业务提供坚实可靠的基础设施支撑，适用于政府、公安、司法、交通、能源等各大行业的专业解决方案，为各行业提供高性能、高可靠、高安全性的智算支持。<br />　　7BMC：BaseboardManagementController，基板管理控制器；BIOS：BasicInput/OutputSystem，基本输入输出系统。<br />　　2.3显控与交互：创新显示控制技术，拓展智能交互场景<br />　　2.3.1显示与控制产品<br />　　显控业务作为海康威视全链条解决方案中的关键一环，是数据可视化输出的重要环节，将采集感知、经过处理的各类信息和数据转化为直观可视化的内容，为客户决策提供支撑。依托公司产品齐全、客户理解深入的特色及研发生产的协同性优势，海康威视显控业务整合解码、显示控制与软件能力，强化系统各环节联动性与客户黏性，通过技术迭代、成本优化与全流程协同，持续提升核心竞争力，彰显在显控领域的差异化竞争优势。<br />　　公司在智慧显控领域持续深化布局，在MicroLED显示技术方面，公司采用倒装共阴驱动技术、动态节能引擎算法及大带载传输技术，推出镜系列MIP8冷屏与高集成一体机等新产品。产品具备高节能性、低温触感及卓越的色彩还原能力，广泛应用于指挥调度、会议及展示等多样化场景。<br />　　围绕显示处理器这一显控核心环节，公司创新性地开发了新一代视频处理器、LED显示处理器及解码拼接屏产品，采用大带载传输技术及海康独有的AI画质增强技术，实现了全链路显示效果的优化，有力促进了控制系统网络化与标准化的进程。同时，公司为显控产品开发全新业务管理云平台，覆盖从商机识别到运维管理的全业务流程，为客户和用户围绕产品全生命周期提供数字化管理支持，显著提升管理质量与效率。<br />　　目前，相关产品已深度融入多行业生态体系，提供全网络化的场景解决方案。未来，公司将加速推进“显示+AI+算力”的融合创新，致力于构建智能显控生态，为全球显示产业的智能化升级贡献力量。<br />　　2.3.2智慧屏与视频会议产品<br />　　海康威视智慧屏与视频会议产品专注于教室、会议室以及典型信息发布场景。在音视频编解码、互联通信、弱网对抗和交互显示等传统技术持续优化的基础上，公司战略性投入AI大模型应用开发，把前沿的AI智能体能力深度整合到智慧屏应用中，显著丰富了产品功能，提升了人机交互效率。通过不断打磨软件细节、升级硬件能力，公司持续推动用户体验持续升级，致力于为客用户提供智能、专业、好交付的解决方案。<br />　　1)教学场景产品<br />　　海外市场方面，公司持续优化安卓版本产品，新推出的WonderOS4.0系统深度融合AI大模型技术，支持包括快速AI搜索、上下文分析、智能问答、语音字幕及纪要总结等多项AI功能，有效简化教学操作，提升教学过程的智能化水平。此外，全新的海外教学平台WonderHubClass致力于协助教师高效整合备课、授课与课后管理全流程，借助AI技术实现课程准备的自动化、课堂讲授的精准化与教学管理的智能化，从而显著提升教师的工作效率与教学体验。<br />　　国内市场方面，紧跟“AI+教育”的政策导向，公司开发了新一代融合云端AI模型和端侧轻量模型的产品方案。该产品可对教学过程做无感化信息采集和智能分析，显著提高教学效率。同时，易教学软件平台基于专业教学大模型能力，提供AI一键生成课件、智能问答、AI智能体等功能，搭配班班通及配套产品，全面提升教师的教学体验和备课效率。<br />　　2)会议场景产品<br />　　会议平板产品实现软硬件全面升级：新版投屏系统支持设备推荐、多画面选择和权限管理；公司发布四代投屏器，具备双接口兼容设计，可靠性与散热性能显著提升，有效优化投屏体验和操作效率。会议平板产品内置的AI大模型能力进一步强化，引入智能体技术，在纪要转写和检索的基础上，增加自然语言交互和基础场景动作引导执行能力，大幅降低用户使用门槛。<br />　　视频会议产品聚焦终端设备，全新发布的高集成4K定焦终端体积更为紧凑，音视频效果增强，性价比显著提升。<br />　　无纸化产品方面，公司推出行业领先的一线通升降终端，通过单根网线实现视频、音频和控制信号的传输。会议室方案更加精简聚焦，以全网络化为核心，配套售前设计工具和售后调试工具，端到端简化方案实施流程，降低部署复杂度。<br />　　3)信息发布场景产品<br />　　数字标牌产品包括电子班牌、数字餐牌、立式广告机、户外高亮屏等多个品类，广泛应用于零售、医疗、交通、教育、金融等行业场景。2025年，公司对产品硬件做全面升级，在国内市场推出6A、6B系列，在海外市场发布DP、DL系列及特色立柜产品。新一代产品采用超薄窄边设计，外观简洁现代，具备专业级显示效果，通过自动白平衡技术确保色彩一致性，硬件芯片平台SDK架构实现统一化，便于产品升级维护。<br />　　公司构建了全链路安全防护体系：设备端配备软霸屏设备锁，保障终端安全；传输过程采用加密机制，防范内容被截获篡改；平台端通过国家信息安全等级保护三级认证，全面确保发布内容的安全可靠。<br />　　针对海外市场，公司推出新一代云平台，显著降低客户部署与维护成本，提升发布效率与管理快捷性。公司同步提供本地化部署平台，支持内容的快捷发布和统一管理，满足不同客户的运营需要。<br />　　2.3.3交互音频<br />　　依托多年的声学技术沉淀，海康威视已构建起从声学设计、算法研发到系统联调的全链路研发能力，持续推动专业音频、广播音频与通用音频三大系列产品的迭代升级。<br />　　在专业音频领域，继具备全网络、全智能、全阵列的8000N高端系列后，公司进一步重磅发布4000N通用系列产品。该系列全面支持网络化架构并内置智能模块，推动网络与智能功能的广泛普及，为用户提供高性价比的数字化音频体验，助力行业实现音频数字化、网络化转型。<br />　　海康威视持续深化音频网络化核心技术的研发与应用，不断推进国内音频网络化进程，努力打造国内领先的网络音频品牌，致力于让网络音频系统好听、好用、好安全。<br />　　截至2025年，海康威视音频产品已成功应用于全国300多个城市，服务超过3,000个项目，助力各类场景实现稳定、清晰的音频体验，不断获得市场认可，客户口碑持续提升。<br />　　2.3.4安防PC产品<br />　　依托在音视频领域多年积累的解码经验，针对安防应用的特点，海康威视持续进行产品创新，通过自研解码算法和解码卡硬件，打造了具有强大解码性能、高稳定性、更专业的安防PC产品。<br />　　-紧凑设计，高性价比：整机采用8升小机箱设计，外观采用商用黑曜设计风格，流线型体轻巧美观，搭载国产CPU和2G解码卡，支持16路1080P视频解码播放，兼顾良好的成本效益与视频处理能力。<br />　　-可扩展解码能力：依托自研解码卡和智能调度算法，与主机显卡协同工作，实现解码路数的线性叠加。例如，在基础16路解码的基础上，增加一张2G显卡即可实现20路以上的视频解码，并通过调度算法支持灵活分配不同解码处理特定视频画面。<br />　　-高可靠性保障：产品具备7*24小时不间断稳定播放能力，实现4KV以上防浪涌和防静电设计，有效应对雷电和静电冲击，确保恶劣环境下的长期稳定运行。同时，采用自研SSD和内存，结合视频流均衡读写算法，可有效降低突发断电导致的数据丢失风险。<br />　　-简化部署与运维：结合视频安防平台和客户端的高度适配，实现开机即用，简化部署流程，减少后期运维负担，助力客户无缝开展各类专业安防应用。<br />　　海康威视着力打造更懂安防的PC系列产品，凭借创新的自研技术、可扩展的解码性能、高可靠的设计以及便捷的部署体验，为安防客户提供了专业且高效的解决方案，有力支撑各类复杂应用场景。<br />　　2.4控制与执行：打造系列化控制产品，满足多元化场景需求<br />　　2.4.1门禁对讲与报警产品<br />　　公司依托多年沉淀的感知、连接、凭证和控制技术，针对从封闭空间到开放空间的各类应用环境，围绕人员通行、人员状态、安全规范和数字化管理进行业务设计和产品创新，已经形成涵盖门禁、考勤、访客、梯控、楼宇对讲、医养对讲、人员出入口管理、入侵报警、周界防范、实名管理和办公消费在内的场景化解决方案集。<br />　　海康威视门禁产品以“明眸”为核心，继持续打造音视频、门禁控制、多模态识别等基础技术能力，构建起覆盖数智化身份识别与专业化出入管理的产品体系，全面满足通用场景与专业场景的差异化需求。在安全能力建设方面，公司深化全链路安全加密技术应用，丰富国密门禁产品体系，持续提升产品的安全性与合规性。同时，依托行业场景洞察，公司积极推动技术融合与产品创新，将大模型技术应用于防爆、防暴等专业领域，推出一系列行业定制化新品，为客户提供更加丰富与多样的解决方案。<br />　　海康威视可视对讲产品持续深化音视频技术在场景化应用中的智能水平，成功定义并推出第三代IP对讲产品，实现了产品能力与用户体验的全面升级。公司整合CCTV、报警、梯控、门禁等安防子系统，进一步拓展行业生态合作，为用户提供涵盖社区安防和场景联动的一站式解决方案。同时，面向不同垂直行业的深度需求，对讲产品方案持续迭代优化，不断增强对细分应用场景的适配能力，助力用户实现高效、便捷的智能管理。<br />　　海康威视人员通道产品不断推进技术深耕，围绕设备组网、空间探测、电机控制及材料工艺等关键技术持续升级，有效提升人员出入口场景的管理效能和通行体验。同时，公司在精益生产和服务运维等方面的能力持续提高，为客用户提供从安装、调试到使用的全流程高效支撑。基于不同场景需求及细分市场的差异化特点，公司构建了“御道”、“简行”、“传统”、“专用”四大产品系列，全面覆盖高端定制、便捷部署、通用兼容及特殊场景等多样化用户需求，为客户提供精准匹配的智能通行解决方案。<br />　　海康威视报警产品在无线和总线传输、低功耗、多模探测、透镜材料等技术领域持续深化和创新，发布新一代专业级混合报警产品，融合视频、对讲、门禁等实现多系统联动，为客户提供一站式安全管理解决方案。公司持续丰富云服务应用，面向不同用户提供专属应用工具，让产品接入更便捷、管理更高效，运维更省心。<br />　　2.4.2出入口停车产品<br />　　海康威视出入口停车产品依托公司深厚的硬件规模积淀和全栈技术优势，持续引领智慧停车技术发展，战略重心稳步转向数字化运营、主动运维和精细化管理，不断夯实产品竞争力。出入口停车产品以视频智能为核心，在细分场景智能识别、机芯控制技术、自动化制造工艺等核心能力上持续深耕突破，构建起兼具智能性、安全性与高效性的停车产品体系。<br />　　公司持续升级“守蔚”产品系列，通过视频识别、显示播报和道闸控制的一体化集成设计，深度融合极致低照度、大角度识别、防虚假车牌等视频技术应用，推动产品从基础层级向高端智能化和高效化部署升级，进一步提升和巩固了市场地位和品牌影响力。<br />　　公司将FOC9技术、行星齿轮道闸技术应用于产品设计，将自动化制造工艺应用于生产制造，有效提升了道闸类产品的运行稳定性、控制精度、通行效率和使用安全性，并大幅提升交付效率。公司持续完善产品在线运维能力，优化售后服务流程，提升运维效率，并持续完善出入口与停车产品的细分应用方案，持续改善通行体验、提高通行效率，助力城市停车效能提升，推动民生出行优化。<br />　　9FOC：Field-OrientedControl，磁场定向控制，又称矢量控制，是一种针对无刷直流电机和永磁同步电机的高效驱动控制方法，通过精确控制电机磁场的大小与方向，实现电机转矩平稳、低噪声、高效率运行。<br />　　2.4.3充电桩产品<br />　　随着新能源汽车保有量的持续增长，城市充电网络的智能化建设快速发展，充电运营与停车服务愈发呈现深度融合趋势。海康威视充电桩产品依托视觉感知、主动安全的技术优势，以及停车产品的体系优势，通过充电控制、安全防护、车机交互及视频智能应用等技术的积累和转化，构建了智能安全、主动运维和停充一体的产品系统。<br />　　公司视频智能交流产品可通过视觉感知实现人员、车辆权限鉴别，控制充电启停，联动显示播报和控制设备，并不断迭代推出多款一体快充、群充产品，持续完善公共充电、家用充电场景的产品方案。公司通过供应链体系和自动化产线建设，保障产品品质和交付效率，努力为用户提供更智能、更安全、更稳定的汽车充电产品。<br />　　2.4.4无人机防御产品<br />　　为响应防范“黑飞、偷拍、扰航”等低空威胁的需求，助力低空经济发展，海康威视提供完整的“发现-识别-预警-处置”无人机防御方案。该方案由探测设备（如无线电监测、雷达探测、光电识别设备等）、反制设备（如导航诱骗、无线电压制设备等）、无人机防御平台软件组成，具有“检得到、跟得上、拦得住、研得准”等特点。<br />　　-检得到：融合频谱侦测、协议解析、RemoteID国标报文侦测与雷达探测等多种手段，实时监测无人机动态，精准定位并预警；<br />　　-跟得上：基于AI算法实现精准标定，探测设备检测到目标后，可联动光电设备自动锁定并持续跟踪，完成对违规飞行的全程取证；<br />　　-拦得住：针对无人机干扰反制，为客户按需提供导航诱骗、固定式反制、便携式侦反诱一体化等设备，实现驱离或迫降，实现有效的处置；<br />　　-研得准：可通过协议/报文研判飞手准确位置，实现对飞手的溯源，并生成含导航信息的二维码，便于多方信息分享和后续处置。<br />　　无人机防御系统也可与视频综合应用结合，调取飞手位置周边可用的视图信息做抓拍取证，实现大模型图文分析，为进一步研判处置提供支撑。无人机防御平台软件对接入设备做集中管理，具备无人机侦测、报警、追随、反制等综合防御的可视化远程管理功能。<br />　　2.5网络与安全：构建智能物联网络底座，保障全域网络与数据安全<br />　　2.5.1网络产品<br />　　海康威视网络产品聚焦智能物联场景，提供物联网络一体化解决方案。产品系列涵盖路由交换产品、WLAN产品、无线网桥、自组网产品、全光网络产品、网管平台等多种类型，旨在提供快捷、可靠、安全的万物互联的网络服务，打造省心便捷、安全可靠的网络系统，使客户轻松触达广阔的物联世界。<br />　　1)交换机产品<br />　　公司围绕物联场景需求，从省心、可靠两个维度着手进行技术创新和产品开发，新推出多光多电交换机和轻框交换机，以丰富产品宽度，满足各类规模物联网络的多元化组网需求。其中，轻框交换机凭借高集成、易部署、高性价比等优势，已在各个行业获得广泛应用。轻网管交换机产品迭代升级，在智能物联领域稳居行业头部地位。工业交换机凭借稳定可靠、抗干扰能力强、适配严苛环境等特性，在新能源发电、交通管理等行业赢得了客户的广泛认可。<br />　　2)WLAN产品<br />　　公司聚焦中小场景无线网络覆盖需求，不断丰富产品梯度，新推出的AP产品具有更强的信号穿墙能力以及更稳定的无线传输速率。依托在智能物联领域深厚的技术积累与整体方案能力，公司打造安防系统与无线网络覆盖融合的差异化优势，为各类中小场景的智能化建设提供视网互联方案。<br />　　3)无线网桥产品<br />　　公司致力于解决数据高要求无线传输的挑战，满足从视距到非视距环境的不同应用需求。2025年，公司针对严苛工业环境的高需求，推出工业网桥产品，进一步完善高可靠性、高防护性网桥产品的布局。目前，公司已形成包括电梯网桥、工地网桥及室外通用网桥的产品矩阵，有效应对各类复杂场景与布线困难场景下的数据可靠传输需求，为安防监控和物联网数据回传提供稳定可靠的无线传输方案。<br />　　4)自组网产品<br />　　公司专注于解决无电无网环境下的物联数据回传难题。在野生动物保护场景中，自组网设备与公司野生动物保护相机深度协同组网，高效实现野外视频与图像数据的实时回传。在输电线路检测场景，通过Mesh自组网技术，支持长距离、分布式的视频数据回传。公司将积极拓展自组网产品在更多行业的应用探索，持续构建差异化的场景解决方案能力。<br />　　5)网管平台<br />　　2025年，公司依托前端的物联感知能力，联动网络实现IT+物联终端的集中统一管理，通过全局可视化的拓扑结构，实现“视网互联一网统管”。网管平台从四个维度着手，降低网络工勘、开局、管理、运维的门槛，提升智能物联系统的运维效率。<br />　　-轻松工勘：结合AP信号覆盖与IPC可视域进行布点规划；<br />　　-快速开局：快速生成包含交换机、AP/AC、网桥与IPC、门禁及手机等终端设备的拓扑图；<br />　　-便捷管理：支持快速打标签和PoE带机检测等功能；<br />　　-高效运维：提供统一网管的健康概览图，便于系统监控。<br />　　基于对IT与物联场景网络的统一管理能力，海康威视网络产品正在向更广阔的企业园区网络拓展，助力用户实现“安全、可靠、智简”的网络环境。<br />　　2.5.2网络安全<br />　　海康威视物联安全产品聚焦终端内生安全防护、视频边界安全管控和视频物联安全应用三大核心领域，构建云边端协同一体化的全链路安全防护体系。<br />　　-终端侧：在感知终端内置安全防护模块，集成物联网协议防火墙与入侵防御引擎，具备高效的威胁检测与实时防护能力。依托物联网安全管理平台，实现威胁统一分析、风险自动处置及策略智能编排，全面提升终端安全防护水平。<br />　　-传输侧：构建专属的视频物联边界安全管控体系，能够精准抵御外部网络攻击，为物联终端与视频平台提供可靠的安全保障。<br />　　-应用侧：通过视频数据安全产品，提供数据加密、数字水印溯源、违规行为识别及隐私画面保护等能力，确保数据的可管、可控、可溯，有效防范核心数据泄露风险。<br />　　截至2025年，海康威视累计获得商用密码产品认证证书超过70项，其中多项产品为行业首创。公司在商用密码领域具备扎实的基础能力，并在物联网密码应用方面积累了深厚的技术底蕴和丰富实践经验。通过将高安全性的商用密码技术与复杂的物联网业务场景深度融合，海康威视构建了覆盖边缘数据采集、网络数据传输、中心数据存储及系统业务应用的全流程密码产品体系。公司致力于为用户提供简单易用、稳定高效的密码应用解决方案，在满足合规建设要求的同时，更使密码技术真正服务于业务需求。<br />　　2.6软件产品：体系化构建软件核心能力，全方位打造智能物联基座<br />　　海康威视软件产品家族以数字化、智能化为核心，构建了涵盖软件平台、数据模型、软件服务和互联网运营四大板块的完整体系。<br />　　软件平台提供基础技术能力与行业解决方案，数据模型实现数据价值的深度挖掘，软件服务确保全流程的落地支撑与持续优化，互联网运营则赋能业务在线化与智能化服务。各板块相互协同，共同支撑企业在多场景下的数字化转型需求，为客户提供端到端的全方位智能物联解决方案。<br />　　2.6.1软件平台：提供基础技术能力与行业解决方案<br />　　软件平台作为海康威视产品家族的核心组成部分，持续融合前沿技术，强化共性能力沉淀与行业个性化适配，构建了由基础软件平台、通用软件平台及行业软件平台组成的完整技术体系。<br />　　1)基础软件平台<br />　　基础软件平台涵盖“存算、物联、智能、数据”四大类别，产品不断丰富完善。<br />　　存算软件包括云计算平台和云存储平台。云存储完成了从“被动存”向“主动智”的跨越式升级，推出新一代智能融合云存储方案，以极致性能与成本优势，精准匹配大模型数据需求。云计算持续构建中心云与边缘云结合的泛在算力架构，通过深化业云融合，并突破容器异构算力调度技术，实现了对算力的高效统筹与动态编排，为大模型应用落地提供了坚实、高效的算力底座。<br />　　物联软件包含智能感知联网平台、一体化运维服务平台等相关产品，为各类物联应用场景提供设备接入联网和一体化运维服务能力。<br />　　人工智能软件包含训练平台、推理平台、大模型智能中台等相关产品，为各类场景提供智能算法的生成及应用，以及智能体的快速构建、智能应用低代码开发等能力。<br />　　大数据软件包括大数据基础平台、物信融合数据资源平台、BI数据建模应用平台、数据集成平台等相关产品，构建涵盖集成、存储、治理、融合、分析和建模应用的全链路数据处理能力。通过消除数据孤岛、深挖数据价值、充分释放数据要素潜能，该平台已成为驱动业务智能增长的核心引擎。<br />　　2)通用软件平台<br />　　海康威视提供跨多个行业的通用软件功能，包含综合安防软件、多媒体交互软件、融合赋能软件、数据联网软件等，通过持续挖掘共性需求，公司沉淀并提升了通用软件能力。以多媒体交互软件为例，公司推出了AR实景地图应用平台、VR全景应用平台、智能音频管理平台、信息发布管理平台、智能大屏管理平台等一系列通用软件平台产品。同时，数据联网软件构建了高效的数据流通管廊，实现了跨地域，跨网络，跨平台，跨厂商的一站式数据对接方案，能够满足广泛的数据采集和级联场景需求。<br />　　3)行业软件平台<br />　　海康威视面向80余个子行业提供服务，聚焦用户业务痛点，结合大模型和物联技术，持续拓展各子行业的场景数字化应用，不断完善公共安全、应急安全、自然灾害、生态环保、城市管理、安全生产六大领域的垂类大模型能力，形成完整的业务闭环。例如，在城市生命线场景下，公司推出了排水防涝、燃气监管、水利灌区数字化管理等专项应用；在教育场景下，公司提供高校安防系统智能化升级方案，提供校园融合检索、场景预警、安全数据研判等行业应用；在工业产线场景下，公司打造了基于工业大模型的LogicAgent编排软件，可快速落地AI-SOP动作防错、装配错漏、作业辅助指导等碎片化应用。<br />　　2.6.2数据模型：治理与应用双轮驱动，实现数据价值的深度挖掘<br />　　海康威视构建“行业数据治理”与“专业场景应用”双轮驱动的模型体系，深度赋能垂直行业的数据治理与应用。<br />　　1)行业数据仓库治理模型<br />　　严格遵循各行业规范，公司建立标准化的行业数据仓库体系，深度融合物联感知与业务数据，打造系统化、标准化的数据底座，为各垂直领域夯实数字化根基。产品涵盖公安行业、交警行业、高校、智慧园区等多个场景的数仓治理模型。<br />　　2)专业业务应用模型<br />　　基于高质量数据，公司紧扣行业核心痛点与具体场景，构建机理模型与智能算法模型，推动各类业务场景从被动响应向主动预警、智能决策的转型升级。目前已覆盖十余个垂直行业，并在水利防汛（如洪水预报、洪水演进）、公共安全（如危化气体扩散模拟）及应急消防（如气象火情预警）等关键场景成功落地，显著提升了行业数字化治理效能。<br />　　2.6.3软件服务：确保全流程的落地支撑与持续优化<br />　　海康威视的软件服务体系由产品配套服务、AI工程服务与数据工程服务三大板块构成，共同支撑客户实现数字化转型与智能化升级。<br />　　1)产品配套服务<br />　　海康威视提供涵盖软件全生命周期的产品保障服务、实施部署服务和各类增值服务，包含技术指导、故障处理、补丁更新、部署调试、软件升级、数据迁移、专家巡检等服务。通过全链条的体系化服务保障，确保软件系统稳定运行，助力持续实现软件价值。<br />　　2)AI工程服务<br />　　围绕大模型算法的场景化落地需求，海康威视为客用户提供方案咨询、算法设计、效果优化建议等一站式服务，协助客用户构建专属的高性价比系统方案，推动AI技术有效融入实际应用。<br />　　3)数据工程服务<br />　　海康威视为部分行业用户提供数据汇聚治理、数据模型实施等数据工程服务，通过系统化的数据处理与建模，充分挖掘数据价值，支撑业务决策与创新性应用。<br />　　2.6.4互联网运营服务：赋能业务在线化与智能化服务<br />　　互联网运营是海康威视连接用户、产品与服务的重要桥梁，聚焦用户全生命周期管理、服务在线化、数据驱动决策等核心环节，旨在提升用户体验与业务响应效率，致力于通过线上平台构建高效、敏捷的运营体系。<br />　　1)海康云眸<br />　　定位为海康威视面向政企市场的互联网运营平台，致力于构建一个开放的智能物联云平台。通过云平台，公司为用户提供基于物联感知产品、观澜大模型及行业应用的高效服务。<br />　　在业务与应用方面，云眸将云平台技术、行业场景化需求与生态合作伙伴能力进行持续整合，深度链接行业用户业务场景，为企业与组织的数字化转型提供端到端的闭环应用，实现运营与管理效率的提升。<br />　　在数字化在线方面，基于海康威视丰富的物联与感知场景数字化产品，海康云眸打造了针对性的产品在线与管理应用，为场景数字化设备提供全生命周期的保障服务。<br />　　在开发者与生态方面，通过开放的开发者服务平台，提供丰富的API与开发工具，降低开发门槛，赋能第三方开发者及合作伙伴，与生态伙伴共同构建面向各行业的云应用生态，加速场景数字化的创新与落地。<br />　　当前，海康云眸总共接入并管理的智能感知设备超过600万路，在多个行业多个场景完成了业务场景的闭环管理落地<br />　　2)停车运营<br />　　海康威视在智慧停车领域，围绕城市停车和场库停车场景，通过视频、雷达、地磁、出入口设备等物联感知设施，结业专业化的停车应用和精细化的停车运营服务，构建起覆盖资源管理、运营管理、客服管理、财务管理、运维管理及公众服务的全流程业务闭环。公司助力车场运营方提升车场运营质量和收益水平，为车主提供更便捷、舒心的停车服务体验，协助城市管理者优化停车资源配置，助力提高城市停车管理水平，系统性缓解停车难题。<br />　　2.7创新业务产品：完善多元一体业务版图，激发生生不息创新动力<br />　　2.7.1海康机器人产品<br />　　海康机器人以多维感知、人工智能、导航控制和决策规划等技术为基石，凭借深厚的算法积累、强大的软硬件开发能力，聚焦工业物联网、智慧物流和智能制造领域，通过持续在机器视觉、移动机器人、关节机器人领域的深耕投入，构建了丰富的产品谱系。<br />　　1)机器视觉业务<br />　　机器视觉作为工业传感的核心，是机器人和自动化设备的眼睛，在建设数字化工厂感知网络中扮演着关键角色，也是柔性化智能生产的重要组成部分。当前，公司机器视觉业务已形成软硬件结合的完整产品和解决方案，在行业内保持领先地位。<br />　　机器视觉硬件涵盖2D标准产品线、智能产品线、3D产品线和工控产品线四大产品谱系；软件方面包括VM（VisionMaster）算法软件平台以及面向3D机器人应用的RP（RobotPilot）机器人视觉引导平台，并与合作伙伴共同构建国产视觉应用生态。相关产品已广泛应用于各类工业自动化场景，实现定位引导、尺寸测量、缺陷检测、信息识别等丰富应用。<br />　　2)移动机器人业务<br />　　公司构筑了统一的产品架构平台，为新一代移动机器人提供“智能基座”。同时，为适应业务发展需要，公司对产品线进行了系统性整合，确立了潜伏系列、叉取系列、料箱系列和移/重载系列四大硬件产品谱系，凭借强大的底盘平台化设计、多传感器融合导航技术、高精度运动控制算法及场景化定制能力，全线产品实现了卓越的性能与高度的运行稳定性。<br />　　在软件系统层面，公司布局了包括RCS10和iWMS11在内的平台级产品，采用开放式系统架构，通过低代码应用开发平台，公司及生态伙伴能快速响应客户需求，提升开发与部署效率。通过深度融合软硬件优势，移动机器人产品线致力于协助工业制造、商业流通等领域的客户，实现厂内物流化繁为简、降本增效。<br />　　3)关节机器人业务<br />　　10RCS：RobotControlSystem，机器人调度系统。<br />　　关节机器人产品线聚焦驱控一体化技术和融合感知能力，旨在提升生产柔性和工艺智能化水平，业务涵盖垂直多关节机器人、水平多关节机器人两大硬件产品线，其高实时性控制系统及高性能运动算法，能够充分满足客户对卓越操作性能的需求，在精度、速度和可靠性等关键指标上达到行业先进水平。<br />　　在软件配套方面，公司自研了离线编程软件HARMASTERPro及在线编程软件HARMASTERLite，具备丰富的仿真验证功能和灵活的工艺扩展能力，为关节机器人应用提供有力支撑。此外，关节机器人产品具有高度的工艺适应性，通过配置多样化的应用工艺包，可有效应对不同行业和客户的个性化需求，目前已经在汽车零部件、金属加工、3C电子、新能源等行业实现规模化应用。<br />　　2.7.2萤石网络产品<br />　　萤石致力于成为全球领先的智能视觉物联网服务商，构建了全球领先的视觉物联网云平台，打造了硬件产品+软件云服务一体化的物联网服务体系。公司始终以用户需求为导向，聚焦于智能视觉技术，不断强化AI视觉的差异化能力，以AI和萤石物联云平台为双核心，拓展了智能家居摄像机、智能入户、智能穿戴、智能服务机器人及智能控制五大核心自研的智能产品；生态体系方面，公司以萤石开放平台为基础打造了全栈开放的软件生态体系。<br />　　-在软件云服务方面，萤石云是全球领先的视觉公有云平台，基于萤石蓝海大模型的底层能力及端云协同的技术架构，为消费者用户提供智能化、个性化增值服务，为开发者客户提供全栈开放的PaaS平台服务。<br />　　-智能家居摄像机是公司智能硬件产品的基本盘业务，公司已经发展和形成了较为完善的摄像机产品矩阵，可覆盖多种应用场景，满足用户多样化的需求。公司持续推动智能家居摄像机向视觉化、场景化、交互化、智能化升级。<br />　　-智能入户业务线主要涵盖智能锁、智能视频门铃、智能猫眼、智能开门机等产品，作为公司的明星业务及第二增长曲线，公司智能入户产品在视觉能力、AI能力和交互能力方面不断沉淀，引领行业的智能化升级迭代。<br />　　-智能服务机器人和智能穿戴数码产品作为公司孵化业务，分别承载着公司核心技术发展迭代的战略支撑以及在高频AI交互终端品类上的布局。<br />　　2.7.3海康微影产品<br />　　海康微影以红外热成像技术为核心基础，深耕高附加值MEMS12、光电器件和传感器技术，构建涵盖温度、压力、流量、物位等多维度的感知能力。通过将技术、产品和市场垂直整合，海康微影致力于为数智工业、智慧物联等领域打造全方位感知解决方案，助力企业数字化转型，拓展人类感知边界。<br />　　公司业务覆盖安防监控、工业生产、便携检测、户外生活等多种场景需求，分为泛安防、工业测温、手持仪器、工业仪表、户外五大类产品线。<br />　　泛安防产品线：聚焦森林、企业园区、油田、港口等重点区域的高低空全景防护、周界防范及火灾预警等核心安防需求，构建全天候、无死角、智能化的安防监测体系，解决传统安防巡检效率低、漏报误报多、环境适应性差等痛点，实现从高空全景到周界细节、从火情预警到入侵检测的全维度防护。<br />　　工业测温产品线：针对工业生产全流程中的温度监测、精密测温及高温作业检测等需求，公司打造了宽量程、高精度、高适应性的测温产品矩阵，覆盖钢铁、汽车、酿酒、电子制造、食品、单晶硅等多个行业，助力企业实现生产安全防护、工艺品质把控及产品质量检测，保障工业生产高质量安全运行。<br />　　手持仪器产品线：重点发展便携、智能、多传感器融合及高效检测能力，融合红外热成像、声学和超声波等核心技术，公司推出多形态便携检测设备，满足工业巡检、设备维护、应急检测和故障定位等移动检测需求，搭配专属软件实现数据化分析，成为工业巡检和应急作业的“随身检测分析师”。<br />　　工业仪表产品线：专注于流程工业市场，以芯片与传感器技术为基础，结合AI算法和电路小信号处理技术，开发出涵盖温度、压力、流量、物位的全系列高稳级、高精度智能仪表。公司构建的多维传感计量体系，适用于化工、钢铁、冶金、发电、水务、环保、食品等多行业工业场景，为生产自动化控制、工艺参数管理提供精准数据支撑，助力企业提升生产效率，有力控制能耗。<br />　　户外产品线：覆盖行业级户外作业与消费级户外应用两大领域，打造具备高适应性和高性能的户外感知设备。产品适配复杂户外环境，满足应急搜救、露营垂钓、渔政海事、森林防火、污染溯源等多种场景需求，实现全天候、远距离的多维度感知能力。<br />　　2.7.4海康汽车电子产品<br />　　1)乘用车产品<br />　　海康汽车电子乘用车业务涵盖车载摄像头、车载毫米波雷达及智能驾驶辅助三大产品线，致力于满足乘用车客户在各类智能驾驶场景中的需求。其中，车载摄像头与毫米波雷达作为核心传感器产品，已发展为国内市场的领军者，在出货规模、产品矩阵及客户覆盖上均居于行业前列。<br />　　公司持续加大在智能驾驶算法领域的研发投入，围绕L1-L2级智能驾驶辅助需求，依托自主定制芯片与全栈自研算法，为客户提供具有差异化的系统解决方案。未来，公司将继续乘政策东风，抓市场机遇，助力全行业智能驾驶辅助技术的进一步普及与应用。<br />　　2)商用车产品<br />　　海康汽车电子商用车业务包含商用车前装、商用车后装、后市场消费类三个子业务，面向全球车载行业市场，将“定位、存储、网传、AI智能分析、车联网平台”融合成多样化的车载系统解决方案，致力于成为行业领先的车辆智能化、网联化的产品及解决方案提供商，全面服务国内外商用车行业客/用户及广大消费者。<br />　　公司持续建设车载智能终端与云平台底座能力，逐步从单一产品提供、产品方案交付向数据价值运营转变，与国内外行业客户合作，依托AI大模型及车辆数据应用能力，开发场景化适配方案，夯实物流、环卫、公共交通、工程机械等10余个业务场景的覆盖深度，形成技术-场景-数据的应用闭环。<br />　　3)雷达产品<br />　　海康汽车电子雷达产品坚持毫米波与激光双轮驱动的感知技术战略，持续加大研发投入，以底层技术创新为核心，深化交通、安防、工业等场景落地，推动产品矩阵升级，市场竞争力稳步提升。<br />　　公司毫米波雷达产品在交通、安防等优势行业保持市场领先，实现精准突破。在广受市场欢迎的24GHz、77/79GHz交通雷达的基础上，公司2025年发布92GHz全系列交通雷达，夯实技术领先性，助力市场份额持续扩大。公司2025年在安防领域推出5公里以上远距探测雷达，实现与可见光、热成像的多传感融合，构建起从100m到5km的安防周界全系列感知雷达体系。针对工业场景，公司夯实天线、射频、算法等核心技术底座，通过技术创新完善1D-4D产品矩阵，依托海康云眸平台与大模型技术能力，构建云边端一体化融合方案。<br />　　公司激光雷达产品专注于工业场景，在激光线数、扫描角度、测量距离、扫描频率等关键指标达到行业主流水平；在测距精度、角分辨率、防区定制、防爆设计等方面实现领先。公司持续优化产品稳定性、环境适应性及配套工具链完整性，综合竞争力持续提升。公司2025年发布4线、16线、32线全系列产品，针对性开发远距离、大角度、高帧率及非重复扫描等场景化定制产品，产品体系全面扩容，覆盖更多细分应用需求。公司在港机市场实现重大突破，凭借产品的可靠性能与场景适配能力打开高端工业市场，市场地位稳步提升。<br />　　公司不断实现技术突破，持续引领产品创新，在行业首发基于波导天线技术的物位计、2D/3D成像雷达，推出毫米波-激光融合3D成像雷达，实现自动化标定与交付效率大幅提升；赋能斗轮机无人化作业安全与效率升级，推动小筒仓料位测量从单点监测向多点精准感知跨越，数据质量与稳定性显著增强。<br />　　公司将坚定推进技术创新与产品升级，以天线、射频、算法等底层技术为支撑，不断拓展雷达产品体系，持续巩固扩大核心技术指标优势，在工业、交通、安防等多赛道协同发力，通过传感融合、大模型赋能、场景化定制，从设备供应迈向整体解决方案输出，为各行业智能化升级提供核心支撑。<br />　　2.7.5海康存储产品<br />　　海康存储专注于存储产品的研发、设计与制造，具备从晶圆封测到模组生产的完整工艺流程，产品矩阵涵盖固态硬盘、嵌入式存储、前置存储和闪存应用四大产品线。<br />　　基于对终端消费市场和行业应用场景的深度洞察，海康存储不断加大研发投入，持续迭代和拓展四大产品线系列。消费级存储产品兼具高速数据传输及低功耗特点，性能达到行业旗舰水平，满足内容创作者和电竞爱好者的多样化需求；企业级、工规级、车规级存储产品具备“自适应、高可靠”的性能表现，能适应不同行业应用场景中极端高低温环境、抗震防摔、掉电保护、数据加密以及7x24小时不间断运行等严苛要求。<br />　　在消费级领域，2025年公司推出PCIe5.0旗舰级固态硬盘等产品系列，完善了从入门级至中高端应用的产品矩阵。在行业级领域，多款企业级SSD全面兼容适配主流CPU平台及服务器，同时，SPI、eMMC、LPDDR等嵌入式产品通过MTK、Realtek等主流SoC平台认证，其中车规级eMMC5.1MLC系列产品通过了AEC-Q100及IATF16949两大汽车电子行业核心标准体系的认证，产品竞争力与应用场景得到进一步拓展，成为推动公司业务增长的新动力。<br />　　2.7.6海康消防产品<br />　　针对城市和工业消防安全的众多碎片化场景，海康消防以“火焰探测、多维感知、无线物联、AI视频分析”技术为核心，采用“智慧物联+云服务”的软硬件双驱动模式，构建了一套涵盖前端探测，数字汇聚，大数据分析和事件执行的完整的技术体系，提供从单点感知到智慧防控的全域消防产品体系。<br />　　海康消防通过对火灾相关因素、响应效率和使用便捷性的分析，结合城市和工业不同应用场景，构建了通用消防、工业消防的两大业务主轴，不断提高消防系统的协同效率和智能水平，使火焰探测和多维感知设备能适应城市消防的碎片化应用，以及工业消防的严苛工况。<br />　　在此基础上，海康消防自主研发和搭建了消防云服务体系，包含消防云布点，算法云优化和在线升级，并提供语音及短信云服务。通过整合AI等业务服务和数据模型能力，公司助力各行业客用户轻松应对复杂项目交付和设备维护，缩短建设周期并减少防护空档期。目前，已有超千万只设备在线运行，为超过十万各类型场所提供安全守护。<br />　　1)通用消防业务<br />　　通用消防业务聚焦与城市消防物联网领域，致力于重点场所的安全防护和消防的数智化改造，使用应用先进的探测技术和无线物联技术，将传统消防系统升级为数字化智能体系。产品涵盖火灾自动报警系统、无线物联网消防系统等，集成水、电、烟、气、温的探测和智能物联功能，为千家万户和各重点单位提供全面的智慧消防物联网解决方案。从环境感知，极早期探测，前期预警，中期报警到应急处置，系统支持高效的人机协同，以信息化手段简化决策和处置流程，降低安保成本并提升防护水平。目前，公司的产品与服务已广泛应用于智能楼宇、学校、医院、民生工程、单位园区等各行各业。<br />　　2)工业消防业务<br />　　工业消防业务聚焦于工业生产、仓储、转运及设施设备的消防安全防护，针对严苛工况设计专业化解决方案。产品覆盖工业火报、火气系统、特种探测三条产品线，提供高可靠的气体、火焰、温度及烟雾探测设备。系统广泛应用于电力设施设备防护、锂电池生产仓储与转运环节、电化学储能PACK级防护、风机及场站的安全防护、隧道高速移动烟移动火探测等众多场景，以技术促安全，以应用提效率。目前，该业务已经广泛深入化工、能源、冶金、交通、工业制造等场景，为工业安全提供精准可靠的防护支持。<br />　　2.7.7海康睿影产品<br />　　X光是一种高能电磁波，具备波长极短、穿透力极强的物理特性。通过不同材料对X射线吸收率的差异，能够清晰地分辨出微小的尺寸差异和细微的结构变化，满足高精度、非接触式的内部检测需求。<br />　　海康睿影在X光透视成像领域持续深耕，围绕智慧安检和工业探测应用，以智能化技术为引领，依托X光成像技术为核心驱动力，融合多维感知、人工智能和设备物联技术，构建从亚微米级到毫米级，从二维成像到三维成像的高精透视检测体系。<br />　　1)工业检测产品<br />　　在工业检测领域，公司基于X射线透视成像、大模型算法与图像处理等技术，推出了点料以及缺陷检测两大类型产品，广泛应用于电子电气、汽车制造、锂电池、食药品及泛工业化领域，为企业提供异物、缺陷的智能化视觉检测能力，构建起一体化工业探测产品解决方案。<br />　　-在电子制造领域，海康睿影在线3DAXI智能检测设备采用三维成像技术，可实现电路板整体与局部的360度透视成像及截面分析，高效自动化识别焊接过程中的各类质量缺陷，确保产品焊接可靠性。<br />　　-面向发动机零件、轮毂、转向节、减震器等高标准结构件的生产流程，系统通过X射线高清成像结合AI算法，清晰呈现工件内部结构图像，实现批量自动化缺陷识别与判定，大幅提升检测效率与产品质量一致性。<br />　　-在高速运转的SMT13生产环境中，海康睿影X光智能点料机仅需8秒即可完成四盘物料的精准清点，点料精度高达99.99%。检测数据可通过MES系统实时上传，助力企业实现仓储与生产流程的数字化智能管控。<br />　　-针对食品加工中鸡胸肉微小残骨等异物识别难题，海康睿影X光双能智能检测系统融合Raytina图像增强引擎、AI算法与双能检测技术，精准定位异物位置并联动自动剔除装置，显著提升产线检测效率与产品品质保障水平。<br />　　13SMT：SurfaceMountTechnology，表面贴装技术。<br />　　2)智慧安检产品<br />　　公司深耕智慧安检领域，依托大模型、数据联网、智能识别、人包关联及物联感知等技术，推出了智能安检机、智能安检门等系列产品。其中，毫米波人体成像安检仪成为首家通过中国民航最高A3标准的高端的人体安检设备，为安检智能化发展树立新标杆。<br />　　海康睿影毫米波人体成像安检仪采用非接触过检与智能识别技术，不仅可以精准识别常规金属违禁品，还可有效检测陶瓷刀、液体、爆炸物、粉末包等非金属违禁品。设备检测效率高达600人次/小时，目前已经在北京、杭州、厦门、长春等全国多地机场投入使用。<br />　　X光安检机作为交通场景的核心物检设备，搭载公司自研光电传感器，可获取原子序数、高低能等多维原始数据。结合X光大模型分析算法，设备在违禁品检测能力上实现显著提升，并创新性地增加危险液体识别功能。通过精细化物品分割与识别算法，系统有效应对复杂、遮挡等辨识难点，使违禁品漏检下降75%，推动物检模式由“以人为主”向“以机器为主”乃至全自动智能识别演进。目前，海康睿影安检业务已成功落地成都、杭州、合肥、沈阳、西安、重庆、长春、深圳、青岛、苏州等全国多地民航、轨道交通场景。<br />　　2.7.8海康慧影产品<br />　　海康慧影植根于医疗科技行业，为全球客户提供医用内窥镜系统的OEM/ODM解决方案。公司聚焦医疗场景，依托光、机、电、软、算、智六大核心技术的深度研究与创新应用，为医疗器械企业客户提供微创内镜、腔道内镜、手术影音三大解决方案。<br />　　1)MISE14微创内镜解决方案<br />　　海康慧影4K3D荧光解决方案是国内首批量产并用于临床使用的高端内窥镜方案，通过融合4K超高清成像、3D双目立体成像和多色渐变荧光显影技术，显著提升复杂微创手术场景下的精准性与安全性。<br />　　2025年，公司持续对4K3D荧光解决方案及多CMOS白光/荧光解决方案等创新产品进行迭代优化，实现图像效果的进一步提升和系统延时的有效降低，努力为客户提供更为多样化的硬镜方案选择，满足多种临床场景及产品需求。<br />　　2)NOTE15腔道内镜解决方案<br />　　海康慧影持续对腔道内镜图像处理器及一次性腔道内镜解决方案进行迭代优化，有效控制成本以适应市场变化。NOTE产品线涵盖多种一次性腔道内镜，包括适用于消化内镜科的胆道镜方案、面向泌尿外科的输尿管镜和膀胱镜方案、服务于呼吸科的支气管镜方案以及专用于妇科的宫腔镜方案等。<br />　　2025年，公司全新发布消化内镜成像解决方案，包括消化内镜图像链路与图像处理器，推动腔道内镜产品线进一步由一次性腔道内镜向可重复消毒使用腔道内镜市场扩展。<br />　　14MISE：MinimallyInvasiveSurgeryEndoscopy，微创手术内镜。<br />　　15NOTE：NaturalOrificeTransluminalEndoscopy，经自然腔道内镜。<br />　　3)ORMS16手术影音解决方案<br />　　围绕手术室应用场景，海康慧影通过整合ORMS解决方案与MISE、NOTE系列方案，形成协同效应，为客户提供完整的数字化手术室整体解决方案。该方案主要包括医用显示器和手术室影音管理两大组成部分。<br />　　2025年，公司推出的32寸4K3D手术显示屏，可配合3D内窥镜摄像系统，实现优异的显示效果。智能5G全链路4K影音管理系统融入人工智能技术，助力微创手术的安全性提升，实现数字化手术室音视频管理、远程通讯及信息系统集成等全过程数字化建设。<br />　　3、业务布局<br />　　经历二十余年的不懈努力，海康威视构建起国内主业、海外主业与八大创新业务三位一体、全域协同的业务布局体系。三大板块互为支撑、相互促进，形成公司可持续发展的业务之树。<br />　　国内主业深耕行业多年，依托三大事业群实现全场景深度覆盖，凭借对客户需求的深刻洞察与精准响应，构筑起本固根深的坚实壁垒；海外主业坚持本地化开枝散叶，以“一国一品一策”战略拓展全球市场，持续打造第二增长曲线，不断优化数字化营销服务体系，与全球伙伴共生共荣；八大创新业务不断拔节育穗，连续多年保持高速增长态势，陆续成为各自领域内的领军企业，驱动公司生生不息、枝繁叶茂的新发展。<br />　　3.1国内主业：精研三大核心市场，赋能千行百业数字化转型<br />　　海康威视国内业务依托32个省级业务中心、近300个城市级分公司和办事处开展业务，构建了以城市为单位的分层分级营销体系，通过企事业事业群覆盖9大企事业类行业、51个子行业，提供400余个解决方案，通过公共服务事业群覆盖5大政府类行业、32个子行业，提供200余个解决方案，通过中小企业事业群提供25大类软硬件产品，为经销商、安装商客户提供销售支撑。<br />　　三大事业群与32个省级业务中心一起构成了行业与区域条块结合、协同一致的营销体系，为国内各行各业客户提供智能物联的产品与解决方案，助力社会与经济的数字化转型升级。<br />　　3.1.1企事业事业群（EBG）：深耕场景数字化，推动产业新升级<br />　　当前，产业数字化与数字产业化协同并进，重塑产业发展格局：产业数字化推动传统产业智能化升级，数字产业化催生数字经济新形态，释放发展新机遇。在此趋势下，海康威视锚定场景数字化核心路径，全面应用大模型技术，以智能物联技术与观澜大模型的深度融合为关键引擎，聚焦集团大连锁、智慧园区、安全管理、设备管理等核心业务，深化场景化应用落地，打造可复制推广的数字化标杆案例，取得阶段性显著成效。<br />　　过去一年，物联感知与大模型技术迭代突破，驱动公司产品体系与技术能力持续升级。公司紧抓行业机遇，依托AIoT技术底座，实现产品应用与交付成效的能力跃升。<br />　　-产品应用方面：以观澜大模型深度赋能边缘端设备及物联应用云平台，为千行百业数字化转型注入新动能。例如，主动监管摄像机系列产品，可实现生产现场动态安全管控，应用于化工、电力、冶金等行业；机械臂防碰撞摄像机系列产品，可快速识别人员滞留并报警，规避人机碰撞事故，适配制造、仓储等场景；超融合智控引擎一体机产品，集成物联控制、音视频等多模块功能，以极简部署赋能教育、企业智慧空间建设；海康云眸平台，融合观澜大模型多模态感知能力，实现智能巡检、异常预警与数据决策效能提升，赋能零售、社区、教育等多行业。<br />　　-项目交付方面：公司聚焦高效交付与便捷使用，打造数字化交付支撑平台，简化了配置流程，显著提升了交付效率和质量，并在园区、巡检等场景的业务方案中广泛落地交付。同时，公司积极探索智能体技术的场景化应用，已在安全生产、智慧园区、设备管理、生产品控等领域实现有效部署。海康威视以智能物联核心技术和数字化产品体系为根基，依托安全生产大模型、工业大模型等核心技术引擎，融合软硬件全栈产品矩阵，持续推进各业务环节数字化转型。公司持续打造生产智造、安全智管、园区智理等核心业务应用，构建起“集团大连锁”数字化运营体系，全方位保障安全，拉进管理距离，持续帮助用户提质、降本、增效。<br />　　-生产智造：公司围绕质量控制、现场管理、设备管理、仓储物流等关键环节，实现生产全流程智能化管控与高效协同。<br />　　-安全智管：公司聚焦人的不安全行为、物的不安全状态、环境的不安全因素三类要点，强化风险防控并辅助安全决策。<br />　　-园区智理：公司以园区一脸通系统、全域安防体系和运营指挥中心为核心抓手，提升园区运营效率与综合服务水平。<br />　　-集团大连锁：以上述三大核心业务应用为支撑，公司聚焦企业、社区、教育、医院、文旅等多元连锁业态，完善“集团大连锁”体系，夯实“标准统一、能力共享、管理对标、服务对齐”目标，提升集团整体运营效能。<br />　　随着数字化进程深化与技术迭代加速，企业对价值创造与问题解决的核心需求持续强化，并愿意为实效型应用持续投入。未来，海康威视将持续以场景需求为导向，以观澜大模型为核心驱动力，深度融合智能物联技术，不断深化技术创新与业务拓展。公司致力于坚守深耕场景数字化的核心使命，助力千行百业的数字化升级，与广大合作伙伴共赴数智新未来。<br />　　3.1.2公共服务事业群（PBG）：注入科技新动能，助力治理方式数字化转型<br />　　在智能物联与大模型技术深度嵌入社会运行的当下，治理方式的数字化转型已走过夯基垒台的起步期，全面迈入深化应用、引领变革的关键发展阶段。随着《数字中国建设2025年行动方案》的深入实施和“十五五”规划的前瞻布局，数字政府建设正迈上智能化深度应用的新台阶，开启数智治理的新征程。国家层面先后出台《关于深入实施“人工智能+”行动的意见》《政务领域人工智能大模型部署应用指引》等政策文件，标志着“人工智能+”在社会治理领域进入有序推进、深度融合的新阶段。<br />　　2025年同时也是人工智能大模型技术范式变革的关键之年，大模型应用正加速从数字世界迈向物理世界。在此背景下，物联感知、大模型、大数据、云计算等技术的深度应用，推动数智治理从“工具赋能”走向“范式重塑”——大模型应用开始规模化落地。<br />　　海康威视持续夯实“感知、智能、赋能”三位一体的智能物联基础能力体系。在感知层面，持续深耕全光谱与多维感知技术，以科学布建理论为指导，优化感知前端布局，构建智能化、立体化的城市物联感知网；在智能层面，依托物联感知、语言及多模态大模型，结合行业知识打造行业大模型，不断提升复杂场景的识别准确率与交互体验，完善涵盖多类型算力调度与算法自主训练的智能解析体系；在赋能层面，以共建共享为核心，整合跨行业的感知信息、智能算法与数据资源，实现算法、模型等数字资源的一体化部署，构建共性组件与模块的共享协作机制，全面支撑治理方式数字化转型场景的建设与发展。<br />　　同时，公司不断夯实AI工程、数据工程、运维及运营等专业服务能力，构建覆盖全国的服务支撑团队，增强用户粘性；持续提升系统设计、开发、集成与项目管理等系统工程能力，与集成商协同互补，为行业用户提供从感知到应用、从建设到运维的全周期闭环保障。<br />　　海康威视基于“智能物联”技术体系和观澜大模型能力，将创新成果逐步应用于政府及社会治理的各类复杂场景，依托2,000余个业务场景，充分发挥观澜大模型在物联感知与多模态技术方面的深厚优势，持续孵化200余类模型算法，打造500余个场景化行业智能应用，并沉淀200余份行业解决方案，以“从场景中来，到方案中去”的技术落地闭环，为治理方式的数字化转型提供了有力的支撑，致力于让社会更安全、让交通更便捷、让管理更精细、让服务更精准、让生态更宜居、让运维更高效。<br />　　让社会更安全：海康威视在公共安全事前预防、交通违法管控与安全隐患治理、自然灾害与高危行业安全生产等业务领域，提供覆盖全域感知、智能研判、精准预警、协同处置的全流程解决方案。公司构建从违法管控到事故预防的交通安全管理闭环，强化高危行业风险监测与应急指挥调度能力，全面赋能复杂场景下的智能化防控，为更高水平的平安中国建设提供坚实技术支撑。<br />　　让交通更便捷：海康威视面向城市交通拥堵治理、路网运行保障及综合枢纽出行等场景，构建融合物联感知技术的行业解决方案。通过雷视融合感知构建数字路口底座，实现态势分析、信号优化与效果评价闭环，提供智能信号控制与配时优化服务，提升城市通行效率；同时，基于多维感知与事件智能协同，精准监测路网运行风险与交通事件，保障交通的安全和高效运行，为公众提供更加便捷、舒心的出行体验。<br />　　让管理更精细：海康威视面向城市生命线运行监测、市容环卫监管及城市综合管理等业务领域，提供“感知-预警-决策-处置”一体化解决方案。以风险评估、监测预警、数字孪生及决策指挥等系统构筑风险防控体系，覆盖排水内涝、燃气泄漏及桥梁结构安全监测等场景；依托智慧环卫平台实现垃圾收运管控与作业规范化监管；通过智慧城管平台支持70余类违规事件智能识别与主动预判，提升问题发现与处置效率，助力政府数智化治理能力不断迈上新台阶。<br />　　让服务更精准：海康威视融合智慧养老、市场监督及城市停车运营平台，面向民政养老、食品安全、电梯安全及智慧停车等领域提供精准解决方案。通过智慧看护与健康监测系统，实现跌倒预警报警与健康管理等服务，提升养老服务智慧化水平；依托后厨巡检与电梯监测设备，智能识别餐饮违规与电梯故障，全力保障民众安全；基于物联感知与运营管理平台，构建资源调度与公众引导全流程闭环，优化车位周转效率与车主体验，为全社会提供高效、便捷的精准服务。<br />　　让生态更宜居：海康威视基于多维感知、大模型智能分析与数字孪生技术，面向水利、生态环境及自然资源保护等领域，提供一体化监测预警解决方案。通过优化全系列感知产品，夯实“天空地水工”监测网络，深化河湖“四乱”识别与防洪“四预”应用，赋能智慧水利发展；融合热成像与光谱传感技术，实现大气、水、固废及污染源全要素监管，助力生态环境数字化转型；构建立体化感知网，覆盖森林防火、生物多样性及耕地保护等场景，以科技力量看护山水林田湖草沙，守卫绿水青山，建设美丽中国。<br />　　让运维更高效：海康威视面向基础设施安全监测、工业设备智能运维及作业安全管理等领域，构建“感知-诊断-预警-处置”一体化运维体系。依托移动巡检与视觉监测设备，精准识别道路、桥梁的安全隐患，提升安全监测效率；深度融合视频AI、光纤听诊及声振温分析，实现皮带机跑偏、托辊异响、电机异常等全时段智能预警；通过视频AI与空间联动技术，推动机车检修与港口安全管理从“人盯人”向“全场监管”转型升级，全面提升隐患发现效率与设备运行可靠性，为各类基础设施与工业场景提供高效、智能的运维保障。<br />　　随着数字中国建设进入深化应用的关键阶段，大模型应用正加速从数字世界迈向物理世界，智能物联赋能千行百业，推动数智治理实现范式重塑。在这一进程中，政府治理需求已从狭义的公共安全延伸至市政、交通、资源、生产等全域场景，单一行业应用边界正被日益打破，基于全场景、全天候感知的融合赋能需求愈发迫切。海康威视将紧抓“人工智能+”战略发展机遇，持续深耕物联感知与大模型技术融合创新，以全场景感知与深度认知能力，助力数智治理从场景智能迈向行业智慧，为社会高质量发展注入科技动能。<br />　　为了更好地服务用户，海康威视坚持以用户价值为中心，构建全价值链生态体系。公司携手科研院所、产品厂商、算法模型厂商、独立软件开发商、系统集成商及分销商等智能物联领域合作伙伴，共同研讨用户核心诉求，通过开放感知、智能、赋能等各平台基础能力，在技术、产品、方案、服务等各维度实现深度合作，与伙伴一道互促共进，为公共服务领域行业用户提供更优质的解决方案。<br />　　3.1.3中小企业事业群（SMBG）：以海康数字化工具赋能客户服务用户<br />　　随着数字化技术的不断发展，海康威视持续推进营销、销售、服务的数字化转型，通过营销服全流程数字化工具，帮助经销商与安装商等客户伙伴提质增效，推动产业健康可持续发展。<br />　　2025年，通过经销商降库存和海康威视区域仓的建设，经销商库存大幅度下降，周转效率得到有效提升；通过营销服数字化工具的优化推广，实现数百万客户注册，平台月活数同比上年提升近四倍，有效提升运营效率。海康威视将持续携手各类生态伙伴，努力为中小企业用户提供轻量化、易使用、易维护、量身打造的解决方案和服务。<br />　　1)能力建设：丰富完善数字化工具，建设区域仓体系<br />　　海康云商：定位为安防产业的营销服数字化赋能平台，主要服务经销商和安装商等客户伙伴，支持APP、PC、小程序等多种应用形式，帮助伙伴在营销、售前、交易、交付、维护等各个环节实现提效。2025年持续丰富和优化平台功能：<br />　　-AI智能营销：结合海康产品亮点，实现营销脚本自动生成。<br />　　-AI云勘点：客户只需上传现场图纸，系统即可自动进行场景建模，帮助客户快速配单、布线，逼真呈现仿真效果。<br />　　-经销商私域商城：通过小程将经销商所售产品做在线营销和销售，促进营销和交易的效率提升。-功能优化：完善产品信息查询、场景化智能产品选型配单、产品快捷调试和批量调试、项目管理等工具。<br />　　目前海康云商累计注册用户已达数百万，平台月活数同比上年提升396%。未来，公司将对海康云商功能做持续完善，不优化平台使体验。<br />　　区域仓体系建设：为深化国内中小企业业务的精细化运营，提升资源整合效率，强化供应链能力，公司2025年完成了区域仓体系建设。这一体系依托于一体化数字供应链机制，涵盖智能选型、精准预测、动态备库、高效履约、智能防呆等核心功能，推动渠道合作模式向生态协同式转型。<br />　　通过数据驱动的供需协同和敏捷响应体系，公司系统性提升了经销商三大核心能力：<br />　　-库存管理：实现精益化控制，有效降低仓储成本与滞销风险。<br />　　-订单履约：依托智能调度与区域仓网络，确保高效响应，24小时发货率稳定达到95%以上。<br />　　-资金运营：通过供应链协同优化，显著提升周转效率。<br />　　项目落地后，经销商库存结构持续优化，履约效率稳步攀升。公司以杭州、武汉、重庆三大生产基地为枢纽，构建了端到端业务协同生态，全面赋能经销商实现能力跃升与价值共创。<br />　　海康互联：定位为智能物联管理云平台，服务中小企业用户。平台集成视频、门禁、报警、考勤、访客、广播、网络管理、智慧消防、信息发布等通用物联能力，并联合生态合作伙伴，为住宅、小微工厂、小微园区、种植养殖场等中小企业用户提供场景化解决方案。<br />　　平台全面融入AI大模型技术，提供智能场景算法、智能提醒等创新服务，助力中小企业实现数字化和智能化转型，推动智能普惠。目前，海康互联平台已累计上线数千万台设备，服务覆盖数百万中小企业用户。<br />　　2)业务方向：升级渠道模式，推动行业数字化转型<br />　　线上线下双管齐下，深化精准营销：线下营销活动中，公司2025年协同经销商开展“我是高手”和“区县营销分包”两大活动，开展产品推广，未来公司仍将借助各类活动持续吸引安装商注册海康云商平台。线上精准营销方面，公司将依托海康云商私域商城，对已注册安装商进行精准触达，持续促进交易转化。<br />　　海康云商赋能客户数字化转型：公司将从售前、售中、售后全流程入手，持续优智能配单工具、AI云勘点工具、产品资料、服务广场、设备配置调试等板块，不断完善平台功能，打造强健的营销服数字化赋能平台。<br />　　海康互联助力中小企业管理：公司将持续完善海康互平台，融合多终端能力，拓展轻智能算法，联合生态伙伴打造小垂直场景解决方案。公司将针对中小企业对轻量化和易用性的需求，不断完善标准化、小而美的解决方案服务。<br />　　展望未来，海康威视将继续秉承合作共赢理念，与广大合作伙伴紧密携手，全面拥抱AI技术，完善数字化工具体系，深化精准营销，创新业务模式，全方位助力中小企业数字化转型，推动万物可知可感，互通互联。<br />　　3.2国际主业：全球化布局开枝散叶，在异域土壤中扎根结果、绵延共生<br />　　过去二十多年，海康威视精准把握数字化、高清化、网络化、智能化跃迁的每一次技术变革，将技术势能转化为全球化发展的核心动能。伴随全球数字化浪潮，公司国际化业务稳步推进，实现了从市场机会捕捉提到核心价值创造的跨越式发展。<br />　　回顾海外业务的发展历程，公司经历了“国际贸易—国际营销—本地化经营”三个战略阶段，完成了从“撒种”、“播种”到“扎根”、“成林”的蜕变。战略重心亦从单一的安防产品销售，全面转向“智能物联产品+行业解决方案”的价值营销。目前，公司业务已覆盖全球180多个国家和地区，构建了多元化、立体化的渠道网络，携手60余万家合作伙伴，为海外客户和用户提供专业、本地化的服务。<br />　　展望未来，我们将秉持长期主义，坚定不移推进全球化与合规经营。持续深化“一国一品一策”的营销战略，深耕存量市场，扩大增量市场，通过精益运营提升经营效能，实现高质量增长。<br />　　3.2.1持续构建坚实完备的国际业务AIoT产品、技术、方案体系<br />　　海康威视在持续巩固视频类主营业务的基础上，在海外市场积极拓展第二增长曲线，以人工智能技术、多维感知技术及图像技术为核心，不断完善符合海外需求的AIoT产品家族。凭借显著的经销渠道与品牌影响力优势，公司不断开拓项目市场，丰富行业解决方案，并通过渠道类与项目类市场的协同发展，为海外业务的长远发展奠定坚实基础。<br />　　1）具备海外市场特色的AIoT技术与产品矩阵，不断拓展第二增长曲线<br />　　全天候、全环境的图像技术：基于新一代AI-ISP技术，公司不断推出全新产品。例如，ColorVu3.0,DarkerFighter2.0等前端产品，可在超低照度环境下提供极致清晰、细节丰富的彩色图像。在环境适应性方面，公司提供具备高分子防腐蚀、无电无网支持、耐高低温、自清洁、抗震防抖、微距及超远摄等多种特性与功能的相机产品，以适应各类工作环境，确保在复杂恶劣环境条件下仍能实现稳定、清晰的成像效果。<br />　　更精准的人工智能应用：基于海康观澜大模型，公司持续推出面向海外市场的大模型系列产品。例如，DeepinViewX相机及DeepinMind后端产品通过嵌入视觉大模型技术，在周界防范等场景中显著提高了人、车等目标的检出率和检准率，大幅降低误报率。AcuSeekNVR产品基于多模态大模型，支持用户通过自然语言检索，极大提升了视频检索效率和操作便利性。交通大模型系列产品，包括卡口相机、道路事件检测相机和ANPR相机，在道路交通违章与安全事件检测等场景大幅减少误报，有力提升道路行车安全。此外，热成像、安检等产品也陆续融入大模型技术，给客户带来更卓越的产品体验。<br />　　丰富的感知技术能力：以可见光感知的视频产品为基础，海康威视持续深化多维感知技术的研发和应用。公司提供包括雷达、热成像、光纤传感、X光等在内的多元化感知产品，在实际场景应用中持续发挥价值。例如，雷达产品可对筒仓、堆料等目标实现精准体积测量；测温光纤产品能够对配电柜、输油管道等设施进行全天候精准温度监测；振动光纤产品可精准定位周界或管道的异常振动；气云成像与气体检测产品支持对远距离易燃、易爆、有毒等气体的泄漏检测；安检产品（涵盖人员与物品检测）可在矿业、园区、轨道交通等安全等级高的场景中实现违禁物品的精确检测。通过有效融合多种感知技术，公司不断提升AIoT场景数字化能力，助力企业客户的数字化转型，降低人员与安全风险，并大幅提升生产效率。<br />　　针对中小企业对产品和系统轻量化、易用性的需求，海康威视整合CCTV、门禁、对讲、ANPR、报警、音频、网络通信等多终端能力，依托Hik-PartnerPro（HPP）、Hik-Connect（HC）云平台统一管理，为SMB客户提供便捷、高效、高性价比的一站式解决方案。<br />　　近年来，视频业务通过巩固渠道基础、优化产品结构，保持稳健的高质量增长；非视频业务在有效复用渠道的同时，积极开拓新渠道，市场份额持续扩大，门禁对讲、数据通信、显示等多条非视频产品线共同构建了海外业务的第二增长曲线。通过构建“感知-认知-控制执行”的全链路闭环，公司实现了从视频监控到全方位安全管理的升级，持续连接并服务SMB客户，全方位助力中小企业完成数字化转型。<br />　　2）海外项目市场"3S"方案体系不断深化，构建智能平台，驱动行业数字化落地<br />　　公司依托自研软硬件产品，在海外全面深化“3S”方案体系，涵盖行业顶层方案SolutionbyIndustry、场景解决方案SolutionbyScenario和功能解决方案SolutionbyFunction三大层级。通过三大层级的有机协同，公司实现了从业务规划到技术落地的全链路覆盖，显著提升了解决方案的质量与项目交付效率，精准把握市场机遇，保障重点项目的成功落地。<br />　　公司构建了以HikCentral管理平台为核心的软硬件协同架构，为"3S"方案体系提供灵活支撑。<br />　　-AI进化：2025年，平台核心能力实现突破。通过引入多模态大模型技术，系统实现从传统规则匹配到语义理解的跨越，能够解析自然语言指令并自动关联多维传感数据。这种语义级感知融合技术将视频物联数据转化为高价值业务资产，为构建具备认知能力的智能中枢奠定坚实基础。<br />　　-兼容与融合：平台全面支持可见光、热成像、雷达等多维感知AIoT产品，兼容主流通用协议。通过统一的设备接入层，实现异构数据的标准化融合与高效复用。<br />　　-弹性架构：应用层采用“基础组件+插件（Add-on）”的模块化设计。针对中小型项目，凭借轻量化架构实现快速部署；针对大型复杂项目，支持分布式集群、高并发处理和多级管理扩展，满足各类组织的差异化需求。<br />　　公司紧密结合全球不同区域市场的需求状况与法规政策，有针对性地实施精准高效的本地化策略，不断提升解决方案竞争力，步步为营耕耘项目市场。<br />　　-亚太地区：依托地缘优势，深耕政企客户。在政府端，已成功交付多个城市级运行管理中心项目，有效解决跨部门、跨层级的复杂治理难题；在企业端，推动数字化应用从园区管理向生产运营环节纵深拓展。<br />　　-中东地区：聚焦城市综合治理与大型基建项目，提供涵盖从顶层设计到交付实施的全栈服务，确保大型项目高质量落地。<br />　　-美洲地区：应对复杂的合规与市场竞争环境，深化本地合作伙伴生态，深耕基建与公共安全领域，实现业务的稳健增长。<br />　　-欧洲地区：直面严格的隐私合规挑战，通过细化权限管理与数据脱敏机制，确保解决方案完全符合当地法律法规，以技术合规赢得市场信任。<br />　　公司在海外七大核心行业已实现系统化布局与规模化应用，形成可复制的解决方案体系。<br />　　-交通行业：聚焦道路交通与公共运输领域，为城市管理单位提供路网优化与综合治理规划。基于多维感知数据，输出交通流量分析与信号协调策略，助力东南亚、中亚、美洲多个地区显著提升路网通行效率。<br />　　-政府行业：建立城市综合治理标杆项目群，形成良性运作循环。面向市政部门，提供智慧城市治理与一体化应急响应体系，业务范畴持续拓宽至市政管理、边海防管控及大型活动安保等场景。<br />　　-能源行业：顺应全球能源结构转型趋势，为电力、油气、矿业等领域的头部客户，提供覆盖全域的安全生产与资产完整性管理方案，深度嵌入生产作业流程与设备状态监测环节。<br />　　-制造行业：紧随全球产业迁移与中资企业出海步伐，聚焦东盟、东欧等制造业聚集区，围绕“园区智慧管理”与“车间可视化”两大核心方向，实现项目规模化落地。<br />　　-教育行业：面向各地教育局及高校，推行“平安校园+智慧教学”双轨并进的数字化转型。通过互动教学资源共享与全域安全管控等场景应用，推动教学模式创新与校园安全体系升级。<br />　　-零售行业：为连锁集团提供涵盖防损与运营优化的整体解决方案。利用AI技术聚焦收银行为、货架陈列等关键节点，整合多店数据，分析损耗趋势与顾客画像，辅助经营决策，已在欧洲等多个市场成功落地。<br />　　-楼宇行业：聚焦房产开发、商业地产及住宅业务，为头部客户提供绿色节能与智慧运营的整体设计。同时拓展数据中心与场馆新建等机会，联合生态伙伴开发集成联动方案，实现运营成本优化与用户体验提升的双重成效。<br />　　3.2.2深化国际数字化营销服体系建设，打造卓越本地响应与数字链接新优势<br />　　2025年，在公司全面数字化转型战略的指引下，海康威视国际业务以“卓越的本地响应速度”和“强大的数字化链接能力”为核心驱动力，持续推进全球营销服务体系的智能化与精益化升级。我们致力于将数字化能力融入业务价值链，实现对全球客户的敏捷服务和价值共创。<br />　　构建以客户为中心的极速响应网络：通过深化Hik-PartnerPro（HPP）平台应用，将市场推广、销售支持与技术服务职能全面下沉至本地渠道伙伴。该平台围绕渠道伙伴的全业务旅程，依托简捷高效的数字化工具集，显著提升从内容营销、方案设计、智能配单到售后支持等各环节的协同效率。同时，借助智能化手段动态优化海外仓储与物流资源配置，有效应对国际运力波动，保障订单快速精准履约，持续提升客户满意度。<br />　　强化全域数字链接，为精准营销与高效协同注入新动能：依托数字化与AI技术，公司全面优化产品与营销内容的全链路运营能力，显著提升内容本地化效率，缩短市场响应周期，同时确保全球品牌形象的一致性与专业度。<br />　　-线下营销：公司全新打造的HiEvent活动管理平台，涵盖客户邀请、运营执行及线索评估等关键环节，实现活动全流程线上化管理。平台支持多语言智能化精准触达和自动提醒，显著提升了用户参与体验与转化效率。基于系统化的数据归集与可视化看板，实现从报名到复盘的全程数据可追踪，真正实现营销活动的闭环管理与持续优化。以此为基础，持续加强数据治理与深度洞察能力，推动营销策略从“广泛覆盖”向“精准触达”升级转型。<br />　　-在线服务：公司自主开发的AI大模型智能客服机器人将客户问题直接回答率提升至85%，高效释放人力。eLearning学习平台作为全天候数字化教练，为全球客户与合作伙伴提供7x24小时持续赋能。目前，公司已构建覆盖全球的18个呼叫中心及超560家授权维修点组成的服务网络，以行业领先的响应能力持续提升客户满意度。<br />　　坚持高效运营，持续提升体系化运营质量：公司导入业界领先的精益运营模式，将“无形”的市场需求转化为可量化、可驱动的增长指标，并以数字化工具持续优化运营效率。“持续改善”的理念已融入业务全流程，推动客户满意与公司盈利能力同步提升。在合作层面，公司秉持长期主义，不断深化与国际领先物流仓储供应商的协同，保持全球供应网络的效能提升，保持与合作伙伴的紧密合作，与伙伴共同应对国际宏观环境波动，增强供应网络韧性。<br />　　未来，我们将以数字化营销服体系为核心支撑，在关键市场深化推进本地化运营，通过打造“极速响应”与“数字链接”两大核心能力，强化客户服务体验，不仅做技术创新的引领者，更做值得信赖的服务伙伴。<br />　　3.2.3通过开放产品技术与合作资源，深化国际生态布局<br />　　2025年，人工智能与物联网基础设施的深度融合正驱动各行业经历深刻的数字化变革。行业发展范式已从基础信息化建设全面转向与运营技术（OT）的深度协同，商业价值的创造逻辑随之重构：不再依赖零散的数据采集，而更强调对持续产生的业务数据实现深度洞察与智能响应。同时，面对传统标准化解决方案难以满足的用户碎片化、场景化的个性需求，以AI大模型技术为基础构建开放、可灵活组装的智能物联生态体系日益成为市场共识。面对快速变化、高度复杂的业务需求，与生态伙伴建立灵活互补的合作关系成为行业发展趋势，海康威视持续深化全球生态布局，依托开放的技术架构与丰富的资源积累，赋能全球客户的数字化转型。<br />　　海康威视推动设备开放：在设备开放方面，公司实现了从传统安防向泛感知领域的重要跨越。面对全球市场对多元化数据采集的迫切需求，公司2025年进一步通过标准化接口，将海康丰富的硬件能力向行业应用伙伴全面开放。诸如太阳能相机、毫米波雷达及各类工业传感器等非传统安防设备，不再仅仅是封闭的硬件单元，而是转化为具备标准协议接入能力的开放节点，能够被第三方行业软件平台灵活调用与集成。例如在非洲，合作伙伴开发的上层管理系统可直接通过标准接口，实时读取太阳能相机与传感设备的现场图像及环境数据，从而实现远程指挥调度。在全球各地的物流与零售场景中，PDA产品也通过开放能力与企业用户的业务系统实现无缝对接。这一从“设备销售”向“开放设备能力”的转变，极大地降低了行业软件商的集成开发门槛，让原本分散的场景数据得以高效汇聚至各类上层应用，为智能分析提供了坚实且丰富的“数据底座”，使海康的设备成为生态伙伴业务延伸的有力工具。<br />　　海康威视打造平台开放：为应对全球垂直行业多样化、碎片化的应用需求，公司持续强化平台开放能力，推动“HEOP硬件开放平台”与“AI开放平台”双轮驱动战略落地。2025年，HEOP硬件开放平台在海外市场的活跃度持续提升，AI开放平台已成为本地独立软件开发商（ISV）高效开发定制算法的重要支撑。一系列合作伙伴基于海康开放平台打造的功能和算法，在中东地区助力客户完成极端自然环境下的安全事件巡检，在欧洲帮助大型城市做好复杂道路的拥堵治理。公司以平台的开放提供技术与设备简单易用的“被集成”能力，借助广大伙伴的支持为千行百业提供智能底座，让技术创新更贴近场景一线。<br />　　海康威视构建应用开放：基于公有云与私有云的双架构体系，公司构建了高度灵活的视频与物联感知服务平台，推动服务能力协同升级。2025年，HikConnect平台实现视频、门禁对讲、车牌识别等多终端能力的统一封装与开放，为海量云服务商提供便捷易用的设备接入支持，有效助力了传统安防集成商向综合运营管理服务商的转型。“云端赋能+本地服务”的业务模式显著丰富了国际业务的应用生态图谱，推动智能物联技术在更广泛的用户群体中的普惠应用。<br />　　在全球数智转型加速推进的背景下，海康威视坚持‘以数字化能力服务全球生态’的核心战略。我们着力打通服务链路，协同线上线下资源，围绕技术开发、工具支持及培训赋能等关键环节，秉持开放协作的理念与全流程技术和服务保障，携手生态客户共同成长、共创价值。凭借行业领先的智能物联技术与精准的场景化解决方案，我们正助力千行百业的用户实现管理模式的智能化重构与运营效率的全面提升，共同开启高效、智能的未来发展新阶段。<br />　　3.3创新业务：八大业务蓬勃发展，不断绘就新的增长曲线<br />　　海康威视持续积累的技术储备与不断生长的业务触角，为创新性的业务开拓提供了良好的环境。海康威视主业与创新业务既围绕智能物联这一明确的业务方向，又在技术构建、产品打造、业务布局上有所差异，相互支撑相互促进，共同赋能经济社会数字化转型。<br />　　创新业务阵营目前包括海康机器人、萤石网络、海康微影、海康汽车电子、海康存储、海康消防、海康睿影与海康慧影，创新业务的良好发展，为公司长期可持续发展不断注入新动力。<br />　　3.3.1海康机器人<br />　　海康机器人聚焦于工业物联网、智慧物流和智能制造领域，围绕“手、眼、脚”协同的技术架构深化业务布局，全面推动AI与感知、决策、执行系统的深度融合，持续在机器视觉、移动机器人、关节机器人等核心业务方向深耕开拓，帮助用户提质、降本、增效，推动生产制造与物流环节的数字化和智能化转型升级。<br />　　2025年，在机器视觉领域，海康机器人持续完善以VM算法软件平台为核心的视觉生态，推出面向工业质检的大模型应用,完善2.5D、3D视觉产品与工控产品系列，提升在3C电子、PCB、锂电池等关键行业的解决方案能力。在移动机器人方面，基于第五代AMR智能基座平台实现新品的规模化落地应用，STU智能仓储解决方案在工业制造及商业流通场景快速部署，显著提升仓储空间利用率与订单拣选效率；公司发布PlantMirror工业仿真软件，完善了移动机器人工业软件布局；依托丰富的产品矩阵及软硬件融合优势，公司在汽车、新能源、大流通等核心行业的市场领先地位进一步得到巩固。系列化关节机器人在多个行业实现批量应用，公司持续推进在焊接、打磨、拆码垛等工艺场景的业务拓展。<br />　　基于“手、眼、脚”协同的技术架构，三大产品线通过协同创新与应用实践，推动业务从单机自动化向产线级智能解决方案全面升级，为工业领域的智能化转型升级提供有力支撑。<br />　　3.3.2萤石网络<br />　　智能物联感知是公司业务的核心基石，基于前沿的智能视觉与物联网技术，公司致力于为C端用户提供可靠、可信赖的安全守护，保障家庭与社会的安全、提升生活品质，同时将智能视觉物联云能力开放，与行业开发者一起，共同创造更便捷、更安心、更温暖的美好生活。<br />　　2025年，基于萤石蓝海大模型的底层能力及端云协同的技术架构，公司打造和完善了一系列基于AI视觉能力的智能硬件产品和服务。产品创新方面，便携可移动4G电池相机突破智能家居摄像机的增长曲线，AI智能锁再次引领行业产品变革，AI云存储增值服务积极探索云端大模型的商业化落地实践，萤石云PaaS开放平台持续打造全场景适配的AI开放能力体系，并不断完善组件化、场景化的aPaaS开放生态。公司硬件产品及软件服务均获得了市场客用户的良好反馈。2025年，公司聚焦“提质增效、创新驱动”，在全域零售渠道建设、IPMS17管理体系建设、数字化供应链建设、AI赋能公司运营等多方面持续提升经营效能。<br />　　3.3.3海康微影<br />　　海康微影以红外热成像技术为核心基础，深耕高附加值MEMS、光电器件和传感器技术，构建涵盖温度、压力、流量、物位等多维度的感知能力。通过将技术、产品和市场垂直整合，海康微影致力于为数智工业、智慧物联等领域打造全方位感知解决方案，助力企业数字化转型，拓展人类感知边界。<br />　　2025年，海康微影在红外热成像领域持续推进探测器、算法能力与智能化应用等核心技术。在红外探测器方面，公司建立了第二代高性能产品技术平台，并基于该平台发布了12μm第三代640/1280探测器，灵敏度显著提高。AI图像增强技术和Soc系统优化技术在产品端实现广泛应用，新一代自研图像芯片搭载ImagePro4.0自适应增强算法，极大提升全场景全天候的应用效果和视觉体验。此外，基于视频大模型技术和先进的智能策略，公司产品在周界防范、烟火检测等领域的能力持续完善，更好满足了各行业用户的多样化需求。<br />　　在数智工业领域，公司持续深耕雷达物位计、高温计、超声波流量计等核心产品，通过不断优化硬件小信号处理技术与AI算法，产品性能实现了跨越式突破，关键指标已达到业界领先水平。产品在氧化铝、钢铁、发电、石化、半导体等复杂严苛的工业场景中展现出卓越的适应性，成功解决了用户长期以来面临的多个关键技术难题。同时，公司协同工业测温与手持仪器产品线，构建了从外部检测到内部监控的“从外到内”全栈式产品体系，为工业企业的安全生产、提质增效及绿色低碳转型提供了更深度、更全面的解决方案。<br />　　3.3.4海康汽车电子<br />　　海康汽车电子业务以视觉和雷达技术为核心，在乘用车前装领域已经成长为国内智能驾驶传感器领军企业，同时覆盖商用车前后装行业和汽车后市场，并提供专业雷达感知产品与方案，助力智能驾驶普及，促进交通更安全、运输更高效，推动各行业数字化应用。<br />　　2025年，伴随国内智能驾驶辅助渗透率快速提升，公司车载摄像头与毫米波雷达两大智驾传感器业务继续保持高速增长。在此基础上，公司持续加大产品创新投入力度，4D成像雷达、L2级智能驾驶一体机及行泊一体小域控等新产品陆续实现量产定点突破，进一步巩固了公司在智能驾驶传感器与系统领域的领先地位。在商用车市场，紧跟国内“单北斗”政策趋势，扩大各省份营运车辆单北斗改造市场份额，并持续深耕公交、轨道等业务应用，突破海外重点国家客户，不断提升品牌影响力。雷达产品在交通与安防应用领域保持市场优势，在饲料与养殖、粮食仓储、火力发电、港口机械等高端工业细分赛道实现规模化落地与关键突破，有力提升海外高端市场的品牌渗透力与全球化竞争力。<br />　　3.3.5海康存储<br />　　伴随云计算、大数据和人工智能技术的飞速发展，全球数据处理及存储需求持续快速攀升。海康存储紧密围绕高性能、高带宽、大容量的技术演进方向，全面深化存储产品设计、固件算法开发、先进封装测试及智能制造量产交付能力。公司积极强化产业链协作，推动业务在车载应用、人工智能、智慧安防、消费电子等关键应用场景的规模化落地，致力于成为中国领先的存储整体解决方案供应商，实现高质量成长。<br />　　3.3.6海康消防<br />　　海康消防业务涵盖通用消防、工业消防两大版块，是以火灾探测技术、多维感知技术、无线物联技术、AI大模型技术及消防云为核心的智能消防物联网和智慧化管理解决方案提供商，致力于推动消防系统的数字化、智能化转型。公司业务涵盖于城市消防智能物联网、城市消防远程值守、单位消防数字化管理、消防入户管理、工业安全生产（锂电池安全、可燃有毒气体探测）、应急安全管理等，通过构建开放的产业生态和服务生态合作体系，为城市公共服务领域、企事业单位以及中小微用户提供全方位保障，旨在构筑智慧感知、智慧防控、智慧管理、智慧救援四维一体的消防智慧化管理体系。<br />　　2025年，海康消防报警产品线完成了火灾自动报警系统的更新换代，在民生、教育、城市生命线、消防入户建设和改造项目中，加大了消防物联网产品的投入力度，物联网烟感、燃气、远程值守、火焰探测相机总数突破1,000万只；在工业安全生产中，对锂电池生产仓储与转运环节、电化学储能PACK级防护、风机及场站的安全防护、隧道高速移动烟移动火探测等场景取得技术性突破，解决行业难题。<br />　　3.3.7海康睿影<br />　　海康睿影深耕于非可见光探测领域，以智能化技术为引领，依托X光成像技术为核心驱动力，深度融合多维感知、人工智能和设备物联技术，公司致力于技术赋能和价值创造，在智慧安检、工业智造等关键领域，为用户提供以X-Ray探测业务为核心的整体产品解决方案。<br />　　3.3.8海康慧影<br />　　海康慧影以光、机、电、软、算、智六大技术能力为核心，围绕外科手术和腔镜检查两大场景，为全球医疗器械企业客户提供微创内镜、腔道内镜、手术影音三大类别的OEM/ODM解决方案。公司致力于与客户携手共建行业生态，提供包括完善解决方案与注册检验支持在内的全方位服务，并积极参与行业标准制定，共同推动内窥镜行业的快速发展。此外，海康慧影与众多三甲医院用户开展医工协同合作，联合进行产品开发与技术攻关，推动创新技术与临床实践的高效融合与落地应用。<br />　　海康慧影将持续加大研发投入，专注于技术创新，不断拓展新技术与新工艺的探索落地，为行业用户和客户提供更为丰富的产品和解决方案。公司还将持续优化服务、质量与供应链体系，与客户携手共建健康行业生态，以先进技术助力医疗系统实现数字化转型，推动行业实现高质量快速发展。<br />　　二、核心竞争力分析<br />　　海康威视锚定智能物联主赛道，伴随AI大模型技术规模化落地与全社会数字化转型纵深推进，公司持续筑牢全链条核心竞争壁垒。公司始终以技术创新为根，保持高水准的研发投入，依托全球多级研发体系与技术人才优势，以多维融合感知能力与观澜大模型为核心，构筑技术能力的深厚壁垒；深化国内条块协同、海外本土深耕的全域营销服网络，打造全国首批领航级智能工厂，以全流程数字化变革锻造经营韧性；依托适配战略的人才与组织体系，高效响应不断变化的市场需求，持续巩固行业领先优势，赋能千行百业数字化转型升级。<br />　　1、持续夯实智能物联技术根基，加速大模型场景落地<br />　　二十余年来，海康威视始终坚持以技术创新为核心驱动力，持续保持高水平的研发投入。近六年，公司累计投入研发费用594.54亿元，研发费用率持续保持在10%以上，其中2025年单年投入达117.53亿元。除杭州总部以外，公司在国内和海外还布局了多个本地研发中心，形成了以总部为中枢、辐射全球的多级研发体系。公司研发及技术服务人员占总人数近50%，为持续突破技术壁垒提供了坚实的人才底座。<br />　　在技术体系的构建上，海康威视从可见光感知起步，逐步将感知触角延伸至毫米波、红外、激光、X光、紫外、声波等多元维度，并融合振动、温湿度、压力、磁力等感知手段，形成多维融合的智能物联感知能力。公司在AI领域的前瞻布局成效显著，早在2006年便组建智能算法团队，2023年发布“海康威视观澜大模型”，该模型在中国信通院“可信AI大模型能力评测”中斩获业内首个模型开发5级评分。如今，公司已累计推出数百款大模型产品，实现云边端产品全覆盖，建立全栈式系统级综合应用优势，让AI更精准地理解场景动态、自动处理复杂任务，推动安防业务持续升级，并加速场景数字化业务的规模化落地。<br />　　依托上述技术与研发积累，公司持续强化成果落地与专利布局，截至2025年底，全球累计获得授权专利12,981件，其中发明专利占比达57%，构筑起坚实知识产权壁垒。海康威视不断丰富产品矩阵，提供30,000多种硬件产品型号、上百款软件产品，其中不乏行业标杆级创新成果：与国家能源集团联合研发的“融合光谱煤质快速分析仪”，凭借多维感知与AI模型突破，获得国内首台（套）装备认定；创新应用光纤技术打造的“超长距离皮带运输机托辊声纹监测系统”，一举斩获2025中国创新方法大赛全国总决赛唯一金奖，以累累硕果助力行业高质量发展。<br />　　2、国内条块协同，海外本土深耕，数智赋能升级全域营销服务网络<br />　　公司持续完善全域营销服务体系，国内市场深化条块协同的营销布局，依托32个省级业务中心、近300个城市级分公司与办事处，构建以城市为单位的分层分级营销网络。公司通过三大事业群实现全场景客户精准覆盖，事业群与省级业务中心共同构成了行业与区域条块结合、协同一致的国内营销体系，为千行百业提供适配的智能物联产品与服务，助力社会经济数字化转型升级。海外市场持续深耕本土化经营战略，将经营决策权下放至泛亚太、中东非洲、泛欧洲、美洲四大区域，坚持“一国一策、一品一策”精细化运营，业务覆盖全球180多个国家和地区。<br />　　公司搭建杭州全球技术支持与服务中心、区域技术服务部、授权客户服务站三级垂直服务体系，筑牢全球服务底座：国内布局32个省级技术服务部、近300个地市服务网点，联动3,000余家重要合作伙伴及授权服务商；海外已设立18个呼叫中心、30个直营售后服务点、560多个授权客户服务站，推出部分产品“以换代修”服务，优化本地仓网点布局与配送时效，打通本地交付全链路，快速响应全球客户多元需求。<br />　　公司全面深化营销服全流程数字化转型，围绕营销、销售、服务全链路搭建一体化数字化平台，深化AI技术应用与全流程数字运营，推动业务精准触达、客户高效联动。同时持续沉淀数字化能力并开放赋能上下游合作伙伴，助力伙伴提升服务效能，打通从公司到终端用户的全链路价值闭环，持续强化营销服体系核心竞争力。<br />　　3、入选首批领航级智能工厂，引领智能制造产业升级<br />　　智能物联行业市场高度碎片化，公司业务覆盖行业众多，应用场景千变万化，差异化的客户需求传导至生产端，形成了“多品种、小批量、大规模定制”的核心生产特征。面对这一挑战，公司以“柔性、高效、敏捷”为核心目标，依托自研物联感知、AI、大数据技术体系，打造的“物联感知产品大规模个性化定制智能工厂”成功入选全国首批“领航级智能工厂”培育名单，标志着公司智能制造水平已获国家最高层级的权威认可。<br />　　2025年，公司智能工厂年产智能物联产品2.77亿台，覆盖3万余种硬件型号，日均处理订单1万笔，单笔订单平均规模仅约40台，订单定制化配置比例达75%。通过构建具备“智能感官系统、AI决策大脑、灵活执行手脚”的智造“超级智能体”，公司形成“感知-决策-执行”全闭环，持续提升精益生产、自动化与智能排产水平。公司依托杭州桐庐、重庆、武汉国内制造基地及印度、巴西、英国海外本地化工厂，筑牢全球市场稳定供应能力。<br />　　公司始终以自身智造实践为样板，以己为田持续迭代场景数字化产品在生产园区的深度应用，同时将沉淀的成熟智能制造经验与数字化能力向全产业链开放。一方面，公司与供应商构建长期稳定的战略合作关系，将智慧供应链数字化能力赋能产业链伙伴，实现2,000余家供应商的高效数字化协同，筑牢全产业链韧性与稳定性；另一方面，公司走出“技术自研-工厂验证-行业输出”的独特路径，将标准化智能制造解决方案向石化煤炭、钢铁有色、机械装备等多领域输出，为制造业智能化升级提供可复制、可推广的实践样本，助力全行业高质量发展。<br />　　4、以数智变革提质增效，锻造高质量增长内生韧性<br />　　瞬息万变的市场竞争环境中，企业内部资源配置效率、跨组织协同能力与信息流转成本，直接决定了核心竞争力的边界。公司持续迭代适配业务发展的资源组织方式与管理体系，依托BLM战略规划方法论，滚动更新战略规划SP与年度经营计划BP，推动各业务单元与职能部门上下拉通、左右对齐，实现战略目标精准分解、高效落地，全力保障业务有效益增长与管理能力持续性提升。<br />　　以数字化转型为核心抓手，公司系统性推进各领域的管理变革与能力升级。公司统筹全局资源，启动公司级7大变革举措：企业经营分析能力精细化，企业级营销服数字化转型，企业级研发与质量数字化转型，智慧供应链建设，企业级数据治理能力建设，企业级AI能力建设以及支撑领域数字化能力建设，以高质量变革规划驱动落地执行。依托IT系统的持续迭代优化，公司不断疏通流程堵点、提升系统运行效率，构建全链路精细化运营能力。凭借贯穿经营全周期的数智化管理实践，公司打造的“数智质量”质量管理模式荣获第五届中国质量奖，实现浙江省制造业该奖项零的突破，印证了公司全流程数智化管理的行业领先水平。<br />　　在稳健经营的底层逻辑下，公司持续完善全周期风险管理体系，不断强化全球合规治理能力，推动合规风险管理水平持续进阶。2025年，公司同步加强应收账款全流程管理，经营性现金流实现显著增长，为公司可持续高质量发展筑牢了坚实的安全屏障。<br />　　5、深耕人才价值沃土，激活组织高质量发展新动能<br />　　公司始终将人才作为企业长期发展的核心竞争力，坚守“以人为本、共同成长”的核心理念，广纳全球优质人才，构建与业务战略深度同频的人才发展与组织体系。2025年，围绕高质量增长目标，公司完成业务布局与组织架构的适配调整，合理优化管理幅度与层级，推进异地研发资源的集约化整合，打造更加敏捷高效、更具攻坚能力的组织单元，不断完善关键岗位的人才供给与精准匹配机制，为有质量、可持续的增长筑牢组织根基。<br />　　公司以价值创造为核心，持续迭代全周期人才管理与多元激励体系。2025年，公司深化绩效体系变革，优化年终奖金分配机制，将资源向核心价值创造者倾斜；同时强化干部任期管理，健全“能上能下”的动态调整机制，实现人员规模的精益化、科学化管控。在此基础上，公司持续完善薪酬福利与创新业务跟投相结合的综合回报体系，进一步完善员工共享企业成长红利的长效分配机制，让员工通过业绩创造获得长期稳定回报，最终实现业务长远发展与人才持续成长的双向赋能、同频共生。<br />　　三、主营业务分析<br />　　1、概述<br />　　随着数字经济与实体经济深度融合，智能物联已成为千行百业数字化转型、社会治理现代化升级的核心引擎。二十余年来，公司紧抓产业变革机遇，持续构建和完善以物联感知、人工智能、大数据三大技术为核心的技术体系，以安防和场景数字化产品与解决方案赋能产业升级、民生提质，不断夯实智能物联核心竞争力，在高质量发展的道路上稳步前行。<br />　　2025年，面对复杂多变的国内外市场环境，公司坚持稳健经营，持续推进提质增效，实现经营质量与业务结构双优化。报告期内，公司实现营业总收入925.08亿元，同比增长0.01%；归属于上市公司股东的净利润141.95亿元，同比增长18.52%，盈利水平显著提升，经营性现金流净额253.39亿元，实现大幅增长，为长远发展筑牢坚实保障。<br />　　国内业务端，场景数字化业务持续突破打开增长新空间，SMBG渠道运营效率显著提升；海外业务端，发展中国家保持高速增长，重点区域重大项目取得突破，非经销收入占比超过三成，门禁、报警、商业显示等非视频类产品快速增长，形成产品端第二增长曲线；创新业务中，海康机器人、萤石网络、海康微影、海康汽车电子等创新业务稳居细分赛道龙头，成为公司新的增长引擎。<br />　　2025年，公司打造的“数智质量”质量管理模式荣获第五届中国质量奖，公司打造的“物联感知产品大规模个性化定制智能工厂”成功入选工信部首批“领航级智能工厂”培育名单，两大权威荣誉充分印证了公司质量管理与智能制造能力的标杆级提升。公司还将不断推进数智转型变革，全方位驱动公司经营提质、管理提效、发展提级。<br />　　未来，公司将继续锚定智能物联战略定位，努力把握产业升级时代机遇，以坚定的研发投入筑牢技术护城河，依托观澜多模态大模型能力，持续优化多维感知技术矩阵，不断拓展智能物联技术应用边界，保持高质量、可持续发展。<br />　　五、公司未来发展的展望<br />　　1、行业发展趋势<br />　　物联感知、人工智能、大数据是智能物联产业的核心技术，也是数字化转型的关键驱动力，智能物联产业的发展将带动千行百业的发展，为全社会带来前所未有的变化。<br />　　公司在智能物联领域有着深厚的技术积累和先发优势，有信心抓住大模型创新带来的产业机遇，和伙伴一起推动各行各业的场景数字化，助力全社会的数字化转型。<br />　　2、公司发展战略<br />　　海康威视致力于将物联感知、人工智能、大数据技术服务于千行百业，引领智能物联新未来：以全面的感知技术，帮助人、物更好地链接，构筑智能世界的基础；以丰富的智能产品，洞察和满足多样化需求，让智能触手可及；以创新的智能物联应用，建设便捷、高效、安心的智能世界，助力人人享有美好未来。<br />　　3、2026年工作重点<br />　　（1）做强做深观澜大模型应用体系，务实推进产品推广与垂类场景落地，打磨产品、解决方案与系统级能力，有序推进场景数字化业务落地。<br />　　（2）深耕基本盘业务，积极拓展增量业务。坚持全球化合规经营，提升海外非视频业务与非经销项目收入占比。<br />　　（3）做大创新业务规模，做强竞争力，在各自领域争取更好的市场地位。<br />　　（4）深化AI数字化转型，全链路推进研发、供应链、营销服务数字化提效，赋能业务经营与公司管理，提高公司运营效率。<br />　　（5）持续优化供应链体系，提升自动化水平，严控全生命周期产品质量。<br />　　（6）聚焦经营质量，优化运营机制和资源配置。探索垂直管理的组织机制创新，缩短决策链条，加快业务迭代，激活组织动能。				<span style="display: inline-block;width: 42px;"></span>
+				<a class="less fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">收起▲</a>
+			</p>
+		</div>
+						<div class="m_tab_content m_tab_content2" style="display:none;">
+			<p class="f14 pr">
+				　　一、主营业务分析<br />　　2025年上半年，全球经济复苏动力不均，海外贸易纠纷与地缘风险交织，外部不确定性依然突出；国内稳经济政策多措并举，经济展现出一定韧性但能见度较低，企业与社会数字化转型升级进程在波动起伏中前进。面对复杂多变的国内外环境，海康威视坚持稳扎稳打，以积极、审慎的态度应对各种不确定性；以利润为经营核心，注重效益提升，持续推进组织变革和精细化管理，努力实现高质量、可持续的增长。<br />　　报告期内，公司实现营业总收入418.18亿元，比上年同期增长1.48%；实现归属于上市公司股东的净利润56.57亿元，比上年同期增长11.71%。<br />　　1、夯实技术底座，强化创新驱动<br />　　海康威视始终...								<span style="display: inline-block;width: 70px;"></span>
+				<a class="more fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">查看全部▼</a>
+							</p>
+			<p class="f14 none clearfix pr">
+				　　一、主营业务分析<br />　　2025年上半年，全球经济复苏动力不均，海外贸易纠纷与地缘风险交织，外部不确定性依然突出；国内稳经济政策多措并举，经济展现出一定韧性但能见度较低，企业与社会数字化转型升级进程在波动起伏中前进。面对复杂多变的国内外环境，海康威视坚持稳扎稳打，以积极、审慎的态度应对各种不确定性；以利润为经营核心，注重效益提升，持续推进组织变革和精细化管理，努力实现高质量、可持续的增长。<br />　　报告期内，公司实现营业总收入418.18亿元，比上年同期增长1.48%；实现归属于上市公司股东的净利润56.57亿元，比上年同期增长11.71%。<br />　　1、夯实技术底座，强化创新驱动<br />　　海康威视始终坚持以技术创新为核心驱动力，保持研发投入力度，不断增强可持续发展能力。公司持续发展多维感知、人工智能与大数据技术；推进数字化产品的创新研发与大模型应用的有效落地，持续推出适应新场景与新需求、功能形态多样的新产品，全面提升产品智能化水平，不断拓展公司智能物联业务的边界。<br />　　2、优化运营体系，增强经营效益<br />　　报告期内，公司持续对业务组织做因地制宜的调整变革，持续深化流程变革，优化组织架构协同机制，确保业务高效运行；公司强化费用管控，提升费用开支与业务绩效的关联度，有效增强公司经营效益。公司坚持做有效益的增长，对业务质量做严格把关，不断加强对运营资产的管理，同时持续完善风险控制机制，夯实合规经营的制度基础，为公司稳健发展提供坚实保障。<br />　　3、耕耘主营业务，提升核心能力<br />　　报告期内，公司积极把握AI大模型技术突破带来的发展机遇，驱动业务势能的持续释放；持续拓展场景数字化业务，为国内主业开辟出新的增长空间。同时，公司坚持国际化发展战略，继续加大海外市场营销的投入，进一步提升海外收入占比。海康威视基于对智能物联产业的深刻理解，持续拓展物联感知边界，推动多模态大模型技术落地实践，以大数据与软件能力构建应用闭环，助力全社会的数字化转型。<br />　　4、拓展多元格局，注入发展动能<br />　　报告期内，创新业务整体收入117.66亿元，同比增长13.92%，占公司营收比重达到28.14%。创新业务整体占比持续提升，海康机器人、萤石网络、海康汽车电子、海康微影等主要业务均已在各自领域取得领先地位，成为公司业务增长的有力保障。公司主业与创新业务协同并进，共同编织智能物联生态网络，业务布局有统有分，为公司长期可持续发展提供坚实支撑。<br /><br />　　二、公司面临的风险和应对措施<br />　　报告期内，公司一直努力识别各类风险，积极采取应对措施，规避和降低风险：<br />　　1）国内经济转型风险：国内财政投入、房地产投资等相关市场持续调整，全社会对经济良好发展的预期有待提升，部分海外国家推行贸易保护政策，对国内企业出口能力形成挑战，经济仍处于转型升级的过程中。公司以智能物联技术和产品赋能经济、社会数字化转型，推动生产力新发展，同时灵活调整市场策略以应对贸易保护政策限制，并持续拓展多元化市场以降低对单一市场的依赖，积极应对经济结构转型带来的长期挑战。<br />　　2)全球经济下行风险：个别国家贸易保护政策加码，部分重要经济体增速减缓，全球各地区发展不均，宏观经济环境波动不断。公司以广泛的业务布局分散单一区域的经营风险，根据各国各地实际状况开展业务。<br />　　3)地缘政治环境风险：全球政治体系向多级化格局发展，稳定性与可预见性不断降低，局部热战持续难解。近年来，公司持续加强风险管控，提升应对能力，根据业务环境调整资源布局。<br />　　4)技术更新换代风险：人工智能、大数据、物联网、云计算等技术迅猛发展，科技应用快速迭代。公司在物联感知、人工智能、大数据等技术领域具备一定实力，并借助广泛的商业实践保持技术迭代，密切追踪前沿技术的更新变化，保持技术体系的创新拓展。<br />　　5)内部管理风险：公司经营规模持续扩大，新产品和新业务不断拓展，内部的管理复杂度上升，对管理能力带来新的挑战。公司通过制度化、流程化方式沉淀管理经验，注重人才梯队培养与建设。<br />　　6)客户支付能力下降导致的资金风险：商业交易的资金流动受经济环境波动的影响，公司的资金周转与价值链上下游伙伴的经营状况密切相关。公司回款机制健全，经营勤勉稳健，积累了一定的现金储备，融资成本较低，同时优化资金管理，提升资金使用效率，以保障资金链稳定。<br />　　7)法律合规风险：世界多边贸易机制受政治冲击较大，商业活动需要遵守的各地法律法规复杂，世界各国对数据的监管趋严，对公司的法律合规能力提出更高要求。公司持续完善法律合规管理体系，强化全球合规治理能力，密切关注各国法律法规变化，加强内部培训与风险管理，确保业务活动合法合规，以应对复杂多变的法律环境。<br />　　8)供应链风险：世界部分国家将供应链作为国际竞争的重要手段，全球供应体系近年来不断遭受地缘政治冲击，若发生供应链大范围中断，将影响公司业务稳定性。公司努力培育多元化供应网络，合理调控库存，加强供应链的弹性和韧性，同时通过本地化生产布局和数字化管理提升应对突发中断的能力。<br />　　9)网络安全风险：计算机病毒、恶意软件、黑客攻击等情况仍可能发生，损害公司的系统或者产品，形成网络安全隐患。公司持续加强网络安全能力建设，完善安全防护体系，积极采取先进技术手段提升产品和系统安全性，确保网络环境稳定可靠。<br />　　10)汇率波动风险：公司在海外市场多个国家和地区开展经营，主要以外币结算，销售、采购以及融资产生的外币敞口客观存在，汇率波动将影响公司的财务表现。公司合理利用金融工具对冲风险，同时优化外币资金管理，降低汇率波动对公司财务表现的影响。<br />　　11)知识产权风险：公司持续保持较大规模的研发投入，产出大量技术成果，实施了比较完善的知识产权保护措施，但产生知识产权纠纷的风险和遭受知识产权侵害的风险仍然存在。<br />　　上述提示未包括公司可能发生但未列示的其他风险，请投资者谨慎投资。				<span style="display: inline-block;width: 42px;"></span>
+				<a class="less fr" href="javascript:void(0)" style="position:absolute;right:0;bottom:0;">收起▲</a>
+			</p>
+		</div>
+					</div>
+	<div class="ft"></div>
+</div>
+
+<!-- 产品价格 -->
+	
+
+</div>
+		<!-- F10 Content End -->
+<!-- F10 Footer Start -->
+		<div class="footer">
+		<div class="links">
+		    <a href="http://stockpage.10jqka.com.cn" target="_blank" onclick="clickTalogStat('jptostock');">同花顺个股页面</a> |
+		    <a href="http://moni.10jqka.com.cn/" target="_blank">模拟炒股</a> |
+		    <a href="http://www.10jqka.com.cn/school/" target="_blank">股民学校</a> |
+		    <a href="http://mobile.10jqka.com.cn/?req=pcf10" target="_blank">手机炒股</a>|
+		    <a target="_blank" href=" http://wpa.qq.com/msgrd?v=3&amp;uin=2270716061&amp;site=qq&amp;menu=yes">联系我们</a>
+		</div>
+		<p>免责声明:本信息由同花顺金融研究中心提供，仅供参考，同花顺金融研究中心力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，同花顺金融研究中心不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险。同花顺对此不作任何类型的担保。同花顺不担保服务一定能满足用户的要求，也不担保服务不会受中断，对服务的及时性，安全性，出错发生都不作担保。同花顺对在同花顺上得到的任何信息服务或交易进程不作担保。同花顺提供的包括同花顺理财的所有文章，数据，不构成任何的投资建议，用户查看或依据这些内容所进行的任何行为造成的风险和结果都自行负责，与同花顺无关。 </p>
+		</div>
+<!-- F10 Footer End -->
+    </div>
+    <div class="r-go-top" id="r-go-top"></div>
+</body>
+<input id="stockCode" type="hidden" value="002415">
+<input id="F001" type="hidden" value="A">
+<input id="F002" type="hidden" value="深圳证券交易所">
+<input id="F004" type="hidden" value="1">
+<input id="stockName" type="hidden" value="海康威视">
+<input id="marketId" type="hidden" value="33">
+<input id="cateName"  type="hidden" value="经营分析">
+<input id="catecode"  type="hidden" value="operate">
+<input id="fcatecode"  type="hidden" value="operate">
+<input id="sid" type="hidden" value="F10new_jyfx">
+<input id="fid" type="hidden" value="F10,F10master,F10main,F10new">
+<input id="qid" type="hidden" value="14585179">
+<div style="display:none" id="wordraddom">
+</div>
+<!-- title 容器 -->
+	<div class="titleBox" id="altlayer" style="display:none; width: 260px;">
+		<div class="tipbox_bd p0_5"><span style="line-height:24px;" class="tip f14">
+		<span id="altlayer_content"></span>
+		</div>
+	</div>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/common/cefapi/1.5.5/cefApi.min.js;js/basic/stock/newPcJs/common.js"></script>
+<script>
+try {
+    external.createObject('Util');
+    //document.getElementById("updownchange").style.display = "block";
+} catch (e) {}
+</script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/jquery-1.8.3.min.js;js/basic/common/inheritance.js;js/basic/stock/popWin.js;js/basic/common/Model_v2.js;js/basic/stock/20200604153837/index.js;js/basic/stock/20200604153837/po_v2.js;js/basic/stock/scrollBind.js"></script>
+<script type="text/javascript" crossorigin charset="utf-8" src="//s.thsi.cn/js/basic/stockph_v2/stock/common_v3-2-a58b25.js"></script>
+<!--[if IE ]><script type="text/javascript"  crossorigin src="//s.thsi.cn/js/excanvas.min.js"></script><![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">DD_belatedPNG.fix('.company_logo,.btn-gnjx-left, .btn-gnjx-right, .concept_hot_icons,.iwc_searchbar,.iwc_searchbar .tips-icon,#autocomplete_search_input dd .icona,#autocomplete_search_input dd .iconb');</script>
+<![endif]-->
+<script type="text/javascript" crossorigin src="//s.thsi.cn/js/basic/jquery.pos-fixed.js"></script>
+<script type="text/javascript" crossorigin src="//s.thsi.cn/cb?js/ta.min.js;js/pa.min.js;js/basic/stock/StatLoad.js;js/basic/stock/20200605135220/xgcl_mod.js"></script>
+<script type="text/javascript" crossorigin src="//s.thsi.cn/js/basic/stock/tongji.min.js"></script>
+<!-- 统计 -->
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/home/ths_core.min.js;js/home/ths_quote.min.js;js/home/tongji.min.js" charset="utf-8"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/commonLog_v3.js" charset="utf-8"></script>
+<!--F10运营位脚本-->
+<script type="text/javascript" crossorigin charset="utf-8" src="//s.thsi.cn/js/basic/stockph_v2/stock/append-960857.js"></script>
+<script type="text/javascript" crossorigin charset="utf-8" src="//s.thsi.cn/js/basic/stockph_v2/stock/f10widget_v3-5ec039.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?/js/navigation/jquery.bgiframe.min.js;/js/navigation/jquery.ui.position.min.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/basic/stock/json2.js"></script>
+<script type="text/javascript" charset="utf-8" src="//s.thsi.cn/js/basic/stockph_v2/stock/search_v3-fec53c.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/basic/stock/jquery.flot3.min.js;js/basic/stock/jquery.flot.time.min.js;js/basic/stock/jquery.flot.tooltip.min.js;js/basic/stock/tableSorter_v3.js;js/basic/stock/pagescroll.js;js/basic/stock/operatetablepage.20150910.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/operate-5537c0.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/website/datacenter/rzrq/thscharts.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/providerchart-c86241.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/userevaluate.20140318.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/cb?js/basic/stock/tableSorter_v3-2.20160725.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/xgcl-8719c5.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/jquery.flotcp.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/jquery.flot.tooltipcp.20151209.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/operatecp-2c0e89.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/opevaluate.js"></script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/20200604153837/click.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/cd/website-thsc-f10-utils/1.6.4/swiper.min.js"></script>
+<link href="//s.thsi.cn/cd/website-thsc-f10-utils/1.6.4/swiper.min.css" rel="stylesheet" type="text/css">
+<script>
+	if ($(".i_sideBar .i_list li").length>0) {
+		sendTalog('f10_stock_fdckf_operate_count#f10_stock_fdckf_total_count');
+	}
+</script>
+<script>
+//---------------自定义title弹窗 start----------
+var tempalt='';//临时存储title
+document.body.onmousemove = function(event) {
+	if(altlayer.style.display==''){
+		$("#altlayer").css({
+			left: event.pageX,
+			top: event.pageY+10
+		});
+	}
+};
+document.body.onmouseover = function(event) {
+	if (event.srcElement.className !== 'titleIcon') {
+		return false;
+	}
+	if(event.srcElement.title && (event.srcElement.title!='' || (event.srcElement.title=='' && tempalt!=''))){
+		$("#altlayer").css({
+			left: event.pageX,
+			top: event.pageY+20,
+			display: ''
+		});
+		$("#altlayer_content").html(event.srcElement.title)
+		tempalt = event.srcElement.title;
+		event.srcElement.title='';
+	}
+};
+document.body.onmouseout = function(event) {
+	if (tempalt != '') {
+		event.srcElement.title = tempalt;	
+	}
+	tempalt = '';
+	$("#altlayer").hide();
+};
+//---------------自定义title弹窗 end----------
+//F10客户端结点设置
+function setClientCacheData() {
+    try { //判断是否在客户端，存入结点
+        external.createObject('Util');
+        window.API.use({
+            method: 'Util.getHxVer',
+            success: function(data) {
+                var hexinVer = getVersionStr(data);
+                var pathname = window.location.pathname
+                pathname = pathname.replace(/\/\d{2,3}\//, '/%4/');
+                pathname = pathname.replace(/\/[\d|A]\d{5}\//, '/%6/');
+                //dalert(hexinVer);//上线注意，测试版版本86080  正式版 86090 请注意
+                if (hexinVer >= 86080) {
+                    window.API.use({
+                        method: 'Info.cacheInfoData',
+                        data: ['f10_client_node', 'http://basic.10jqka.com.cn' + pathname],
+                        success: function() {
+                        }
+                    })
+                } else {
+                    window.API.use({
+                        method: 'Info.cacheInfoData',
+                        data: ['', 'http://basic.10jqka.com.cn/' + pathname],
+                        success: function() {
+                        }
+                    })
+                }
+            }
+        })
+        document.getElementById("updownchange").style.display = "block";
+    } catch (e) {
+        //远航版隐藏header
+        $("#quotedata").empty()
+        $("#updownchange").empty()
+    }
+	try {
+		callNativeHandler('getMacVer', {}, function(data){
+			if (data.plaform == 'mac' && data.version>='1.3.0' ) {
+				var pathname = window.location.pathname
+                pathname = pathname.replace(/\/\d{2,3}\//, '/%4/');
+                pathname = pathname.replace(/\/[\d|A]\d{5}\//, '/%6/');
+				callNativeHandler('cache_info_Data', {
+					'f10_client_node': 'http://basic.10jqka.com.cn' + pathname
+				}, function(data){
+				});
+			}
+		});
+	} catch (e) {
+    }
+}
+setClientCacheData();
+</script>
+<script type="text/javascript"  crossorigin src="//s.thsi.cn/js/basic/stock/20200604153837/stockpage_v3.20190506.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin id="ths-parser-script" app_key="f10_astockpc_config" src="//s.thsi.cn/cd/website-thsc-f10-utils/1.4.39/parser.js"></script>
+<script type="text/javascript">
+var sid = 'F10new_jyfx';
+var fid = 'F10,F10master,F10main,F10new';
+var stockcode = '002415';
+if (window.location.href.indexOf('interactive')<0
+		&&window.location.href.indexOf('dupont')<0) {
+    $(".subnav .skipto").each(function(){
+    	sonnav = $(this).attr('nav');
+    	if ($("#"+sonnav).length>0 || $("[idchange='"+sonnav+"']").length>0) {
+    	} else {
+    		$(this).hide();
+    	}
+    })
+}
+if (stockcode.substr(0,2) == '43' || stockcode.substr(0,2) == '83') {
+	var third_sid = sid+'_thirdboard';
+	var third_fid = fid+'_thirdboard';
+    PA.setStartTime(loadTimer);
+	PA.init({'id':third_sid, 'fid':third_fid, 'stockcode':stockcode});
+}
+$(document).ready(function(){
+var hash = window.location.hash.substring(1);
+var hashArray = hash.split('-');
+if(hashArray[0]  == 'position'){
+	$("#sortNav li").eq(hashArray[1]).find("a").click();
+}
+});
+try {
+    external.createObject('Util');
+    window.API.use({
+        method: 'Passport.get',
+        data: ['m_qs'],
+        success: function(data) {
+            var qsid = data
+            if (qsid == '114') {
+                $("#f10_top_ad").hide();
+                $("#r-go-top").hide();
+            }
+        }
+    })
+} catch (e) {}
+if (!isIE6()) {
+    $(".m_box").statload();
+}
+try {
+    external.createObject('Util');
+    window.API.use({
+        method: 'Passport.get',
+        data: 'm_qs',
+        success: function(data) {
+            var qsid = data
+            if (qsid < 800) {
+                fid += ',f10new_qs';
+            } else {
+                fid += ',f10new_fqs';
+            }
+            PA.setStartTime(loadTimer);
+            setTimeout(function(){
+                PA.init({
+                    'id': sid,
+                    'fid': fid,
+                    'stockcode': stockcode,
+                    'qsid': qsid
+                });
+            },100)
+        }
+    })
+} catch (e) {
+    PA.setStartTime(loadTimer);
+    PA.init({
+        'id': sid,
+        'fid': fid,
+        'stockcode': stockcode
+    });
+}
+try {
+    external.createObject('Util');
+    var externalSessionId = window.API.createSessionId('external');
+    window.API.use({
+        method: 'external.registerEvent',
+        data: 'onshow',
+        sessionId: externalSessionId,
+        persistent: true,
+        callbackName: 'onshow',
+        success: function(data) {
+            if (!data) {
+                 PA.setStartTime(loadTimer);
+                 PA.init({
+                    'id': sid,
+                    'fid': fid,
+                    'stockcode': stockcode,
+                    'hide': 1,
+                    'nj': 1,
+                    _sid: "__ths_onshow"
+                });
+            }
+        }
+    })
+} catch (e) {}
+</script>
+<div style="display:none"><script type="text/javascript">
+// 在客户端内，html做个区分，解决端内的一些特性
+if ((window.external && 'createObject' in window.external) || (window.HevoCef && "IsHevoCef" in window.HevoCef)) {
+	$('html').addClass("inClient");
+}
+(function(){
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F78c58f01938e4d85eaf619eae71b4ed1' type='text/javascript'%3E%3C/script%3E"));
+});
+</script>
+
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/f10hq_v4-5-576b58.js"></script>
+<script type="text/javascript" charset="utf-8" crossorigin src="//s.thsi.cn/js/basic/stockph_v2/stock/onlyBAuthorize-4a6ce9.js"></script>
+</div>
+<!--F10头部广告-->
+
+<!--<div id="f10_top_ad" class="f10_ad_top none"><script type="text/javascript">CNZZ_SLOT_RENDER('297563');</script></div>-->
+</html>
+	

@@ -1,0 +1,636 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!--[if IE 6]><html class="ie6" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 7]><html class="lt-ie8 lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" xmlns="http://www.w3.org/1999/xhtml"><![endif]-->
+<!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1" />
+  <meta name="referrer" content="origin" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Hikvision SDN sanctions 2024 Reuters Treasury at DuckDuckGo</title>
+  <link title="DuckDuckGo (HTML)" type="application/opensearchdescription+xml" rel="search" href="//duckduckgo.com/opensearch_html_v2.xml" />
+  <link href="//duckduckgo.com/favicon.ico" rel="shortcut icon" />
+  <link rel="icon" href="//duckduckgo.com/favicon.ico" type="image/x-icon" />
+  <link id="icon60" rel="apple-touch-icon" href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_60x60.png?v=2"/>
+  <link id="icon76" rel="apple-touch-icon" sizes="76x76" href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_76x76.png?v=2"/>
+  <link id="icon120" rel="apple-touch-icon" sizes="120x120" href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_120x120.png?v=2"/>
+  <link id="icon152" rel="apple-touch-icon" sizes="152x152" href="//duckduckgo.com/assets/icons/meta/DDG-iOS-icon_152x152.png?v=2"/>
+  <link rel="image_src" href="//duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png">
+  <link rel="stylesheet" media="handheld, all" href="//duckduckgo.com/dist/h.238c80a7d9b754cfcdd5.css" type="text/css"/>
+</head>
+
+<body class="body--html">
+  <a name="top" id="top"></a>
+
+  <form action="/html/" method="post">
+    <input type="text" name="state_hidden" id="state_hidden" />
+  </form>
+
+  <div>
+    <div class="site-wrapper-border"></div>
+
+    <div id="header" class="header cw header--html">
+      <a title="DuckDuckGo" href="/html/" class="header__logo-wrap"></a>
+
+      <form name="x" class="header__form" action="/html/" method="post">
+        <div class="search search--header">
+          <input name="q" autocomplete="off" class="search__input" id="search_form_input_homepage" type="text" value="Hikvision SDN sanctions 2024 Reuters Treasury" />
+          <input name="b" id="search_button_homepage" class="search__button search__button--html" value="" title="Search" alt="Search" type="submit" />
+        </div>
+
+        
+        
+        
+        
+
+        <div class="frm__select">
+          <select name="kl">
+            
+              <option value="" >All Regions</option>
+            
+              <option value="ar-es" >Argentina</option>
+            
+              <option value="au-en" >Australia</option>
+            
+              <option value="at-de" >Austria</option>
+            
+              <option value="be-fr" >Belgium (fr)</option>
+            
+              <option value="be-nl" >Belgium (nl)</option>
+            
+              <option value="br-pt" >Brazil</option>
+            
+              <option value="bg-bg" >Bulgaria</option>
+            
+              <option value="ca-en" >Canada (en)</option>
+            
+              <option value="ca-fr" >Canada (fr)</option>
+            
+              <option value="ct-ca" >Catalonia</option>
+            
+              <option value="cl-es" >Chile</option>
+            
+              <option value="cn-zh" >China</option>
+            
+              <option value="co-es" >Colombia</option>
+            
+              <option value="hr-hr" >Croatia</option>
+            
+              <option value="cz-cs" >Czech Republic</option>
+            
+              <option value="dk-da" >Denmark</option>
+            
+              <option value="ee-et" >Estonia</option>
+            
+              <option value="fi-fi" >Finland</option>
+            
+              <option value="fr-fr" >France</option>
+            
+              <option value="de-de" >Germany</option>
+            
+              <option value="gr-el" >Greece</option>
+            
+              <option value="hk-tzh" >Hong Kong</option>
+            
+              <option value="hu-hu" >Hungary</option>
+            
+              <option value="is-is" >Iceland</option>
+            
+              <option value="in-en" >India (en)</option>
+            
+              <option value="id-en" >Indonesia (en)</option>
+            
+              <option value="ie-en" >Ireland</option>
+            
+              <option value="il-en" >Israel (en)</option>
+            
+              <option value="it-it" >Italy</option>
+            
+              <option value="jp-jp" >Japan</option>
+            
+              <option value="kr-kr" >Korea</option>
+            
+              <option value="lv-lv" >Latvia</option>
+            
+              <option value="lt-lt" >Lithuania</option>
+            
+              <option value="my-en" >Malaysia (en)</option>
+            
+              <option value="mx-es" >Mexico</option>
+            
+              <option value="nl-nl" >Netherlands</option>
+            
+              <option value="nz-en" >New Zealand</option>
+            
+              <option value="no-no" >Norway</option>
+            
+              <option value="pk-en" >Pakistan (en)</option>
+            
+              <option value="pe-es" >Peru</option>
+            
+              <option value="ph-en" >Philippines (en)</option>
+            
+              <option value="pl-pl" >Poland</option>
+            
+              <option value="pt-pt" >Portugal</option>
+            
+              <option value="ro-ro" >Romania</option>
+            
+              <option value="ru-ru" >Russia</option>
+            
+              <option value="xa-ar" >Saudi Arabia</option>
+            
+              <option value="sg-en" >Singapore</option>
+            
+              <option value="sk-sk" >Slovakia</option>
+            
+              <option value="sl-sl" >Slovenia</option>
+            
+              <option value="za-en" >South Africa</option>
+            
+              <option value="es-ca" >Spain (ca)</option>
+            
+              <option value="es-es" >Spain (es)</option>
+            
+              <option value="se-sv" >Sweden</option>
+            
+              <option value="ch-de" >Switzerland (de)</option>
+            
+              <option value="ch-fr" >Switzerland (fr)</option>
+            
+              <option value="tw-tzh" >Taiwan</option>
+            
+              <option value="th-en" >Thailand (en)</option>
+            
+              <option value="tr-tr" >Turkey</option>
+            
+              <option value="us-en" >US (English)</option>
+            
+              <option value="us-es" >US (Spanish)</option>
+            
+              <option value="ua-uk" >Ukraine</option>
+            
+              <option value="uk-en" >United Kingdom</option>
+            
+              <option value="vn-en" >Vietnam (en)</option>
+            
+          </select>
+        </div>
+
+        <div class="frm__select frm__select--last">
+          <select class="" name="df">
+            
+              <option value="" selected>Any Time</option>
+            
+              <option value="d" >Past Day</option>
+            
+              <option value="w" >Past Week</option>
+            
+              <option value="m" >Past Month</option>
+            
+              <option value="y" >Past Year</option>
+            
+          </select>
+        </div>
+      </form>
+    </div>
+
+    
+
+    
+      <!-- Web results are present -->
+      <div>
+        <div class="serp__results">
+          <div id="links" class="results">
+            
+
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2FDetails.aspx%3Fid%3D30946&amp;rut=6b5e00a90a34003c6856552161717a07e757388573cc489a9def6eedadf55f18">Sanctions List Search</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2FDetails.aspx%3Fid%3D30946&amp;rut=6b5e00a90a34003c6856552161717a07e757388573cc489a9def6eedadf55f18">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/sanctionssearch.ofac.treas.gov.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2FDetails.aspx%3Fid%3D30946&amp;rut=6b5e00a90a34003c6856552161717a07e757388573cc489a9def6eedadf55f18">
+                            sanctionssearch.ofac.treas.gov/Details.aspx?id=30946
+                          </a>
+                          
+                            <span>&nbsp; &nbsp; 2026-07-23T00:00:00.0000000</span>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2FDetails.aspx%3Fid%3D30946&amp;rut=6b5e00a90a34003c6856552161717a07e757388573cc489a9def6eedadf55f18"><b>SDN</b> List last updated on: 7/23/2026 2:06:18 PM Non-<b>SDN</b> List last updated on: 7/17/2026 10:08:19 AM</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2F&amp;rut=3020061ae8c4853bf3b30761db0b03af2480773988e3b3c9069c789c19b18a6a">Sanctions List Search</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2F&amp;rut=3020061ae8c4853bf3b30761db0b03af2480773988e3b3c9069c789c19b18a6a">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/sanctionssearch.ofac.treas.gov.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2F&amp;rut=3020061ae8c4853bf3b30761db0b03af2480773988e3b3c9069c789c19b18a6a">
+                            sanctionssearch.ofac.treas.gov
+                          </a>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fsanctionssearch.ofac.treas.gov%2F&amp;rut=3020061ae8c4853bf3b30761db0b03af2480773988e3b3c9069c789c19b18a6a"><b>Sanctions</b> List Search An error has occured. Reload <b>Sanctions</b> Search Tool</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dservice&amp;rut=d034781891bc3a6a2a06dbeede7a7028570b12f5cb0eb7031167dfc18e9ff2df">Sanctions List Service - Office of Foreign Assets Control</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dservice&amp;rut=d034781891bc3a6a2a06dbeede7a7028570b12f5cb0eb7031167dfc18e9ff2df">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/ofac.treasury.gov.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dservice&amp;rut=d034781891bc3a6a2a06dbeede7a7028570b12f5cb0eb7031167dfc18e9ff2df">
+                            ofac.treasury.gov/sanctions-list-service
+                          </a>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dservice&amp;rut=d034781891bc3a6a2a06dbeede7a7028570b12f5cb0eb7031167dfc18e9ff2df"><b>Sanctions</b> List Service OFAC&#x27;s <b>Sanctions</b> List Service (SLS) provides users with easy access to the most up-to-date <b>Sanctions</b> Lists and <b>Sanctions</b> list data ready for immediate download. Users can choose to download from either the Specially Designated Nationals (<b>SDN</b>) List or the Consolidated (non-<b>SDNs</b>) List.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dsearch%2Dtool&amp;rut=dddb2eb821ad4e466109aa4dde4f11589247c92c1f6065f239e00b48f73e406d">Sanctions List Search Tool - Office of Foreign Assets Control</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dsearch%2Dtool&amp;rut=dddb2eb821ad4e466109aa4dde4f11589247c92c1f6065f239e00b48f73e406d">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/ofac.treasury.gov.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dsearch%2Dtool&amp;rut=dddb2eb821ad4e466109aa4dde4f11589247c92c1f6065f239e00b48f73e406d">
+                            ofac.treasury.gov/sanctions-list-search-tool
+                          </a>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fofac.treasury.gov%2Fsanctions%2Dlist%2Dsearch%2Dtool&amp;rut=dddb2eb821ad4e466109aa4dde4f11589247c92c1f6065f239e00b48f73e406d"><b>Sanctions</b> List Search Tool OFAC&#x27;s <b>Sanctions</b> List Search tool employs fuzzy logic on its name search field to look for potential matches on the Specially Designated Nationals (<b>SDN</b>) List and on its Non-<b>SDN</b> Consolidated <b>Sanctions</b> List.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2Fentities%2FNK%2DHYQpJVFfjnrATqKwpZpit7%2F&amp;rut=32a7301ce1b185544c91836bcd44d10085dfdf433ee2155dcdfc29eb6d1b1bc8">Hangzhou Hikvision Digital Technology Co., Ltd. - OpenSanctions.org</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2Fentities%2FNK%2DHYQpJVFfjnrATqKwpZpit7%2F&amp;rut=32a7301ce1b185544c91836bcd44d10085dfdf433ee2155dcdfc29eb6d1b1bc8">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/www.opensanctions.org.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2Fentities%2FNK%2DHYQpJVFfjnrATqKwpZpit7%2F&amp;rut=32a7301ce1b185544c91836bcd44d10085dfdf433ee2155dcdfc29eb6d1b1bc8">
+                            www.opensanctions.org/entities/NK-HYQpJVFfjnrATqKwpZpit7/
+                          </a>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2Fentities%2FNK%2DHYQpJVFfjnrATqKwpZpit7%2F&amp;rut=32a7301ce1b185544c91836bcd44d10085dfdf433ee2155dcdfc29eb6d1b1bc8">Hangzhou <b>Hikvision</b> Digital Technology Co., Ltd. is a company registered in China, which is sanctioned, debarred and subject to export controls. View the full profile and source data on OpenSanctions.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2F&amp;rut=eda1759df72cefb929aa6a557e9d51aae0a7cd3c5467d00a35a63b2f6cb25a7f">OpenSanctions: The open database of sanctions, PEPs and watchlists</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2F&amp;rut=eda1759df72cefb929aa6a557e9d51aae0a7cd3c5467d00a35a63b2f6cb25a7f">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/www.opensanctions.org.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2F&amp;rut=eda1759df72cefb929aa6a557e9d51aae0a7cd3c5467d00a35a63b2f6cb25a7f">
+                            www.opensanctions.org
+                          </a>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.opensanctions.org%2F&amp;rut=eda1759df72cefb929aa6a557e9d51aae0a7cd3c5467d00a35a63b2f6cb25a7f">The open-source database of <b>sanctions</b>, watchlists, and politically exposed persons — aggregating hundreds of sources and relied on by compliance teams, investigators, and journalists.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fmedia.bis.gov%2Fregulations%2Fear%2Fpart%2D744%2Fsection%2D744.16%2Fentity%2Dlist&amp;rut=e2887e07b21058d85a53d8d50d4ecfec1bdb37f320b57fedc410ebc06aee7fb6">EAR entity-list | Bureau of Industry and Security</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fmedia.bis.gov%2Fregulations%2Fear%2Fpart%2D744%2Fsection%2D744.16%2Fentity%2Dlist&amp;rut=e2887e07b21058d85a53d8d50d4ecfec1bdb37f320b57fedc410ebc06aee7fb6">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/media.bis.gov.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fmedia.bis.gov%2Fregulations%2Fear%2Fpart%2D744%2Fsection%2D744.16%2Fentity%2Dlist&amp;rut=e2887e07b21058d85a53d8d50d4ecfec1bdb37f320b57fedc410ebc06aee7fb6">
+                            media.bis.gov/regulations/ear/part-744/section-744.16/entity-list
+                          </a>
+                          
+                            <span>&nbsp; &nbsp; 2026-07-24T05:45:00.0000000</span>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fmedia.bis.gov%2Fregulations%2Fear%2Fpart%2D744%2Fsection%2D744.16%2Fentity%2Dlist&amp;rut=e2887e07b21058d85a53d8d50d4ecfec1bdb37f320b57fedc410ebc06aee7fb6">Website of the United States Bureau of Industry and Security</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uschina.org%2Farticles%2Fexport%2Dcontrols%2Dand%2Dsanctions%2Dtracker%2F&amp;rut=6de37a3fe4eaf3a9335c71f1b8e7e680544298c9944e7efaf4238196d74a1d73">Export Controls and Sanctions Tracker - US-China Business Council</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uschina.org%2Farticles%2Fexport%2Dcontrols%2Dand%2Dsanctions%2Dtracker%2F&amp;rut=6de37a3fe4eaf3a9335c71f1b8e7e680544298c9944e7efaf4238196d74a1d73">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/www.uschina.org.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uschina.org%2Farticles%2Fexport%2Dcontrols%2Dand%2Dsanctions%2Dtracker%2F&amp;rut=6de37a3fe4eaf3a9335c71f1b8e7e680544298c9944e7efaf4238196d74a1d73">
+                            www.uschina.org/articles/export-controls-and-sanctions-tracker/
+                          </a>
+                          
+                            <span>&nbsp; &nbsp; 2026-06-24T00:00:00.0000000</span>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.uschina.org%2Farticles%2Fexport%2Dcontrols%2Dand%2Dsanctions%2Dtracker%2F&amp;rut=6de37a3fe4eaf3a9335c71f1b8e7e680544298c9944e7efaf4238196d74a1d73">The export controls and <b>sanctions</b> tracker lists all active Commerce, <b>Treasury</b>, and State Department export controls aimed at China—including Hong Kong. This tracker is updated regularly and an archived tab will be added in the future as entities and individuals are removed from US government blacklists.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnas.org%2Fpublications%2Freports%2Fsanctions%2Dby%2Dthe%2Dnumbers%2D2024%2Dyear%2Din%2Dreview&amp;rut=447b59a2aeab8e17939460a4fe679b1be19a3e2ca89abee5dc7417c35516e5fa">Sanctions by the Numbers: 2024 Year in Review | CNAS</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnas.org%2Fpublications%2Freports%2Fsanctions%2Dby%2Dthe%2Dnumbers%2D2024%2Dyear%2Din%2Dreview&amp;rut=447b59a2aeab8e17939460a4fe679b1be19a3e2ca89abee5dc7417c35516e5fa">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/www.cnas.org.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnas.org%2Fpublications%2Freports%2Fsanctions%2Dby%2Dthe%2Dnumbers%2D2024%2Dyear%2Din%2Dreview&amp;rut=447b59a2aeab8e17939460a4fe679b1be19a3e2ca89abee5dc7417c35516e5fa">
+                            www.cnas.org/publications/reports/sanctions-by-the-numbers-2024-year-in-review
+                          </a>
+                          
+                            <span>&nbsp; &nbsp; 2025-03-11T00:00:00.0000000</span>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.cnas.org%2Fpublications%2Freports%2Fsanctions%2Dby%2Dthe%2Dnumbers%2D2024%2Dyear%2Din%2Dreview&amp;rut=447b59a2aeab8e17939460a4fe679b1be19a3e2ca89abee5dc7417c35516e5fa">This installment of <b>Sanctions</b> by the Numbers examines the United States&#x27; use of financial sanctions—through the <b>Treasury</b> Department&#x27;s Specially Designated Nationals and Blocked Persons (<b>SDN</b>) List—and entity-based export controls—via the Commerce Department&#x27;s Entity List—in <b>2024</b>.</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+              
+                <div class="result results_links results_links_deep web-result ">
+                  <div class="links_main links_deep result__body"> <!-- This is the visible part -->
+                    
+                      <h2 class="result__title">
+                        <a rel="nofollow" class="result__a" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Fchinas%2Dhikvision%2Dsays%2Dit%2Dexits%2Dfive%2Dcontracts%2Dxinjiang%2D2024%2D12%2D13%2F&amp;rut=7ba71f1411e563552722e9a506bd4d85613e3c1f41ea2ceb825de314c838a327">China&#x27;s Hikvision says it exits five contracts in Xinjiang | Reuters</a>
+                      </h2>
+
+                    
+
+                    
+                      <div class="result__extras">
+                        <div class="result__extras__url">
+                          <span class="result__icon">
+                            <a rel="nofollow" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Fchinas%2Dhikvision%2Dsays%2Dit%2Dexits%2Dfive%2Dcontracts%2Dxinjiang%2D2024%2D12%2D13%2F&amp;rut=7ba71f1411e563552722e9a506bd4d85613e3c1f41ea2ceb825de314c838a327">
+                              <img class="result__icon__img" width="16" height="16" alt="" src="//external-content.duckduckgo.com/ip3/www.reuters.com.ico" name="i15" />
+                            </a>
+                          </span>
+                          <a class="result__url" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Fchinas%2Dhikvision%2Dsays%2Dit%2Dexits%2Dfive%2Dcontracts%2Dxinjiang%2D2024%2D12%2D13%2F&amp;rut=7ba71f1411e563552722e9a506bd4d85613e3c1f41ea2ceb825de314c838a327">
+                            www.reuters.com/world/china/chinas-hikvision-says-it-exits-five-contracts-xinjiang-2024-12-13/
+                          </a>
+                          
+                            <span>&nbsp; &nbsp; 2024-12-13T15:22:00.0000000</span>
+                          
+                        </div>
+                      </div>
+                    
+
+                    
+                      
+                        <a class="result__snippet" href="//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.reuters.com%2Fworld%2Fchina%2Fchinas%2Dhikvision%2Dsays%2Dit%2Dexits%2Dfive%2Dcontracts%2Dxinjiang%2D2024%2D12%2D13%2F&amp;rut=7ba71f1411e563552722e9a506bd4d85613e3c1f41ea2ceb825de314c838a327">Chinese surveillance camera manufacturer <b>Hikvision</b> said on Friday that it had exited contracts it has in China&#x27;s Xinjiang region via five of its subsidiaries that were added to a U.S. trade block ...</a>
+                      
+                    
+
+                    <div class="clear"></div>
+                  </div>
+                </div>
+              
+            
+
+            
+              
+              
+                <div class="nav-link">
+                  <form action="/html/" method="post">
+                    <input type="submit" class='btn btn--alt' value="Next" />
+                    <input type="hidden" name="q" value="Hikvision SDN sanctions 2024 Reuters Treasury" />
+                    <input type="hidden" name="s" value="10" />
+                    <input type="hidden" name="nextParams" value="" />
+                    <input type="hidden" name="v" value="l" />
+                    <input type="hidden" name="o" value="json" />
+                    <input type="hidden" name="dc" value="11" />
+                    <input type="hidden" name="api" value="d.js" />
+                    <input type="hidden" name="vqd" value="4-68808114492080156712316786883717540134" />
+
+                    
+                    
+                    
+                      <input name="kl" value="wt-wt" type="hidden" />
+                    
+                    
+                    
+                    
+                  </form>
+                </div>
+              
+            
+
+            <div class="feedback-btn">
+              <a rel="nofollow" href="//duckduckgo.com/feedback.html" target="_new">Feedback</a>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div> <!-- links wrapper //-->
+    
+  </div>
+
+  <div id="bottom_spacing2"></div>
+
+  
+    <img src="//duckduckgo.com/t/sl_h"/>
+  
+</body>
+</html>

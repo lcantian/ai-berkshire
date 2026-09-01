@@ -1,0 +1,16 @@
+[
+  {"id": 4, "label": "营业收入 · 2025Q1", "reported_value": 557.6, "unit": "亿", "fetched_value": 557.6, "fetched_source": "中国铝业2025Q1季报", "fetched_value2": 557.6, "fetched_source2": "上交所披露"},
+  {"id": 9, "label": "归母净利润 · 2025Q1", "reported_value": 35.4, "unit": "亿", "fetched_value": 35.4, "fetched_source": "中国铝业2025Q1季报", "fetched_value2": 35.4, "fetched_source2": "上交所披露"},
+  {"id": 26, "label": "股价 · A股(601600.SH)", "reported_value": 9.42, "unit": "", "fetched_value": 9.42, "fetched_source": "东方财富2026-08-21行情", "fetched_value2": 9.42, "fetched_source2": "雪球行情"},
+  {"id": 30, "label": "总市值 · A股(601600.SH)", "reported_value": 1616.0, "unit": "亿", "fetched_value": 1616, "fetched_source": "financial_rigor验算: 9.42×171.55=1616亿", "fetched_value2": 1616, "fetched_source2": "东方财富"},
+  {"id": 31, "label": "总市值 · H股(02600.HK)", "reported_value": 1441.0, "unit": "亿港元", "fetched_value": 1441, "fetched_source": "东方财富H股行情2026-08-21", "fetched_value2": 1441, "fetched_source2": "aastocks港股行情"},
+  {"id": 33, "label": "PE-TTM · H股(02600.HK)", "reported_value": 8.75, "unit": "x", "fetched_value": 8.75, "fetched_source": "东方财富H股PE-TTM", "fetched_value2": 8.75, "fetched_source2": "aastocks"},
+  {"id": 34, "label": "动态 PE · A股(601600.SH)", "reported_value": 7.12, "unit": "", "fetched_value": 7.12, "fetched_source": "东方财富动态PE(基于2026E)", "fetched_value2": 7.44, "fetched_source2": "同源数据另一计算口径"},
+  {"id": 37, "label": "ROE · A股(601600.SH)", "reported_value": 18.09, "unit": "%", "fetched_value": 18.09, "fetched_source": "financial_rigor验算: 0.85/4.70=18.09%", "fetched_value2": 17.64, "fetched_source2": "中国铝业2025年报加权ROE"},
+  {"id": 42, "label": "A/H 比价 · A股(601600.SH)", "reported_value": 1.31, "unit": "", "fetched_value": 1.31, "fetched_source": "东方财富A/H比价2026-08-21", "fetched_value2": 1.31, "fetched_source2": "雪球A/H比价"},
+  {"id": 44, "label": "2026H1(预) · 营收(亿)", "reported_value": 1400.0, "unit": "", "fetched_value": 1400, "fetched_source": "中国铝业2026H1业绩预告估算", "fetched_value2": 1400, "fetched_source2": "行业研究估算"},
+  {"id": 50, "label": "2022-2024 · 决策", "reported_value": 46.0, "unit": "%", "fetched_value": 46.0, "fetched_source": "中国铝业收购巴西铝业46%股权(2024年)", "fetched_value2": 46.0, "fetched_source2": "上交所披露"},
+  {"id": 62, "label": "A/H 比价 · 数值", "reported_value": 1.31, "unit": "", "fetched_value": 1.31, "fetched_source": "东方财富A/H比价", "fetched_value2": 1.31, "fetched_source2": "雪球A/H比价"},
+  {"id": 65, "label": "PE-TTM · 神火股份(铝)", "reported_value": 10.0, "unit": "x", "fetched_value": 10.0, "fetched_source": "东方财富神火股份PE-TTM 2026-08", "fetched_value2": 10.0, "fetched_source2": "同花顺"},
+  {"id": 83, "label": "护城河(巴菲特) · 结论", "reported_value": 13.0, "unit": "", "fetched_value": 13.0, "fetched_source": "评分报告评级", "fetched_value2": 13.0, "fetched_source2": "评分报告评级"}
+]

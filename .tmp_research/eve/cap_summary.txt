@@ -1,0 +1,340 @@
+
+===== [em_product_2024] HTML txt=8 =====
+URL: https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/MainBusinessAjax?type=2&code=SZ300014
+Info: 200|1718|https://emweb.securities.eastmoney.com/PC_HSF10/other.html?type=2&color=b
+﻿ 无F10资料
+--------------------------------------------------------------------------------
+
+[em_product_2025] EXCEPTION: 'NoneType' object has no attribute 'strip'
+
+===== [em_region] HTML txt=8 =====
+URL: https://emweb.securities.eastmoney.com/PC_HSF10/NewFinanceAnalysis/MainBusinessAjax?type=3&code=SZ300014
+Info: 200|1718|https://emweb.securities.eastmoney.com/PC_HSF10/other.html?type=3&color=b
+﻿ 无F10资料
+--------------------------------------------------------------------------------
+
+===== [cninfo_search] JSON =====
+URL: https://www.cninfo.com.cn/new/fulltextSearch/full?searchkey=300014&sdate=2024-01-01&edate=2026-12-31&isfulltext=true&sortName=pubdate&sortType=desc&pageNum=1
+Info: 200|9352|https://www.cninfo.com.cn/new/fulltextSearch/full?searchkey=300014&sdate=2024-01-01&edate=2026-12-31&isfulltext=true&sortName=pubdate&sortType=desc&pageNum=1
+{
+  "classifiedAnnouncements": null,
+  "totalSecurities": 0,
+  "totalAnnouncement": 710,
+  "totalRecordNum": 710,
+  "announcements": [
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225440376",
+      "announcementTitle": "<em>亿纬锂能</em>：关于美国专利诉讼相关事项声明的公告",
+      "announcementTime": 1784883363000,
+      "adjunctUrl": "finalpage/2026-07-24/1225440376.PDF",
+      "adjunctSize": 148,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||012309",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 1证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-102<em>惠州亿纬锂能股份有限公司</em>关于美国专利诉讼相关事项声明的公告近日",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于美国专利诉讼相关事项声明的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225439077",
+      "announcementTitle": "<em>亿纬锂能</em>：关于控股股东部分股份质押的公告",
+      "announcementTime": 1784800347000,
+      "adjunctUrl": "finalpage/2026-07-23/1225439077.PDF",
+      "adjunctSize": 140,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||012307",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 2证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-101<em>惠州亿纬锂能股份有限公司</em>关于控股股东部分股份质押的公告<em>惠州亿纬锂能股份有限公司</em>",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于控股股东部分股份质押的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225434769",
+      "announcementTitle": "<em>亿纬锂能</em>：关于公司董事、高级管理人员增持公司股份计划实施完成的公告",
+      "announcementTime": 1784624666000,
+      "adjunctUrl": "finalpage/2026-07-21/1225434769.PDF",
+      "adjunctSize": 137,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||011501||01230350",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 2证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-100<em>惠州亿纬锂能股份有限公司</em>关于公司董事",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于公司董事、高级管理人员增持公司股份计划实施完成的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225431718",
+      "announcementTitle": "<em>亿纬锂能</em>：关于公司董事、高级管理人员增持公司股份计划的公告",
+      "announcementTime": 1784563200000,
+      "adjunctUrl": "finalpage/2026-07-21/1225431718.PDF",
+      "adjunctSize": 151,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||011501||01230350",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 3证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-099<em>惠州亿纬锂能股份有限公司</em>关于公司董事",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于公司董事、高级管理人员增持公司股份计划的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225433997",
+      "announcementTitle": "<em>亿纬锂能</em>：2026年第二次临时股东会决议公告",
+      "announcementTime": 1784548807000,
+      "adjunctUrl": "finalpage/2026-07-20/1225433997.PDF",
+      "adjunctSize": 142,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||011905",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 3证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-098<em>惠州亿纬锂能股份有限公司</em>",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "2026年第二次临时股东会决议公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225433998",
+      "announcementTitle": "<em>亿纬锂能</em>：2026年第二次临时股东会法律意见书",
+      "announcementTime": 1784548807000,
+      "adjunctUrl": "finalpage/2026-07-20/1225433998.PDF",
+      "adjunctSize": 257,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010901||010112||010115||011999||012903",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "—————————————第 1 页 共 8 页广东伟伦律师事务所关于<em>惠州亿纬锂能股份有限公司</em>2026",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "2026年第二次临时股东会法律意见书",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225427832",
+      "announcementTitle": "<em>亿纬锂能</em>：关于控股股东部分股份质押的公告",
+      "announcementTime": 1784192190000,
+      "adjunctUrl": "finalpage/2026-07-16/1225427832.PDF",
+      "adjunctSize": 138,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||012307",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 2证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-097<em>惠州亿纬锂能股份有限公司</em>关于控股股东部分股份质押的公告<em>惠州亿纬锂能股份有限公司</em>",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于控股股东部分股份质押的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225413937",
+      "announcementTitle": "<em>亿纬锂能</em>：关于子公司完成工商变更登记的公告",
+      "announcementTime": 1783421066000,
+      "adjunctUrl": "finalpage/2026-07-07/1225413937.PDF",
+      "adjunctSize": 142,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||012301",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 2证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-096<em>惠州亿纬锂能股份有限公司</em>关于子公司完成工商变更登记的公告为满足<em>惠州亿纬锂能股份有限公司</em>",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于子公司完成工商变更登记的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225409728",
+      "announcementTitle": "<em>亿纬锂能</em>：第七届董事会第十二次会议决议公告",
+      "announcementTime": 1783094400000,
+      "adjunctUrl": "finalpage/2026-07-04/1225409728.PDF",
+      "adjunctSize": 179,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||01239901",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 5证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-088<em>惠州亿纬锂能股份有限公司</em>第七届董事会第十二次会议决议公告<em>惠州亿纬锂能股份有限公司</em>",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "第七届董事会第十二次会议决议公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    },
+    {
+      "id": null,
+      "secCode": "300014",
+      "secName": "亿纬锂能",
+      "orgId": "9900008311",
+      "announcementId": "1225409727",
+      "announcementTitle": "<em>亿纬锂能</em>：关于减持参股公司股票的公告",
+      "announcementTime": 1783094400000,
+      "adjunctUrl": "finalpage/2026-07-04/1225409727.PDF",
+      "adjunctSize": 178,
+      "adjunctType": "PDF",
+      "storageTime": null,
+      "columnId": "09020202||160203||250301||251302",
+      "pageColumn": "SZCY",
+      "announcementType": "01010503||010112||010115||011501",
+      "associateAnnouncement": null,
+      "important": null,
+      "batchNum": null,
+      "announcementContent": "1 / 4证券代码：<em>300014</em> 证券简称：<em>亿纬锂能</em> 公告编号：2026-092<em>惠州亿纬锂能股份有限公司</em>关于减持参股公司股票的公告重要内容提示",
+      "orgName": null,
+      "tileSecName": "<em>亿纬锂能</em>",
+      "shortTitle": "关于减持参股公司股票的公告",
+      "announcementTypeName": null,
+      "secNameList": null
+    }
+  ],
+  "categoryList": null,
+  "hasMore": true,
+  "totalpages": 71
+}
+--------------------------------------------------------------------------------
+
+===== [eve_capacity_2025] HTML txt=308 =====
+URL: https://www.sohu.com/a/800000000_121124376
+Info: 200|8511|https://www.sohu.com/404.html
+404,您访问的页面已经不存在! 搜狐首页 新闻 体育 汽车 房产 旅游 教育 时尚 科技 财经 娱乐 更多 母婴 健康 历史 军事 美食 文化 星座 社会 游戏 搞笑 动漫 宠物 您访问的页面不见了！ 3 秒后您将 去搜狐首页 设置首页 - 搜狗输入法 - 支付中心 - 搜狐招聘 - 广告服务 - 客服中心 - 联系方式 - 保护隐私权 - About SOHU - 公司介绍 Copyright © 2016 Sohu.com Inc. All Rights Reserved. 搜狐公司 版权所有 违法和不良信息举报电话：86-10-58511234 举报邮箱： jubao@contact.sohu.com
+--------------------------------------------------------------------------------
+
+===== [eve_investor] HTML txt=1853 =====
+URL: https://www.evebattery.com/investor/
+Info: 200|93241|https://www.evebattery.com/investor/
+投资者交流与保护宣传-EVE-亿纬锂能 首页 产品中心 消费电池 锂原电池 小型锂离子电池 圆柱电池 动力电池 方形铁锂电池 方形三元电池 软包三元电池 软包铁锂电池 大圆柱电池 模组 BMS 电池系统 解决方案 物联网解决方案 智能表计 汽车电子 智能安防 智慧城市 消费应用 轻型动力 能源互联网解决方案 乘用车 商业应用 储能 智慧生活 电动工具 清洁工具 园林工具 智能表计 智慧医疗 机器人 智能安防 3C数码 智慧追踪 电子雾化器 汽车电子 智慧城市 绿色出行 乘用车 商用车 轻型动力 eVTOL飞行器 能源转型 电力储能 工商业储能 户用储能 通信储能 数据中心 船港动力 研发与制造 研发实力 前沿技术 消费电池 动力电池 前沿研究 先进制造 质量管理 新闻中心 关于我们 企业简介 联系我们 加入我们 SRM供应商入口 数据交付中心 可持续发展 ESG行动 报告与政策 荣誉与动态 循环回收 投资者关系 售后服务 在线购买 官方商城 选择语言 在线咨询 < 返回主菜单 EN 首页 产品中心 解决方案 研发与制造 研发实力 前沿技术 先进制造 质量管理 新闻中心 关于我们 企业简介 联系我们 加入我们 SRM供应商入口 数据交付中心 可持续发展 ESG行动 报告与政策 荣誉与动态 循环回收 --> --> --> --> --> --> --> --> 投资者关系 在线购买 官方商城 EN 在线咨询 消费电池 锂原电池 小型锂离子电池 圆柱电池 动力电池 方形铁锂电池 方形三元电池 软包三元电池 软包铁锂电池 大圆柱电池 模组 BMS 电池系统 亿纬锂能亮相 OCP China 2026，BBU 全矩阵方案赋能 800V HVDC 算力基建 物联网解决方案 智能表计 汽车电子 智能安防 智慧城市 消费应用 轻型动力 能源互联网解决方案 乘用车 商业应用 储能 亿纬锂能亮相 OCP China 2026，BBU 全矩阵方案赋能 800V HVDC 算力基建 投资者交流与保护宣传 全部 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2024-08-25 亿纬锂能：300014亿纬锂能投资者关系管理信息20240822 点击查看 2024-08-25 亿纬锂能：300014亿纬锂能投资者关系管理信息20240822 点击查看 2024-04-29 亿纬锂能：300014亿纬锂能投资者关系管理信息20240426 点击查看 2024-04-27 亿纬锂能：300014亿纬锂能投资者关系管理信息20240424 点击查看 2024-03-16 亿纬锂能：300014亿纬锂能调研活动信息20240313 点击查看 2023-10-28 亿纬锂能：300014亿纬锂能业绩说明会、路演活动信息20231025 点击查看 2023-10-28 亿纬锂能：300014亿纬锂能参加深交所：跨越成长乘风起-集体交流活动纪要20231025 点击查看 2023-10-28 亿纬锂能：300014亿纬锂能参加深交所：跨越成长乘风起-集体交流活动纪要20231025 点击查看 2022-03-11 亿纬锂能：300014亿纬锂能调研活动信息20220311.pdf 点击查看 2021-08-27 亿纬锂能:300014亿纬锂能调研活动信息20210827 点击查看 << < 1 2 3 > >> 下一页 +86-752-2630809 sales@evebattery.com 广东省惠州市仲恺高新区惠风七路38号 产品中心 消费电池 动力电池 解决方案 智能表计 汽车电子 智能安防 智慧城市 消费应用 轻型动力 乘用车 商业应用 储能 研发与制造 研发实力 前沿技术 先进制造 质量管理 关于我们 企业简介 联系我们 加入我们 SRM供应商入口 新闻中心 售后服务 投资者关系 可持续发展 官方商城 隐私条款 信息安全漏洞上报 版权所有©惠州亿纬锂能股份有限公司 粤ICP备07510384号 粤公网安备 44133002100149号 --> 我已阅读 《隐私政策》 ，同意亿纬锂能为提供服务之目的，收集和处理我的必要个人信息。 为更好地享受集团一体化服务，我同意亿纬锂能在境内子公司范围内共享我的必要个人信息。 支持全球统一的服务体验，我同意亿纬锂能在合法、合规前提下，向境外关联公司跨境传输我必要的个人信息。 接受
+--------------------------------------------------------------------------------
+
+===== [eve_about] HTML txt=991 =====
+URL: https://www.evebattery.com/about-us/company-profile.html
+Info: 404|2452|https://www.evebattery.com/about-us/company-profile.html
+系统发生错误 :( 非法操作:company-profile 错误位置 FILE: /www/wwwroot/evetest.evebattery.com/YongsyCORE/Library/Think/Controller.class.php LINE: 170 TRACE #0 /www/wwwroot/evetest.evebattery.com/YongsyCORE/Library/Think/Controller.class.php(170): E('\xE9\x9D\x9E\xE6\xB3\x95\xE6\x93\x8D\xE4\xBD\x9C:co...') #1 [internal function]: Think\Controller->__call('company-profile', '') #2 /www/wwwroot/evetest.evebattery.com/YongsyCORE/Library/Think/App.class.php(180): ReflectionMethod->invokeArgs(Object(Cn\Controller\EmptyController), Array) #3 /www/wwwroot/evetest.evebattery.com/YongsyCORE/Library/Think/App.class.php(202): Think\App::exec() #4 /www/wwwroot/evetest.evebattery.com/YongsyCORE/Library/Think/Think.class.php(120): Think\App::run() #5 /www/wwwroot/evetest.evebattery.com/YongsyCORE/ThinkPHP.php(97): Think\Think::start() #6 /www/wwwroot/evetest.evebattery.com/index.php(26): require('/www/wwwroot/ev...') #7 {main} ThinkPHP 3.2.3 { Fast & Simple OOP PHP Framework } -- [ WE CAN DO IT JUST THINK ]
+--------------------------------------------------------------------------------
+
+===== [cls_capacity] HTML txt=528 =====
+URL: https://www.cls.cn/detail/800000
+Info: 200|15097|https://www.cls.cn/detail/800000
+财联社7月28日讯，上期所原油期货合约夜盘收涨0.16%，报447.70元人民币/桶。沪金收涨0.65%，沪银收跌1.07%。 很抱歉，当前没有启用javascript，网站无法正常访问。请开启以便继续访问。 关于我们 网站声明 联系方式 用户反馈 网站地图 帮助 首页 电报 话题 盯盘 VIP FM 投研 下载 全部 加红 公司 看盘 港美股 基金 提醒 2021年07月28日 02:30:42 财联社7月28日讯，上期所原油期货合约夜盘收涨0.16%，报447.70元人民币/桶。沪金收涨0.65%，沪银收跌1.07%。 阅 301.81W 关联话题 环球市场情报 16.43W 人关注 期货市场情报 5.86W 人关注 海外大宗商品 3.36W 人关注 关于我们 | 网站声明 | 联系方式 | 用户反馈 | 网站地图 | 友情链接 | 举报电话：021-54679377转617 举报邮箱：editor@cls.cn 财联社 ©2018-2026 上海界面财联社科技股份有限公司 版权所有 沪ICP备14040942号-9 沪公网安备31010402006047号 互联网新闻信息服务许可证：31120170007 沪金信备 [2021] 2号
+--------------------------------------------------------------------------------
+
+[ggli_eve] FAIL no file: 000|0|https://www.gg-lb.com/articeinfo.php?article_id=45000
+
+[battery_china_eve] FAIL no file: 000|0|https://www.battery.com.cn/eve-capacity-2025.html
+
+===== [xueqiu_eve_capacity] HTML txt=34071 =====
+URL: https://xueqiu.com/S/SZ300014
+Info: 200|110310|https://xueqiu.com/S/SZ300014
+{"_waf_bd8ce2ce37":"f9fBA2WlhGk8YX9n+RrhzVwO92VNsdyqA3spfDRTzJo="} 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
+--------------------------------------------------------------------------------
+
+===== [sina_eve_2025] HTML txt=5322 =====
+URL: https://finance.sina.com.cn/realstock/company/sz300014/nc.shtml
+Info: 200|159227|https://finance.sina.com.cn/realstock/company/sz300014/nc.shtml
+亿纬锂能(300014)股票股价,行情,新闻,财报数据_新浪财经_新浪网 易会满发布会首秀 七大主题首次发声 立即查看 更多牛人专家 只在新浪财经app --> 财经首页 | 新浪首页 | 新浪导航 意见反馈 精选股票池 财经首页 股票 基金 港股 美股 期货 外汇 贵金属 债券 大盘 个股 新股 数据 直播 博客 股市汇 自选股 热门行业 金融 地产 环保 券商 食品 有色 水泥 钢铁 煤炭 医药 电力 家电 汽车 农业 纺织 热门题材 核电 页岩气 新三板 铁路基建 传媒 地热能 ST 军工 黄金 选股中心 一周强势股 机构金股 买入评级股 基金重仓股 趋势转升股 短线出击股 资金吸筹股 资金净流入股 主力净流入股 主力连续净流入股 主力尾盘拉升股 大数据选股 新浪财经 > 行情中心 > 亿纬锂能 > 行情 新浪股市雷达 点这里配置 最近访问股 自选股 名称 价格(元) 涨跌幅 以下为热门股票 查看自选股请先 登录 名称 价格(元) 涨跌幅 管理自选股 ^_^ 退出 加入 提醒 在APP中查看 亿纬锂能 (300014.SZ) 问股 @change@ @changeP@ @now@ 涨停：@up_limit@ 跌停：@down_limit@ 停牌 @date@ @time@ 临时停牌 今 开： @open@ 成交量： @volume@ 振 幅： @swing@ 最 高： @high@ 成交额： @amount@ 换手率： @turnover@ 最 低： @low@ 总市值： @totalShare@ --> @fixTotalShare@ 市净率： @pb@ 昨 收： @preClose@ 流通值： @cvs@ 市盈率 TTM ： @pe@ 总股本： @zgb@ 流通股： @ltgb@ 信息地雷： 四大品种期价加速回调 “黑色”商品趋理性 --> 浏览器版本过低，无法查看多空反转 您的浏览器版本过低,无法查看多空数据,建议使用 IE10 (含)以上、 火狐 、 谷歌 走势对比： 大盘指数 上证指数 深证指数 沪深300 比较 分时 日K 周K 月K K线 复权K线 技术图 5分K线 15分K线 30分K线 1月K线 3月K线 90天K线 半年K线 1年K线 2年K线 3年K线 周K线 月K线 日K线 1月K线 3月K线 90天K线 半年K线 1年K线 2年K线 3年K线 MACD TRIX DMI EXPMA BRAR CR VR PSY OBV ASI EMV WVAD RSI W%R KDJ ROC MIKE DMA BOLL BIAS CCI 走势对比： 大盘指数 上证指数 深证指数 沪深300 比较 同时被关注： 五档盘口 名师直播 委比 -- 委差 -- 卖⑤ -- -- 卖④ -- -- 卖③ -- -- 卖② -- -- 卖① -- -- 成交 -- 买① -- -- 买② -- -- 买③ -- -- 买④ -- -- 买⑤ -- -- 外盘 -- 内盘 -- 出现关键大单，主力或在** 快用level2查看详情 > 深挖产业逻辑，掘金行业龙头 A股名师团在线直播答疑 > 逐笔 大单 分价 分时 时间 价(元) 量(--> --> 量(手) 性质 时间 价(元) 量(--> --> 量(手) 性质 @time@ @now@ @volume@ @买卖@ --> 成交价(元) 成交量(股) --> 成交量(手) 占比(%) @now@ @volume@ @ZB@ --> 时间 成交价(元) 成交量(手) @time@ @now@ @volume@ --> --> 扫码订阅 投资研报 问股 股市直播 产品入口： 新浪财经APP-股票-投资研报 产品入口： 新浪财经APP-股票-免费问股 产品入口： 新浪财经APP-股票-免费问股 资金流向 更精准查看主力动向，立即了解 主力罗盘 指标说明 主力、散户资金流向 主力买入 主力卖出 散户买入 散户卖出 金额（万元） @mainIn@ @mainOut@ @retailIn@ @retailOut@ 比例 @mainInP@ @mainOutP@ @retailInP@ @retailOutP@ 散单 小单 大单 特大单 分类资金净流入额 散单 小单 大单 特大单 净流入（万元） @r3_r_in@ @r2_r_in@ @r1_r_in@ @r0_r_in@ 占流通盘比例 @r3_p_svs@ @r2_p_svs@ @r1_p_svs@ @r0_p_svs@ 占换手率比例 @r3_p_turnover@ @r2_p_turnover@ @r1_p_turnover@ @r0_p_turnover@ 更多 公司资讯 (07-13) [置顶] 亿纬锂能维权征集，专业律师团队待命，受损股民.. (07-28) 亿纬锂能获得实用新型专利授权：“防水外壳、电池及用电设.. (07-28) 亿纬锂能获得实用新型专利授权：“箱体、电池及用电设备” (07-28) 亿纬锂能获得实用新型专利授权：“电池包和用电设备” (07-28) 亿纬锂能获得实用新型专利授权：“一种电池包以及用电设备.. (07-28) 亿纬锂能获得实用新型专利授权：“一种电池包箱体及电池包.. (07-28) 亿纬锂能获得实用新型专利授权：“电池箱体及电池包” (07-28) 谷歌们今年要砸7000亿美元，能源链上哪些公司能赚到这.. (07-27) 新能源赛道景气度高企 深市电力设备公司上半年盈利实现高.. (07-27) 宁德时代最高400亿元回购，引爆锂电新周期？华宝基金新.. (07-27) 储能高景气延续！2026H1电芯中标238.4GWh，.. (07-27) “网约车之王”，被困存量电池安全隐忧 更多 研究报告 公司研究 亿纬锂能(300014)：公司26H1净利... 亿纬锂能(300014)2026年上半年业... 亿纬锂能(300014)：26H1业绩预告... 亿纬锂能(300014)：2026年Q2盈... 行业研究 光储行业跟踪：8月中国锂电池排产或环比提升... 电池行业：锂离子电池加征消费税 钠电池产业... 电力设备行业研究周报：6月动力电池装车量稳... 电力设备行业定期报告：锂电池、光伏消费税政... 电新双周报：锂电池消费税落地；第四监管周期... 深度*行业*钠离子电池系列报告之一：储能需... 大V观点 更多 公司号 更多 发表帖子 亿纬锂能股市汇 标题 点击 回复 最后回复 亿纬锂能持有者可以留个关注！有详细报告后 2 0 07-27 11:51 大哥宁德时代400亿回购注销 0 0 07-26 17:34 主力周一该拉涨停了 0 0 07-25 15:03 快跑 74 0 07-25 11:47 能争气点不 79 0 07-23 14:42 亿纬锂能，，具体方向以确定 0 0 07-22 17:30 算了，下跌无量 95 0 07-22 14:20 矿下了 76 0 07-22 13:45 公司应该大额回购 115 0 07-22 13:18 增持价下20个点买 161 0 07-22 11:41 【亿纬锂能：董事刘建华增持0.9301% 0 0 07-21 17:06 你得涨20个点 0 0 07-21 13:42 怎么跟昨天的9 0 0 07-21 13:26 主力给来个涨停 107 0 07-21 09:44 真是垃圾股 277 1 07-20 23:47 【亿纬锂能：董事刘建华拟增持10万股】亿 0 0 07-20 16:19 公司研究 热点数据 更多 主营业务收入(亿元) 净利润(亿元) 每股收益 每股净资产 每股现金含量 每股未分配利润 每股资本公积金 相邻排名 行业前十 财务比率 更多 净资产收益率 主营业务利润率 净利润增长率 毛利率 股东权益比率 现金流量比率 相邻排名 行业前十 研究机构投资评级 更多 最近60天内有个研究报告发布亿纬锂能(sz300014)评级，综合评级如下： 热点栏目 交易提示 操盘必读 大市评论 个股点评 公司公告 研究报告 新股申购 千股千评 资金流向 证券报 行业对比 涨幅 跌幅 振幅 量比 委比 成交量 换手率 市盈率 市净率 资金流入额 资金流入率 名称 价格(元) 展开全部 收起全部 投资工具 数据中心 条件选股 财务对比 个股诊断 --> 行情走势 大单追踪 成交明细 分价统计 持仓分析 融资融券 大宗交易 内部交易 千股千评 公司资料 公司简介 公司高管 所属行业 所属板块 公司章程 证券资料 相关资料 相关证券 所属指数 所属系别 发行分配 分红送配 新股发行 限售解禁 增发 招股说明书 上市公告 股本股东 股本结构 主要股东 流通股东 基金持股 --> 公司公告 最新公告 年报 半年报 一季报 三季报 --> 财务数据 关键指标 利润表 资产负债表 现金流量表 业绩预告 杜邦分析 --> 重大事项 股东大会 诉讼仲裁 违规记录 对外担保 更多 公司概况 公司名称： 惠州亿纬锂能股份有限公司 主营业务： 消费电池(包括锂原电池、小型锂离子电池、三元圆柱电池)和动力... 电 话： 0752-5751928,0752-2605878 传 真： 0752-2606033 成立日期： 2001-12-24 上市日期： 2009-10-30 法人代表： 刘金成 总 经 理： 刘建华 注册资本： 217330万元 发行价格： 18.000元 最新总股本： 217329.6935万股 最新流通股： 211248.5396万股 所属板块： 创业板 深市A股 沪深A股 制造指数 电子指数 深证综指 业绩预升 股权激励 深证成指 创业板指 深股通 深股通 更多 财务摘要 2026-03 2025-12 2025-09 2025-06 2025-03 每股收益 0.6967元 1.9933元 1.3764元 0.7846元 0.5383元 每股净资产 21.0365元 20.2589元 19.3436元 18.8271元 18.7497元 每股经营现金流净额 -0.1761元 3.6122元 2.3971元 1.1598元 0.4361元 净资产收益率 3.31% 9.84% 7.12% 4.17% 2.87% 每股未分配利润 10.0483元 9.3604元 8.8466元 8.4991元 8.8569元 每股资本公积金 9.4890元 9.3635元 9.2412元 9.0931元 8.7922元 更多 分红送配 公告日期 分配方案 2026-05-08 10派2.338元 2025-09-09 10派2.45元 2025-05-12 10派5元 2024-05-14 10派5元 2023-06-10 10派1.6元 更多 流通股东 2026-03 2025-12 2025-09 股东名称 持股(%) 增减 西藏亿纬控股有... 32.268 未变 骆锦红 3.208 未变 香港中央结算有... 2.457 减持 汇安基金－华能... 1.428 未变 刘金成 0.737 新进 中国工商银行股... 0.641 减持 袁中直 0.598 增持 中国工商银行股... 0.515 减持 中国工商银行股... 0.497 减持 中国建设银行股... 0.488 新进 股东名称 持股(%) 增减 西藏亿纬控股有... 32.518 增持 骆锦红 3.233 增持 香港中央结算有... 2.768 增持 汇安基金－华能... 1.439 增持 中国工商银行股... 1.268 减持 中国工商银行股... 1.029 减持 中国建设银行股... 0.733 减持 中国工商银行股... 0.624 减持 袁中直 0.601 新进 中国工商银行股... 0.559 新进 股东名称 持股(%) 增减 西藏亿纬控股有... 32.631 未变 香港中央结算有... 2.627 减持 汇安基金－华能... 1.530 未变 中国工商银行股... 1.445 减持 中国工商银行股... 1.122 减持 刘金成 1.040 未变 骆锦红 1.026 未变 中国建设银行股... 0.812 减持 全国社保基金一... 0.767 增持 中国工商银行股... 0.740 新进 流通股东持股比例 客户服务热线：4001102288 欢迎批评指正 常见问题解答 互联网违法和不良信息举报 新浪财经意见反馈留言板 新浪简介 | About Sina | 广告服务 | 联系我们 | 招聘信息 | 网站律师 | SINA English | 通行证注册 | 产品答疑 新浪公司 版权所有 用户名： 密 码： 记录登录状态一个月 登录 找回密码 登录帮助 还不是新浪会员？ 新用户注册
+--------------------------------------------------------------------------------
+
+===== [cninfo_pdf_2024] HTML txt=33 =====
+URL: http://static.cninfo.com.cn/finalpage/2025-03-28/1219326066.PDF
+Info: 404|548|http://static.cninfo.com.cn/finalpage/2025-03-28/1219326066.PDF
+404 Not Found 404 Not Found nginx
+--------------------------------------------------------------------------------
+
+===== [mr_big_628] HTML txt=28 =====
+URL: https://baijiahao.baidu.com/s?id=1800000000000000000
+Info: 200|1488|https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fid%3D1800000000000000000%26third%3Dbaijiahao%26baijiahao_id%3D1800000000000000000%26wfr%3D%26c_source%3Dkunlun%26c_score%3D0.999000&timestamp=1785199831&signature=6227e85f981359eee60b3d8b0ff8148f
+百度安全验证 网络不给力，请稍后重试 返回首页 问题反馈
+--------------------------------------------------------------------------------
+
+[ces_eve_storage] FAIL no file: 000|0|https://www.ces.cn/eve-storage-2025.html
+
+===== [em_eve_cap] HTML txt=1084 =====
+URL: https://finance.eastmoney.com/a/202503283300000000.html
+Info: 200|48265|https://finance.eastmoney.com/a/202503283300000000.html
+财经 焦点 股票 新股 期指 期权 行情 数据 全球 美股 港股 期货 外汇 银行 基金 理财 债券 直播 股吧 基金吧 博客 财富号 搜索 行情中心 指数 期指 期权 个股 板块 排行 新股 基金 港股 美股 期货 外汇 黄金 自选股 自选基金 数据中心 资金流向 主力排名 板块资金 个股研报 新股申购 转债申购 北交所申购 AH股比价 年报大全 融资融券 龙虎榜 限售解禁 IPO审核 大宗交易 估值分析 首页 > 财经频道 > 正文 小 中 大 --> --> 东方财富APP 方便，快捷 手机查看财经快讯 专业，丰富 一手掌握市场脉搏 手机上阅读文章 提示： 微信扫一扫 分享到您的 朋友圈 举报 东方财富网 分享到微信朋友圈 打开微信， 点击底部的“发现” 使用“扫一扫” 即可将网页分享至朋友圈 扫描二维码关注 东方财富官网微信 沪股通 深股通 港股通(沪) 港股通(深) 热门资讯 长鑫科技今日上市！三大看点值得关注 今日起正式实施！事关内幕交易 530亿流入宽基 再显抄底意图？ 国际资本瞄准中国人工智能 焦点专题 2026年全国两会 党的二十届四中全会 第十二届Choice最佳分析师 “国家队”增持股票 世界人工智能大会 视频 一键关注财经大咖 热点推荐 单周530亿资金流入宽基ETF 创年内次高 再显抄底意图？ 财联社 162 人评论 2026-07-28 东方财富 扫一扫下载APP 东方财富产品 东方财富免费版 东方财富Level-2 东方财富策略版 妙想投研助理 Choice金融终端 证券交易 东方财富证券开户 东方财富在线交易 东方财富证券交易 关注东方财富 东方财富网微博 东方财富网微信 意见与建议 天天基金 扫一扫下载APP 基金交易 基金开户 基金交易 活期宝 基金产品 稳健理财 关注天天基金 天天基金网微博 天天基金网微信 东方财富期货 扫一扫下载APP 期货交易 期货手机开户 期货电脑开户 期货官方网站 信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-61278686 举报邮箱： jubao@eastmoney.com 沪ICP证:沪B2-20070217 网站备案号:沪ICP备05006054号-11 沪公网安备 31010402000120号 版权所有:东方财富网 意见与建议:4000300059/952500 关于我们 可持续发展 广告服务 供应商平台 联系我们 诚聘英才 法律声明 隐私保护 征稿启事 友情链接
+--------------------------------------------------------------------------------

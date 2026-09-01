@@ -1,0 +1,342 @@
+<!doctype html>
+
+  
+<html lang="en">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S7XP9CCX1Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S7XP9CCX1Q');
+</script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="8X4PENuZqwKkIJIFp0SCDgxbIatAVyWS9FipVKtS">
+    <title>Electric Vehicle registrations in Europe: 15 countries, majority of BEV market</title>
+
+
+    <!-- Scripts -->
+    <script src="https://eu-evs.com/js/app.js" defer></script>
+    <!-- jQuery -->
+    <!-- Bootstrap files (jQuery first, then Popper.js, then Bootstrap JS) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+    /// some script
+
+    // jquery ready start
+    $(document).ready(function() {
+    	// jQuery code
+
+    	//////////////////////// Prevent closing from click inside dropdown
+        $(document).on('click', '.dropdown-menu', function (e) {
+          e.stopPropagation();
+        });
+
+        // make it as accordion for smaller screens
+        if ($(window).width() < 992) {
+    	  	$('.dropdown-menu a').click(function(e){
+              if ($(this).attr('class').search("dropdown-toggle")>-1) {
+                  e.preventDefault();
+              }
+    	        if($(this).next('.submenu').length){
+    	        	$(this).next('.submenu').toggle();
+    	        }
+    	        $('.dropdown').on('hide.bs.dropdown', function () {
+    			   $(this).find('.submenu').hide();
+    			})
+    	  	});
+    	}
+    }); // jquery end
+    </script>
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+    <style type="text/css">
+    	@media (min-width: 992px){
+        .dropdown-menu .nav-item a { color: #000 !important; }
+    		.dropdown-menu .dropdown-toggle:after{
+    			border-top: .3em solid transparent;
+    		    border-right: 0;
+    		    border-bottom: .3em solid transparent;
+    		    border-left: .3em solid;
+    		}
+        .navbar-fixed-top .navbar-collapse{
+            max-height:none;
+        }
+    		.dropdown-menu .dropdown-menu{
+    			margin-left:0; margin-right: 0;
+    		}
+    		.dropdown-menu li{
+    			position: relative;
+    		}
+    		.nav-item .submenu{
+    			display: none;
+    			position: absolute;
+    			left:100%; top:-7px;
+    		}
+    		.nav-item .submenu-left{
+    			right:100%; left:auto;
+    		}
+    		.dropdown-menu > li:hover{ background-color: #f3f3f3 }
+    		.dropdown-menu > li:hover > .submenu{
+    			display: block;
+    		}
+    	}
+    </style>
+
+    <!-- Styles -->
+    <!-- <link href="https://eu-evs.com/css/app.css" rel="stylesheet"> -->
+
+</head>
+<body>
+  <div id="app">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-color: #f0f0f0;">
+      <a class="navbar-brand" href="/">
+        EU-EVs
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/latest">Latest <span class="sr-only">(current)</span></a>
+          </li>
+                    <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/bestSellers
+">Best sellers <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/marketShare
+">Market share <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/brandCharts
+">Brands <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/groupCharts
+">Groups <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+          <a class="nav-link" href="https://eu-evs.com/modelCharts
+">Models <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://eu-evs.com/countries">Countries</a>
+          </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+
+        <li class="nav-item">
+          <a class="nav-link" href="https://eu-evs.com/status">Data status</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Premium</a>
+            <ul class="dropdown-menu">
+               <li><a class="dropdown-item" href="https://eu-evs.com/pivot">Daily data for NO/NL/ES</a></li>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumPivot/M">Monthly data</a>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumPivot/Q">Quarterly data</a>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumExportModelsMonthly">Export monthly models data to CSV</a>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumExportBrandsMonthly">Export monthly brands data to CSV</a>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumExportModelsDaily">Export daily models data to CSV</a>
+               <li><a class="dropdown-item" href="https://eu-evs.com/premiumUKEarlyData">Early UK Tesla daily data</a>
+            </ul>
+        </li>
+        <li class="nav-item">
+                    <a class="nav-link" href="/CLASSIC/index-na-2025.html">Classic</a>
+                  </li>
+        				<li class="nav-item">
+					<a class="nav-link" href="https://eu-evs.com/login">Login</a>
+				</li>
+            </ul>
+    </div>
+    </nav>
+    <div class="container-fluid" >
+        <div class="row no-gutters">
+                <div class="col-4 d-flex align-items-stretch">
+          <div class="card bg-light">
+          <br><br>
+          <a href="https://eu-evs.com/modelCharts/TAYCAN/ALL"><img class="img-fluid" src="/img/L-Taycan.jpg" alt="Porsche Taycan"></a>
+          <p style="font-size:11px" align="center">Photo by <a href="https://commons.wikimedia.org/wiki/User:Vauxford">Vauxford</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></p>
+
+          <a href="https://eu-evs.com/modelCharts/AUDI%20E-TRON/ALL"><img class="img-fluid" src="/img/L-Etron.jpg" alt="Audi E-tron"></a>
+          <p style="font-size:11px" align="center">Photo by <a href="https://commons.wikimedia.org/wiki/User:Johannes_Maximilian">Johannes_Maximilian</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></p>
+        </div>
+        </div>
+        <div class="col-4 d-flex align-items-stretch">
+                  <div class="card bg-light" >
+              <div class="card-body" >
+                <table>
+                  <td align="center">
+                    <br>
+                    <h2 style="color:#B22222;text-transform: uppercase;">Track Europe's transition to sustainable transportation with EU-EVs</h2>
+                    <h4 style="text-transform: uppercase;">
+                    <br>This website tracks registrations of battery electric vehicles in 15 European countries
+                    representing major part of the BEV market in Europe
+                    </h4>
+                    <h4>
+                                                            <a href="https://eu-evs.com/bestSellers/GB"><img src="img/GB@2x.png" alt="United Kingdom"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/NO"><img src="img/NO@2x.png" alt="Norway"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/NL"><img src="img/NL@2x.png" alt="Netherlands"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/ES"><img src="img/ES@2x.png" alt="Spain"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/SE"><img src="img/SE@2x.png" alt="Sweden"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/DK"><img src="img/DK@2x.png" alt="Denmark"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/DE"><img src="img/DE@2x.png" alt="Germany"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/IT"><img src="img/IT@2x.png" alt="Italy"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/CH"><img src="img/CH@2x.png" alt="Switzerland"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/IE"><img src="img/IE@2x.png" alt="Ireland"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/FI"><img src="img/FI@2x.png" alt="Finland"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/AT"><img src="img/AT@2x.png" alt="Austria"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/PT"><img src="img/PT@2x.png" alt="Portugal"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/FR"><img src="img/FR@2x.png" alt="France"></a>
+                                                                                <a href="https://eu-evs.com/bestSellers/BE"><img src="img/BE@2x.png" alt="Belgium"></a>
+                                                                                                                                                                                    <br><br>
+                    </h4>
+
+                    <h4>
+                    <br>
+                    Find <a href="https://eu-evs.com/bestSellers/NO">bestsellers charts</a>
+                    <br>
+                    See <a href="https://eu-evs.com/marketSharePie/ALL/Brands/Doughnut/">companies dominating</a> the BEV market
+                    <br>
+                    Track the progress of <a href="https://eu-evs.com/brandCharts/TESLA/ALL/YoY-Chart"> different brands</a>
+                    <br>
+                    <br>
+                                        <a href="https://eu-evs.com/register">Register</a> to use bookmarks and subscribe on data updates, or <a href="https://eu-evs.com/login">log in</a> if already registered
+                                        <br>
+                    <a href="https://www.patreon.com/eu_evs">Support</a> this website and get additional features
+                    </h4>
+                    <br>
+                    <h4 style="color:#B22222">What's new:</h4>
+                    <h6 style="color:#B22222">
+                    - French data is back, added Belgium<br>(please read the <a href="https://eu-evs.com/discUK">disclaimer</a> to know about limitations)<br>
+                    </h6>
+                    <br>
+                </td>
+              </table>
+            </div>
+          </div>
+    </div>
+        <div class="col-4 d-flex align-items-stretch">
+      <div class="card bg-light">
+      <br><br>
+      <a href="https://eu-evs.com/modelCharts/MODEL%203/ALL"><img class="img-fluid" src="/img/R-Model3.jpg" alt="Tesla Model 3"></a>
+      <p style="font-size:11px" align="center">Photo by <a href="https://commons.wikimedia.org/wiki/User:Vauxford">Vauxford</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></p>
+      <a href="https://eu-evs.com/modelCharts/KONA/ALL"><img class="img-fluid" src="/img/R-Kona.jpg" alt="Hyundai Kona"></a>
+      <p style="font-size:11px" align="center">Photo by <a href="https://commons.wikimedia.org/wiki/User:Vauxford">Vauxford</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a></p>
+    </div>
+    </div>
+    
+  </div>
+</div>
+  </div>
+    <footer class="bd-footer p-3  mt-5 bg-light text-center text-sm-start">
+    <div class="container">
+      <div class="row">
+      <div class="col">
+        EU-EVs (c) Alex T 2018-2023, all rights reserved
+      </div>
+      </div>
+      <div class="row">
+      <div class="col">
+      <a href="/about">About eu-evs</a>
+      </div>
+      <div class="col">
+      <a href="/terms">Terms of Service</a>
+      </div>
+      <div class="col">
+      <a href="/privacy">Privacy policy</a>
+      </div>
+      <div class="col">
+      <a href = "mailto: webmaster@eu-evs.com">Contact us</a>
+      </div>
+      <div class="col">
+      <a href = "https://www.patreon.com/eu_evs">Support the website</a>
+      </div>
+    </div>
+    </div>
+    </footer>
+<div class="js-cookie-consent cookie-consent fixed bottom-0 inset-x-0 pb-2 z-50">
+    <div class="max-w-7xl mx-auto px-6">
+        <div class="p-4 md:p-2 rounded-lg bg-yellow-100">
+            <div class="flex items-center justify-between flex-wrap">
+                <div class="max-w-full flex-1 items-center md:w-0 md:inline">
+                    <p class="md:ml-3 text-black cookie-consent__message">
+                        Your experience on this site will be improved by allowing cookies.
+                    </p>
+                </div>
+                <div class="mt-2 flex-shrink-0 w-full sm:mt-0 sm:w-auto">
+                    <button class="js-cookie-consent-agree cookie-consent__agree cursor-pointer flex items-center justify-center px-4 py-2 rounded-md text-sm font-medium text-yellow-800 bg-yellow-400 hover:bg-yellow-300">
+                        Allow cookies
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script>
+
+        window.laravelCookieConsent = (function () {
+
+            const COOKIE_VALUE = 1;
+            const COOKIE_DOMAIN = 'eu-evs.com';
+
+            function consentWithCookies() {
+                setCookie('laravel_cookie_consent', COOKIE_VALUE, 7300);
+                hideCookieDialog();
+            }
+
+            function cookieExists(name) {
+                return (document.cookie.split('; ').indexOf(name + '=' + COOKIE_VALUE) !== -1);
+            }
+
+            function hideCookieDialog() {
+                const dialogs = document.getElementsByClassName('js-cookie-consent');
+
+                for (let i = 0; i < dialogs.length; ++i) {
+                    dialogs[i].style.display = 'none';
+                }
+            }
+
+            function setCookie(name, value, expirationInDays) {
+                const date = new Date();
+                date.setTime(date.getTime() + (expirationInDays * 24 * 60 * 60 * 1000));
+                document.cookie = name + '=' + value
+                    + ';expires=' + date.toUTCString()
+                    + ';domain=' + COOKIE_DOMAIN
+                    + ';path=/'
+                    + ';samesite=lax';
+            }
+
+            if (cookieExists('laravel_cookie_consent')) {
+                hideCookieDialog();
+            }
+
+            const buttons = document.getElementsByClassName('js-cookie-consent-agree');
+
+            for (let i = 0; i < buttons.length; ++i) {
+                buttons[i].addEventListener('click', consentWithCookies);
+            }
+
+            return {
+                consentWithCookies: consentWithCookies,
+                hideCookieDialog: hideCookieDialog
+            };
+        })();
+    </script>
+
+</body>
+</html>
+<scripts>
+  </scripts>

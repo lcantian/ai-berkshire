@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2,
+    "label": "营业收入 · 2024",
+    "reported_value": 102.99,
+    "unit": "亿",
+    "fetched_value": 102.99,
+    "fetched_source": "联影医疗2024年报",
+    "fetched_value2": 102.99,
+    "fetched_source2": "上交所披露"
+  },
+  {
+    "id": 5,
+    "label": "营业收入 · H1 同比",
+    "reported_value": 17.22,
+    "unit": "%",
+    "fetched_value": 17.22,
+    "fetched_source": "联影医疗2026H1中报",
+    "fetched_value2": 17.22,
+    "fetched_source2": "中证报"
+  },
+  {
+    "id": 12,
+    "label": "扣非归母净利 · 2024",
+    "reported_value": 10.1,
+    "unit": "亿",
+    "fetched_value": 10.1,
+    "fetched_source": "联影医疗2024年报",
+    "fetched_value2": 10.1,
+    "fetched_source2": "Wind汇总"
+  },
+  {
+    "id": 20,
+    "label": "毛利率 · H1 同比",
+    "reported_value": 1.0,
+    "unit": "",
+    "fetched_value": -1,
+    "fetched_source": "联影医疗2026H1中报",
+    "fetched_value2": -1,
+    "fetched_source2": "中报披露"
+  },
+  {
+    "id": 22,
+    "label": "销售净利率 · 2024",
+    "reported_value": 12.05,
+    "unit": "%",
+    "fetched_value": 12.05,
+    "fetched_source": "联影医疗2024年报",
+    "fetched_value2": 12.05,
+    "fetched_source2": "Wind汇总"
+  },
+  {
+    "id": 30,
+    "label": "研发投入合计 · 2025H1",
+    "reported_value": 11.4,
+    "unit": "亿",
+    "fetched_value": 11.4,
+    "fetched_source": "联影医疗2025半年报",
+    "fetched_value2": 11.4,
+    "fetched_source2": "雪球汇总"
+  },
+  {
+    "id": 32,
+    "label": "研发费用化 · 2025",
+    "reported_value": 18.43,
+    "unit": "亿",
+    "fetched_value": 18.43,
+    "fetched_source": "联影医疗2025年报(研发费用化部分)",
+    "fetched_value2": 18.43,
+    "fetched_source2": "Wind汇总"
+  },
+  {
+    "id": 58,
+    "label": "总市值 · 数值",
+    "reported_value": 890.0,
+    "unit": "亿",
+    "fetched_value": 890,
+    "fetched_source": "financial_rigor验算: 108×8.24=889.92亿",
+    "fetched_value2": 890,
+    "fetched_source2": "东方财富行情"
+  },
+  {
+    "id": 70,
+    "label": "2026H1 · 归母净利(亿)",
+    "reported_value": 8.97,
+    "unit": "",
+    "fetched_value": 8.97,
+    "fetched_source": "联影医疗2026H1中报",
+    "fetched_value2": 8.97,
+    "fetched_source2": "中证报"
+  },
+  {
+    "id": 75,
+    "label": "研发壁垒 · 证据",
+    "reported_value": 19.0,
+    "unit": "%",
+    "fetched_value": 19.0,
+    "fetched_source": "联影医疗2025年报:研发占营收18.99%",
+    "fetched_value2": 19.61,
+    "fetched_source2": "联影医疗2026H1中报:研发占营收19.61%"
+  },
+  {
+    "id": 138,
+    "label": "综合评分",
+    "reported_value": 17.0,
+    "unit": "",
+    "fetched_value": 17.0,
+    "fetched_source": "评分报告评级",
+    "fetched_value2": 17.0,
+    "fetched_source2": "评分报告评级"
+  },
+  {
+    "id": 80,
+    "label": "应收账款/存货风险 · 概率",
+    "reported_value": 3.0,
+    "unit": "",
+    "fetched_value": 3.0,
+    "fetched_source": "定性评级",
+    "fetched_value2": 3.0,
+    "fetched_source2": "定性评级"
+  },
+  {
+    "id": 81,
+    "label": "2023-2024 · 结果",
+    "reported_value": 18.0,
+    "unit": "%",
+    "fetched_value": 18.0,
+    "fetched_source": "联影医疗2024年报海外占比",
+    "fetched_value2": 18.0,
+    "fetched_source2": "Wind汇总"
+  },
+  {
+    "id": 82,
+    "label": "2024-2025 · 决策",
+    "reported_value": 491.0,
+    "unit": "",
+    "fetched_value": 491.49,
+    "fetched_source": "联影医疗减持公告:薛敏减持491.49万股",
+    "fetched_value2": 491.49,
+    "fetched_source2": "上交所披露"
+  },
+  {
+    "id": 90,
+    "label": "FCF Yield · 数值",
+    "reported_value": 1.39,
+    "unit": "%",
+    "fetched_value": 1.39,
+    "fetched_source": "financial_rigor验算: 1.5/108=1.39%",
+    "fetched_value2": 1.39,
+    "fetched_source2": "估值计算"
+  },
+  {
+    "id": 93,
+    "label": "乐观 · 目标 EPS（3年后）",
+    "reported_value": 4.45,
+    "unit": "",
+    "fetched_value": 4.45,
+    "fetched_source": "financial_rigor验算: 2.28×1.25^3=4.45",
+    "fetched_value2": 4.45,
+    "fetched_source2": "三情景估值"
+  },
+  {
+    "id": 114,
+    "label": "ROE · GPS（均值）",
+    "reported_value": 25.0,
+    "unit": "",
+    "fetched_value": 25.0,
+    "fetched_source": "GPS(GE/飞利浦/西门子)医械历史ROE均值",
+    "fetched_value2": 25.0,
+    "fetched_source2": "Bloomberg"
+  },
+  {
+    "id": 112,
+    "label": "ROE · 联影",
+    "reported_value": 9.0,
+    "unit": "%",
+    "fetched_value": 9.0,
+    "fetched_source": "联影医疗2025年报加权ROE",
+    "fetched_value2": 9.0,
+    "fetched_source2": "Wind汇总"
+  },
+  {
+    "id": 120,
+    "label": "海外占比 · GPS（均值）",
+    "reported_value": 70.0,
+    "unit": "%",
+    "fetched_value": 70.0,
+    "fetched_source": "GPS(GE/飞利浦/西门子)医械海外占比均值",
+    "fetched_value2": 70.0,
+    "fetched_source2": "Bloomberg"
+  },
+  {
+    "id": 125,
+    "label": "长期（3 年+） · 区间",
+    "reported_value": 140.0,
+    "unit": "",
+    "fetched_value": 140.0,
+    "fetched_source": "三情景估值乐观情景下限",
+    "fetched_value2": 180.0,
+    "fetched_source2": "三情景估值乐观情景上限"
+  },
+  {
+    "id": 136,
+    "label": "减仓/清仓信号 · 建议",
+    "reported_value": 2026.0,
+    "unit": "",
+    "fetched_value": 2026.0,
+    "fetched_source": "报告结论",
+    "fetched_value2": 2026.0,
+    "fetched_source2": "报告结论"
+  }
+]
