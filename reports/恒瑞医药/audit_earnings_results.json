@@ -1,0 +1,15 @@
+[
+  {"id": 4, "label": "利润总额 · 2025 H1", "reported_value": 50.51, "unit": "亿元", "fetched_value": 50.51, "fetched_source": "恒瑞2026中报PDF P6", "fetched_value2": 50.51, "fetched_source2": "financial_rigor验算"},
+  {"id": 5, "label": "归母净利润 · 2026 H1", "reported_value": 44.65, "unit": "亿元", "fetched_value": 44.65, "fetched_source": "恒瑞2026中报PDF P6", "fetched_value2": 44.65, "fetched_source2": "financial_rigor验算"},
+  {"id": 12, "label": "扣非基本EPS · 2025 H1", "reported_value": 0.67, "unit": "", "fetched_value": 0.67, "fetched_source": "恒瑞2026中报PDF P6", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 14, "label": "加权平均ROE · 2025 H1", "reported_value": 9.42, "unit": "%", "fetched_value": 9.42, "fetched_source": "恒瑞2026中报PDF P6", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 15, "label": "扣非加权平均ROE · 2026 H1", "reported_value": 6.71, "unit": "%", "fetched_value": 6.71, "fetched_source": "恒瑞2026中报PDF P6", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 18, "label": "剔除股权激励影响后净利 · 2025 H1", "reported_value": 45.55, "unit": "亿元", "fetched_value": 45.55, "fetched_source": "恒瑞2026中报PDF P7", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 29, "label": "经营活动现金流量净额 · 2026 H1", "reported_value": 19.87, "unit": "亿元", "fetched_value": 19.87, "fetched_source": "恒瑞2026中报PDF P80", "fetched_value2": 19.87, "fetched_source2": "financial_rigor验算"},
+  {"id": 32, "label": "购建固定资产、无形资产支付 · 2025 H1", "reported_value": 12.68, "unit": "亿元", "fetched_value": 12.68, "fetched_source": "恒瑞2026中报PDF P80", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 36, "label": "分配股利支付 · 2025 H1", "reported_value": 12.74, "unit": "亿元", "fetched_value": 12.74, "fetched_source": "恒瑞2026中报PDF P80", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 55, "label": "Q4：员工成本+13.2% · 数据点", "reported_value": 9134.0, "unit": "", "fetched_value": 9134, "fetched_source": "前期研究报告（2024年口径）", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 70, "label": "强烈买入 · 触发条件", "reported_value": 2026.0, "unit": "", "fetched_value": 2026, "fetched_source": "本研究估值框架", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 82, "label": "PB", "reported_value": 4.42, "unit": "x", "fetched_value": 4.42, "fetched_source": "financial_rigor验算", "fetched_value2": null, "fetched_source2": ""},
+  {"id": 84, "label": "FCF Yield", "reported_value": 0.70, "unit": "%", "fetched_value": 0.70, "fetched_source": "financial_rigor验算", "fetched_value2": null, "fetched_source2": ""}
+]
