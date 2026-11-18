@@ -46,3 +46,11 @@ data/fb_*.json
 data/sm_*.json
 data/app_*.json
 data/appliance_*.json
+
+# ===== 临时抓取目录与脚本（各报告生成过程中的中间产物，永不入库）=====
+.tmp_*/
+tmp_scratch/
+reports/**/.tmp_*/
+reports/**/data/
+/f[0-9]*.py
+/anns*.py
